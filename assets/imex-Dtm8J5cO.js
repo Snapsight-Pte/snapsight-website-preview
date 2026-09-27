@@ -1,1 +1,0 @@
-import{n as e}from"./index-DqolUVWk.js";const s=[["circle",{cx:"12",cy:"8",r:"5",key:"1hypcn"}],["path",{d:"M20 21a8 8 0 0 0-16 0",key:"rfgkzh"}]],c=e("user-round",s),r="/snapsight-website-preview/assets/imex-BrfoOdCZ.svg";export{c as U,r as i};

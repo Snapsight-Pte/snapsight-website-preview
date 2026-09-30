@@ -1,0 +1,1 @@
+const e=[.22,1,.36,1],t=[.45,0,.2,1],o=(s=0,a=.6)=>({duration:a,ease:e,delay:s}),c=(s=0,a=.45)=>({duration:a,ease:t,delay:s}),n={duration:.2,ease:e},A={initial:{opacity:0,scale:.06},animate:{opacity:1,scale:1}},E=.13,i=6e3;export{i as A,e as E,n as H,E as S,A as T,t as a,o as e,c as m};

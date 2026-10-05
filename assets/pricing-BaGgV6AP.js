@@ -1,1 +1,0 @@
-const e={textLanguageLimit:10,sessionHours:2,free:{price:0},engage:{price:199,rooms:10,days:7},individualEngage:{monthlyPrice:19},pro:{price:149,remixCredits:5},packs:[{sessions:10,price:1190,perSession:119,remixCredits:50},{sessions:50,price:4750,perSession:95,remixCredits:250}],packValidityMonths:12,voice:{perLanguageSession:10}};export{e as P};

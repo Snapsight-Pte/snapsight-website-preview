@@ -17,16 +17,18 @@ SOC 2 Type II · ISO 27001 · GDPR · Used at 5,000+ events in 20+ countries
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions

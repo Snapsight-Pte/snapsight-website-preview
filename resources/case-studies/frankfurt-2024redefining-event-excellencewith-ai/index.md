@@ -66,23 +66,17 @@ Real screens · the IMEX Events app and an Idea Cloud from IMEX Frankfurt 2024
 
 [More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
+The Meetings Show APAC 2024
 
 ### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
 
-Takeaways · Remix
+Informa Tech · ATxEnterprise 2024
 
-The Meetings Show 2025 Trade show · ExCeL London
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+Tech Week Singapore 2024
 
-Takeaways · Translate
-
-IMEX America 2024 Trade show · Las Vegas
-
-### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
-
-Takeaways
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
 
 ## Run this at your next event.
 

@@ -17,16 +17,18 @@ How Snapsight works: an attendee scans the session QR code and gets live text, t
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -175,7 +177,7 @@ Snapsight is AI software for live events. It listens to each session’s audio f
 
 ### Who is Snapsight for?
 
-Event organisers of every kind: trade shows and exhibitions, conferences and congresses, associations, corporate summits, community events and festivals. Agencies, PCOs and AV companies resell it or run it under their own brand for clients. Published stories include IMEX, ICCA, The Meetings Show, Economist Impact, UFI and London Community Week.
+Event organisers of every kind: trade shows and exhibitions, conferences and congresses, associations, corporate summits, community events and festivals. Agencies, PCOs and AV companies resell it or run it under their own brand for clients. Published stories include Economist Impact, Informa Tech’s ATxEnterprise, Tech Week Singapore, ARC APAC Summit and London Community Week.
 
 ### Is Snapsight free to use at an event?
 
@@ -199,7 +201,7 @@ Snapsight never trains AI models on your content, and your data, including the I
 
 ### Can we try Snapsight before our event?
 
-Yes. Open a real IMEX session on the experience page with no form, start free with live text on one of your own sessions, or ask Snapsight to test it live with your speaker in the languages your audience needs.
+Yes. Open a real event session on the experience page with no form, start free with live text on one of your own sessions, or ask Snapsight to test it live with your speaker in the languages your audience needs.
 
 ---
 

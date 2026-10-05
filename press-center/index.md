@@ -124,7 +124,7 @@ Freeman launched Key Takeaways for live events, powered by Snapsight, in Februar
 
 ### Can I see Snapsight working at an event?
 
-Yes. Open a real IMEX Frankfurt 2025 session on the experience page, or book a demo with the team.
+Yes. Open a real event session on the experience page, or book a demo with the team.
 
 ---
 

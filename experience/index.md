@@ -1,6 +1,6 @@
 ---
 title: "Live Translation Demo: Try a Real Event Session | Snapsight"
-description: "Open a real IMEX session on your phone: live text, takeaways, Idea Cloud and summary, in your language. Switch between reading and listening. No form, no app."
+description: "Open a real event session on your phone: live text, takeaways, Idea Cloud and summary, in your language. Switch between reading and listening. No form, no app."
 canonical: https://www.snapsight.com/snapsight-website-preview/experience
 updated: 2026-10-05
 ---
@@ -9,7 +9,7 @@ Try Snapsight
 
 # See what attendees see.
 
-Open a real IMEX session on your phone. No form, no app.
+Open a real event session on your phone. No form, no app.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event) [Open the real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways)
 
@@ -47,7 +47,7 @@ Read a real session now, or test your own speaker with us.
 
 We run it live with you, in the languages your audience needs.
 
-[Open the IMEX session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways) [Book a live test](https://www.snapsight.com/snapsight-website-preview/contact?interest=translation)
+[Open a real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways) [Book a live test](https://www.snapsight.com/snapsight-website-preview/contact?interest=translation)
 
 Real session · ICCA Mediterranean and France-Benelux chapter meeting · takeaways in French
 
@@ -79,7 +79,7 @@ Let’s see what Snapsight could do for the event you’re planning.
 
 ### Can I try Snapsight without booking a demo?
 
-Yes. The experience page opens a real IMEX Frankfurt 2025 session on your phone with no form and no app: live text, takeaways, Idea Cloud and summary, in the language you pick.
+Yes. The experience page opens a real event session on your phone with no form and no app: live text, takeaways, Idea Cloud and summary, in the language you pick.
 
 ### Is this a real session?
 

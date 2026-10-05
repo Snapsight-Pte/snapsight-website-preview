@@ -74,23 +74,17 @@ The Meetings Show APAC 2024 · a still from the published story’s video, and t
 
 [More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-IMEX Frankfurt 2024 Trade show · Frankfurt
+IMEX Frankfurt 2024
 
 ### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
 
-Takeaways · Remix
+Informa Tech · ATxEnterprise 2024
 
-The Meetings Show 2025 Trade show · ExCeL London
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+Tech Week Singapore 2024
 
-Takeaways · Translate
-
-IMEX America 2024 Trade show · Las Vegas
-
-### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
-
-Takeaways
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
 
 ## Run this at your next event.
 

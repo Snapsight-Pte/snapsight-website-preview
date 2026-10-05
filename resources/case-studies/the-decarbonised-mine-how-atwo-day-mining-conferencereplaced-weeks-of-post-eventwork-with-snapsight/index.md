@@ -60,23 +60,17 @@ The Decarbonised Mine · from the published story
 
 [More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-AI Innovation Asia 2024 Conference · Pan Pacific Singapore
+Economist Impact · AI Innovation Asia 2024
 
 ### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-Takeaways · Translate
-
-ARC APAC Summit 2025 Conference · Melbourne
+Sheba Medical Center · ARC APAC Summit 2025
 
 ### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
 
-Takeaways
-
-WiT Japan & North Asia 2024 Conference · Tokyo
+WiT Japan & North Asia 2024
 
 ### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
-
-Takeaways
 
 ## Run this at your next event.
 

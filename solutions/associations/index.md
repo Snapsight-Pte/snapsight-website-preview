@@ -1,6 +1,6 @@
 ---
 title: "AI for Association Conferences | Snapsight"
-description: "Live takeaways in your conference app, a report for members afterwards, and a setup one volunteer can run. As used by ICCA, ASAE, UFI, CityDNA and BEIA."
+description: "Live takeaways in your conference app, a report for members afterwards, and a setup one volunteer can run. As used by AICPA & CIMA, FIP and CityDNA."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/associations
 updated: 2026-10-05
 ---
@@ -9,13 +9,13 @@ AI for association conferences
 
 # Every session at your congress, kept and shared with your members.
 
-Live takeaways in your app and a report afterwards, as run by ICCA, PCMA, ASAE and UFI.
+Live takeaways in your app and a report afterwards, as run for FIP, AICPA & CIMA and CityDNA.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=associations) [Start with free translation](https://www.snapsight.com/signup)
 
-![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-V60WAWt0.webp)
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp)
 
-**60+** sessions summarised[ICCA Congress 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi)
+**65%** of attendees used Snapsight[CityDNA International Conference 2025](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
 
 1 / 3
 
@@ -75,7 +75,7 @@ of attendees used it: 2,000 of 5,000
 
 languages for every takeaway
 
-[Read the PCMA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights) [All six association stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=association-event)
+[Read the PCMA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights) [All six association stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=association-event)
 
 ## A report for your attendees, another for your planning.
 
@@ -114,9 +114,9 @@ Real Remix output from Association Focus @ IMEX Frankfurt 2025, the ASAE AI Summ
 
 At ASAE, 61 speakers made 184 speaker cards.
 
-## No staff to spare on the day? One volunteer ran it for BEIA.
+## No staff to spare on the day? One volunteer can run it.
 
-BEIA and CityDNA captured every session with no one spare to do it.
+CityDNA and BEIA captured every session with no one spare to do it.
 
 ### BEIA Conference & AGM 2024
 
@@ -162,27 +162,27 @@ Tell us about your programme, your app and your team, and we’ll take you throu
 
 ### How do we give members who couldn’t attend the content from our congress?
 
-Capture every session with Snapsight and share the takeaways, summaries and a post-event report afterwards. ICCA sent attendees a full report built from the live sessions of its 2024 congress. Remix drafts more formats from the same sessions, such as a member newsletter or a one-pager.
+Capture every session with Snapsight and share the takeaways, summaries and a post-event report afterwards. AICPA & CIMA had Snapsight draft the report of a two-day advisory group meeting, and ICCA sent attendees a full report built from its 2024 congress. Remix drafts more formats from the same sessions, such as a member newsletter or a one-pager.
 
 ### Can the takeaways sit inside our conference app?
 
-Yes. UFI’s own tech team added them to its conference app with no code, and ICCA ran them in its app. Or use a QR code and a link that opens in the browser.
+Yes. FIP put them in its congress app for every presentation, and UFI’s own tech team added them to its app with no code. Or use a QR code and a link that opens in the browser.
 
 ### We’re a small team. Who runs it on the day?
 
-At BEIA, one volunteer ran it after a 15-minute test at home. CityDNA’s organising team of four captured 15+ sessions with no one monitoring.
+CityDNA’s organising team of four captured 15+ sessions with no one monitoring. At BEIA, one volunteer ran it after a 15-minute test at home.
 
 ### Will attendees actually use it?
 
-40% of PCMA Convening Leaders attendees did, and 60%+ at ICCA Congress engaged with it in the app. CityDNA printed the QR code on every badge and reached 65%.
+CityDNA printed the QR code on every badge and reached 65% of attendees. 40% of PCMA Convening Leaders attendees used it, and 60%+ at ICCA Congress engaged with it in the app.
 
 ### What do we get after the conference?
 
-A report built from the sessions. ICCA sent one to attendees, and UFI uses its report, with sentiment analysis, in strategic planning. Remix drafts more formats from the same sessions.
+A report built from the sessions. CityDNA’s team saved hours, maybe days, of post-event work, and UFI uses its report, with sentiment analysis, in strategic planning. Remix drafts more formats from the same sessions.
 
 ### Can members follow in their own language?
 
-Yes. PCMA ran takeaways in seven languages. Live text translation is free in up to 10 of 99 languages per session.
+Yes. CityDNA ran live multilingual translation across 15+ sessions, and PCMA ran takeaways in seven languages. Live text translation is free in up to 10 of 99 languages per session.
 
 ### Do you offer association or nonprofit pricing?
 

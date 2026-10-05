@@ -65,23 +65,17 @@ Festival of Curiosity · from the published story
 
 [More on community events](https://www.snapsight.com/snapsight-website-preview/solutions/community-events) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show 2025 Trade show · ExCeL London
+Economist Impact · AI Innovation Asia 2024
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-The Decarbonised Mine Conference · Perth
+The Decarbonised Mine
 
 ### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
 
-Takeaways · Remix
+CityDNA International Conference 2025
+
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
 
 ## Run this at your next event.
 

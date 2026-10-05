@@ -116,7 +116,7 @@ No. They scan the QR code or open the session link in their phone’s browser, t
 
 ### Who runs Snapsight on the day?
 
-Your AV team connects the feed and puts up the QR code, and Snapsight’s team checks the feed, languages and attendee access with you before doors open. At IMEX America, 91% of 154 sessions ran autonomously.
+Your AV team connects the feed and puts up the QR code, and Snapsight’s team checks the feed, languages and attendee access with you before doors open. CityDNA captured 15+ sessions with no one monitoring them.
 
 ### How long does setup take?
 

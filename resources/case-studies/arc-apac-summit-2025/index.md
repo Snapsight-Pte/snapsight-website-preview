@@ -63,23 +63,17 @@ ARC APAC Summit 2025 · from the published story
 
 [More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Decarbonised Mine Conference · Perth
-
-### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
-
-Takeaways · Remix
-
-AI Innovation Asia 2024 Conference · Pan Pacific Singapore
+Economist Impact · AI Innovation Asia 2024
 
 ### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-Takeaways · Translate
+The Decarbonised Mine
 
-WiT Japan & North Asia 2024 Conference · Tokyo
+### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
+
+WiT Japan & North Asia 2024
 
 ### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
-
-Takeaways
 
 ## Run this at your next event.
 

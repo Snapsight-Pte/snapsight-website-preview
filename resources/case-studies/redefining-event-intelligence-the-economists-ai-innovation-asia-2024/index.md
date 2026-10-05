@@ -62,23 +62,17 @@ AI Innovation Asia 2024 · from the published story
 
 [More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Decarbonised Mine Conference · Perth
-
-### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
-
-Takeaways · Remix
-
-ARC APAC Summit 2025 Conference · Melbourne
+Sheba Medical Center · ARC APAC Summit 2025
 
 ### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
 
-Takeaways
+The Decarbonised Mine
 
-WiT Japan & North Asia 2024 Conference · Tokyo
+### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
+
+WiT Japan & North Asia 2024
 
 ### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
-
-Takeaways
 
 ## Run this at your next event.
 

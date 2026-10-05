@@ -1,6 +1,6 @@
 ---
 title: "AI for Conferences & Congresses | Snapsight"
-description: "A summary of every session by QR code as it ends, live translation in each talk, and post-event reports in days. As run at ICCA Congress and Economist Impact."
+description: "A summary of every session by QR code as it ends, live translation in each talk, and post-event reports in days. As run at Economist Impact and ARC APAC Summit."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/conferences
 updated: 2026-10-05
 ---
@@ -91,7 +91,7 @@ Economist Impact put a summary of every session one scan away, with real-time tr
 
 executives, corporate leaders and AI professionals
 
-[Read the Economist Impact story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024) [All four conference stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=conference)
+[Read the Economist Impact story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024) [All four conference stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=conference)
 
 ## One programme, every attendee’s language.
 
@@ -189,7 +189,7 @@ Yes. Each room needs one audio feed and one QR code, and the $199 Engage event p
 
 ### Can attendees follow in their own language?
 
-Yes, in 99 languages, each attendee on their own phone. Reading along is free; listening costs $10 per language, per session. The 64th ICCA Congress offered it to 1,514 delegates from 81 countries, through the language menu in the ICCA app.
+Yes, in 99 languages, each attendee on their own phone. Reading along is free; listening costs $10 per language, per session. At FIP’s 2025 World Congress, attendees could open real-time translations of every congress presentation in the FIP Congress App.
 
 ### Can we get a report on just one track?
 

@@ -29,16 +29,18 @@ Real session · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -93,46 +95,46 @@ On stage, in the foyer or outside a full room. It grows as the talk goes.
 - ![Snapsight Idea Cloud on the stage screens at UNBOUND](https://www.snapsight.com/snapsight-website-preview/assets/venue-led-wall-Cc41OF99.webp)
   
   UNBOUND
+- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
+  
+  All My T Summit
+- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-C10xjsAx.webp)
+  
+  Singapore APEX Business Summit
 - ![Snapsight Idea Cloud on a tablet in front of the stage at UFI European Conference](https://www.snapsight.com/snapsight-website-preview/assets/venue-ufi-tablet-CXdpxkpm.webp)
   
   UFI European Conference
 - ![Snapsight Idea Cloud on the stage screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-jQhn1d3d.webp)
   
   ICCA Congress, Abu Dhabi
-- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
-  
-  All My T Summit
 - ![Snapsight Idea Cloud on the stage screens at IMEX America, Las Vegas](https://www.snapsight.com/snapsight-website-preview/assets/venue-imex-las-vegas-RX6LB86k.webp)
   
   IMEX America, Las Vegas
-- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-C10xjsAx.webp)
-  
-  Singapore APEX Business Summit
 - ![Snapsight Idea Cloud on the stage screens at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/venue-meetings-show-apac-BFS7LtwR.webp)
   
   The Meetings Show Asia Pacific
 
-## Trusted by the teams behind IMEX and The Meetings Show.
+## Trusted by the teams behind Tech Week Singapore and Economist Impact.
 
 Events that run Snapsight see 10x more engagement with their sessions.
+
+**13,773** content views across sessions at Tech Week Singapore 2024
+
+> “They now get AI generated summaries of each of our conference sessions… It enables them to see every single session without actually being there as well.”
+
+![Tech Week Singapore logo](https://www.snapsight.com/snapsight-website-preview/assets/techweek-logo-BWOiTjJf.webp) **Georgie May** CloserStill, Tech Week Singapore
+
+**500** executives with session highlights the same day
+
+> “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
+
+![The Economist logo](https://www.snapsight.com/snapsight-website-preview/assets/the-economist-BVCg5eir.svg) **Organising team** Economist Impact
 
 **491** sessions captured across six IMEX shows
 
 > “I could always get info about sessions I missed. It was delightful and insightful.”
 
 ![IMEX logo](https://www.snapsight.com/snapsight-website-preview/assets/imex-BrfoOdCZ.svg) **Tahira Endean** Head of Events, IMEX
-
-**154** sessions at IMEX America, 91% run autonomously
-
-> “Snapsight lets me maximize my show time.”
-
-![IMEX Group logo](https://www.snapsight.com/snapsight-website-preview/assets/imex-BrfoOdCZ.svg) **Gary Coombs** COO, IMEX Group
-
-**65** sessions at The Meetings Show 2025
-
-> “The highlights of the show for me were the AI elements, including capturing all the sessions by Snapsight.”
-
-![Northstar Meetings Group logo](https://www.snapsight.com/snapsight-website-preview/assets/northstar-C1xH8aAd.svg) **David Blansfield** EVP, Northstar Meetings Group
 
 ## Same talk. Now a partner report.
 
@@ -200,7 +202,7 @@ One audio feed from your sound desk, and the session’s QR code on screen or in
 
 ### Do attendees need an app to see the takeaways?
 
-No. Each session has a link and a QR code that open in the phone’s browser, with the live text, takeaways, Idea Cloud and summary in the language the attendee chooses. Takeaways can also sit inside your event app, as they did in the IMEX, ICCA and UFI apps.
+No. Each session has a link and a QR code that open in the phone’s browser, with the live text, takeaways, Idea Cloud and summary in the language the attendee chooses. Takeaways can also sit inside your event app, as they did in the FIP Congress App at FIP’s 2025 World Congress.
 
 ### Which languages are the takeaways in?
 

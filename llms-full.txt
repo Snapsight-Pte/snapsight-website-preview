@@ -40,16 +40,18 @@ Analizando y traduciendo…
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -249,9 +251,9 @@ Turn on up to 10 per session. Each attendee picks one.
 
 Congresses, trade shows and corporate summits, run by 550+ organisations.
 
-> “The highlights of the show for me were the AI elements, including capturing all the sessions by Snapsight.”
+> “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
 
-**David Blansfield** EVP, Northstar Meetings Group
+**Organising team** Economist Impact, AI Innovation Asia 2024
 
 7
 
@@ -259,9 +261,9 @@ languages for every takeaway at PCMA Convening Leaders 2024. 2,000 of the 5,000 
 
 The Meetings Show, London, read in Spanish
 
-![Snapsight session content on the hanging screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-CO6AZLq3.webp)
+![Idea Clouds and QR codes on the side screens in the ballroom at the Singapore Apex Business Summit 2024](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-BVR_YcIx.webp)
 
-ICCA Congress, Abu Dhabi
+Singapore Apex Business Summit
 
 ![Attendees wearing headphones at a Snapsight session, IMEX Frankfurt](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-listening-BMdz2SDr.webp)
 
@@ -406,27 +408,27 @@ Live captions of every session on attendees’ own phones, in the speaker’s la
 
 The attendee view in Snapsight · live text on their phone
 
-## The speaker talks. Every phone reads along.
+## For those who need it. Useful to the whole room.
 
-About 200 ms from voice to text, on each attendee’s own phone. What was said stays on the page.
+Captions on the phones of those who need them, without singling anyone out.
 
-**Read back at their own pace**
+[Event accessibility](https://www.snapsight.com/snapsight-website-preview/accessibility)
 
-Captions stay on the page, so anyone who looked away can scroll back to what was said.
-
-**Who is talking**
-
-Speaker detection shows who is talking, so a panel reads as a conversation, not one long paragraph.
-
-**Names and acronyms right**
-
-Add speaker names, sponsor brands and acronyms before the session, so they come out right on every phone.
-
-**In their language**
-
-Each attendee can switch the captions to the language they pick, translated as the speaker talks.
+- ### Deaf and hard-of-hearing attendees
+  
+  Live captions on their own phone as the speaker talks, with names and terms right.
+- ### Anyone who follows better by reading
+  
+  Busy halls, fast speakers and note-takers: captions stay on the page, so anyone who looked away can scroll back to what was said.
 
 The Meetings Show, London · a session read in Spanish
+
+- ### Attendees listening in another language
+  
+  The same captions, translated into the language each attendee picks as the speaker talks.
+- ### Remote and hybrid attendees
+  
+  They open the same session link and follow in their language, wherever they are.
 
 ## Captions, subtitles, transcripts. Here’s what each one is.
 
@@ -442,87 +444,74 @@ Live captions, translated captions, voice and transcripts
 | Room-screen captions | The live text shown full screen on a stage display, TV or monitor, for everyone in the room. | Presentation Mode: high contrast, readable at a distance. |
 | Transcript | The full text of the session, to keep and search afterwards. | Transcript and subtitle downloads with Pro, $149 per session. |
 
+Real session text · Henry Coutinho-Mason · IMEX Frankfurt 2025
+
 ## One captioner, one room. AI captions in every room.
 
 Choose per session. Many events need both.
 
 A human captioner, often called CART (Communication Access Realtime Translation), writes every word live and is booked for each session in advance. Book one when an attendee asks for a human captioner, or for a session where every word needs a person’s check.
 
-Snapsight’s AI captions run in every room that has an audio feed, in the speaker’s language or the attendee’s, and reading them is free. They make captions the default for every breakout and side stage, not only the keynote.
+AI captions make captions the default for every breakout and side stage, not only the keynote.
 
 [What CART captioning is, and what it costs](https://www.snapsight.com/en/resources/glossary/cart-services/)
 
-Human captioner (CART) and Snapsight live captions
+### Human captioner (CART)
 
-| | Human captioner (CART) | Snapsight live captions |
-| --- | --- | --- |
-| Who writes them | A trained captioner, live | AI, from the room’s audio feed |
-| Rooms | One captioner or team per room | Every room with an audio feed; Engage covers up to 10 at once |
-| Booking | In advance, per session | Turned on per session, free for every event |
-| Languages | Usually the language spoken on stage | The spoken language, or translated into the attendee’s |
-| Best for | Requested accommodations and sessions that need a human check | Every session, for anyone who follows better by reading |
+A trained captioner writes them live. One captioner or team per room, booked in advance for each session, usually in the language spoken on stage.
+
+Best for requested accommodations and sessions that need a human check.
+
+### Snapsight live captions
+
+AI writes them from the room’s audio feed, in every room that has one; Engage covers up to 10 at once. Turned on per session and free for every event, in the spoken language or translated into the attendee’s.
+
+Best for every session, for anyone who follows better by reading.
 
 ## Three steps before doors open. Then every session is captioned.
 
 We test the feed, languages and attendee access with you first.
 
-1. ![Laptop screen showing a Snapsight live capture session in progress, with Sound Check and Stop buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-C7wpPTQo.webp)
-
-   ### Plug in the room
+1. ### Plug in the room
 
    Your AV team sends the mixer feed to a laptop running Snapsight, with a reliable internet connection.
-2. ![Snapsight QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
-
-   ### Put up one QR code
+2. ### Put up one QR code
 
    On the stage screen, a slide or a badge. Remote attendees get the same link.
-3. ![Snapsight attendee screen showing a keynote as live Spanish text](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-Bqv5Sria.webp)
-
-   ### Attendees read along
+3. ### Attendees read along
 
    On their own phone, in their browser, in the language they pick. No app to download.
+
+![Laptop screen showing a Snapsight live capture session in progress, with Sound Check and Stop buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-C7wpPTQo.webp)
+
+IMEX Frankfurt · Snapsight on the room’s audio feed
 
 ## Clean audio in. Accurate captions out.
 
 Accuracy follows the audio, the accent and the language.
 
-Snapsight’s English transcription is 97% accurate with a direct feed from the venue mixer. Take the feed from the sound desk rather than a room microphone, add names and acronyms as custom vocabulary, and use the sound check to hear it before doors open.
+- ### A direct feed
+  
+  From the sound desk, rather than a room microphone.
+- ### Custom vocabulary
+  
+  Speaker names, sponsor brands, drug names and acronyms, added before the session so they come out right on every phone.
+- ### A sound check
+  
+  Hear the feed before doors open.
 
-**Custom vocabulary**
+**97%** English transcription accuracy, with a direct feed from the venue mixer
 
-Speaker names, sponsor brands, drug names and acronyms, added before the session.
+**~200 ms** From voice to text, on each attendee’s own phone
 
-**Speaker detection**
-
-Panels read as a conversation, with each speaker’s words kept apart.
-
-**Mid-sentence switching**
-
-When a speaker moves between languages, even within a sentence, the captions keep up.
+- ### Speaker detection
+  
+  Panels read as a conversation, not one long paragraph, with each speaker’s words kept apart.
+- ### Mid-sentence switching
+  
+  When a speaker moves between languages, even within a sentence, the captions keep up.
 
 Measured on English sessions with a direct feed from the venue mixer. Accuracy varies with audio quality, accents and language. The attendee view notes that AI-generated content may contain mistakes.
-
-## For those who need it. Useful to the whole room.
-
-Captions on the phones of those who need them, without singling anyone out.
-
-[Event accessibility](https://www.snapsight.com/snapsight-website-preview/accessibility)
-
-**Deaf and hard-of-hearing attendees**
-
-Live captions on their own phone as the speaker talks, with names and terms right.
-
-**Anyone who follows better by reading**
-
-Busy halls, fast speakers and note-takers: the words are there to read.
-
-**Attendees listening in another language**
-
-The same captions, translated into the language each attendee picks.
-
-**Remote and hybrid attendees**
-
-They open the same session link and follow in their language, wherever they are.
 
 ## Live captions are free. Add voice when you need it.
 
@@ -530,19 +519,27 @@ Free for every event, with no trial clock. Prices in USD, before tax.
 
 [See all plans](https://www.snapsight.com/snapsight-website-preview/pricing)
 
-**Free**
+### Free
 
-Live captions and text translation for every event: unlimited sessions and hours, one session live at a time, up to 10 languages per session.
+$0 every event
 
-**Engage · $199 per event**
+Live captions and text translation: unlimited sessions and hours, one session live at a time, up to 10 languages per session.
+
+### Engage
+
+$199 / event
 
 Captions in up to 10 rooms at once, for up to 7 days.
 
-**Voice · $10 per language per session**
+### Voice
+
+$10 per language, per session
 
 Attendees hear the talk in their language, with captions included.
 
-**Pro · $149 per session**
+### Pro
+
+$149 / session
 
 Transcript and subtitle downloads, live takeaways and session summaries.
 
@@ -624,16 +621,18 @@ Real session · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -688,46 +687,46 @@ On stage, in the foyer or outside a full room. It grows as the talk goes.
 - ![Snapsight Idea Cloud on the stage screens at UNBOUND](https://www.snapsight.com/snapsight-website-preview/assets/venue-led-wall-Cc41OF99.webp)
   
   UNBOUND
+- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
+  
+  All My T Summit
+- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-C10xjsAx.webp)
+  
+  Singapore APEX Business Summit
 - ![Snapsight Idea Cloud on a tablet in front of the stage at UFI European Conference](https://www.snapsight.com/snapsight-website-preview/assets/venue-ufi-tablet-CXdpxkpm.webp)
   
   UFI European Conference
 - ![Snapsight Idea Cloud on the stage screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-jQhn1d3d.webp)
   
   ICCA Congress, Abu Dhabi
-- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
-  
-  All My T Summit
 - ![Snapsight Idea Cloud on the stage screens at IMEX America, Las Vegas](https://www.snapsight.com/snapsight-website-preview/assets/venue-imex-las-vegas-RX6LB86k.webp)
   
   IMEX America, Las Vegas
-- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-C10xjsAx.webp)
-  
-  Singapore APEX Business Summit
 - ![Snapsight Idea Cloud on the stage screens at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/venue-meetings-show-apac-BFS7LtwR.webp)
   
   The Meetings Show Asia Pacific
 
-## Trusted by the teams behind IMEX and The Meetings Show.
+## Trusted by the teams behind Tech Week Singapore and Economist Impact.
 
 Events that run Snapsight see 10x more engagement with their sessions.
+
+**13,773** content views across sessions at Tech Week Singapore 2024
+
+> “They now get AI generated summaries of each of our conference sessions… It enables them to see every single session without actually being there as well.”
+
+![Tech Week Singapore logo](https://www.snapsight.com/snapsight-website-preview/assets/techweek-logo-BWOiTjJf.webp) **Georgie May** CloserStill, Tech Week Singapore
+
+**500** executives with session highlights the same day
+
+> “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
+
+![The Economist logo](https://www.snapsight.com/snapsight-website-preview/assets/the-economist-BVCg5eir.svg) **Organising team** Economist Impact
 
 **491** sessions captured across six IMEX shows
 
 > “I could always get info about sessions I missed. It was delightful and insightful.”
 
 ![IMEX logo](https://www.snapsight.com/snapsight-website-preview/assets/imex-BrfoOdCZ.svg) **Tahira Endean** Head of Events, IMEX
-
-**154** sessions at IMEX America, 91% run autonomously
-
-> “Snapsight lets me maximize my show time.”
-
-![IMEX Group logo](https://www.snapsight.com/snapsight-website-preview/assets/imex-BrfoOdCZ.svg) **Gary Coombs** COO, IMEX Group
-
-**65** sessions at The Meetings Show 2025
-
-> “The highlights of the show for me were the AI elements, including capturing all the sessions by Snapsight.”
-
-![Northstar Meetings Group logo](https://www.snapsight.com/snapsight-website-preview/assets/northstar-C1xH8aAd.svg) **David Blansfield** EVP, Northstar Meetings Group
 
 ## Same talk. Now a partner report.
 
@@ -795,7 +794,7 @@ One audio feed from your sound desk, and the session’s QR code on screen or in
 
 ### Do attendees need an app to see the takeaways?
 
-No. Each session has a link and a QR code that open in the phone’s browser, with the live text, takeaways, Idea Cloud and summary in the language the attendee chooses. Takeaways can also sit inside your event app, as they did in the IMEX, ICCA and UFI apps.
+No. Each session has a link and a QR code that open in the phone’s browser, with the live text, takeaways, Idea Cloud and summary in the language the attendee chooses. Takeaways can also sit inside your event app, as they did in the FIP Congress App at FIP’s 2025 World Congress.
 
 ### Which languages are the takeaways in?
 
@@ -945,16 +944,18 @@ organisations
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -964,7 +965,7 @@ Trusted by event teams around the world
 
 ### How do I turn conference sessions into a post-event report?
 
-Capture the sessions with Snapsight, then ask Remix for the report: say who it’s for and what it should cover, such as the themes across every stage with the quotes behind them. Remix drafts it from the sessions you pick, and you ask for changes until it’s right. IMEX Frankfurt 2025’s 47-page report covered everything said on stage.
+Capture the sessions with Snapsight, then ask Remix for the report: say who it’s for and what it should cover, such as the themes across every stage with the quotes behind them. Remix drafts it from the sessions you pick, and you ask for changes until it’s right. Festival of Curiosity’s bilingual reports were generated automatically from its sessions.
 
 ### What can Remix make from event sessions?
 
@@ -1277,7 +1278,7 @@ No. They scan the QR code or open the session link in their phone’s browser, t
 
 ### Who runs Snapsight on the day?
 
-Your AV team connects the feed and puts up the QR code, and Snapsight’s team checks the feed, languages and attendee access with you before doors open. At IMEX America, 91% of 154 sessions ran autonomously.
+Your AV team connects the feed and puts up the QR code, and Snapsight’s team checks the feed, languages and attendee access with you before doors open. CityDNA captured 15+ sessions with no one monitoring them.
 
 ### How long does setup take?
 
@@ -1357,9 +1358,9 @@ One link for the whole event, and one for every session.
 
 Real screens: the session’s QR code and link from IMEX Frankfurt 2025, and a session page in the IMEX Events app at IMEX Frankfurt 2024.
 
-## It already runs inside event apps. IMEX, ICCA and UFI put it in theirs.
+## It already runs inside event apps. Organisers put it in their own.
 
-Summaries in the IMEX Events app. Takeaways in ICCA’s and UFI’s.
+FIP put it in its congress app for every presentation. IMEX, ICCA and UFI put it in theirs.
 
 ![The IMEX Events app menu at IMEX Frankfurt 2024, with Education Summaries between Education and Eating and Drinking](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp)
 
@@ -1373,8 +1374,8 @@ Real screens · the IMEX Events app, IMEX Frankfurt 2024
 >
 > **Nick Dugdale-Moore** · Regional Director – Europe, UFI
 
+- [**FIP World Congress 2025** Real-time translations and key takeaways from all congress presentations, in the FIP Congress App.](https://copenhagen2025.fip.org/snapsight/)
 - [**IMEX Frankfurt 2024** Summaries and Idea Clouds for 150+ education sessions, in the IMEX Events app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-- [**ICCA Congress 2024** Over 60% of attendees engaged with the content through ICCA’s app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
 - [**UFI European Conference 2024** UFI’s tech team added takeaways to its conference app themselves, with no code.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
 
 ## Online and hybrid sessions on Zoom, Teams and Google Meet.
@@ -1471,11 +1472,11 @@ Or start free and try a session link in your own app.
 
 ### Can Snapsight work inside Cvent, Swapcard or our event app?
 
-Yes. Snapsight works inside any event app that can embed a web page or open a link, including Swapcard, Cvent, Bizzabo, Whova, Grip, Brella, EventsAir, Hubilo, EventMobi and Stova. IMEX, ICCA and UFI have run it inside their own apps.
+Yes. Snapsight works inside any event app that can embed a web page or open a link, including Swapcard, Cvent, Bizzabo, Whova, Grip, Brella, EventsAir, Hubilo, EventMobi and Stova. FIP ran it in its congress app, and IMEX, ICCA and UFI in theirs.
 
 ### Is it a formal integration with those apps?
 
-It doesn’t need one. Snapsight uses what event apps already support: embedding a web page or opening a link. UFI’s tech team added takeaways to its conference app themselves, with no code.
+It doesn’t need one. Snapsight uses what event apps already support: embedding a web page or opening a link. Identiverse 2024 linked to its session reports from its own event app, and UFI’s tech team added takeaways to its conference app themselves, with no code.
 
 ### Which parts of Snapsight can we embed in our app?
 
@@ -1511,7 +1512,7 @@ Try Snapsight
 
 # See what attendees see.
 
-Open a real IMEX session on your phone. No form, no app.
+Open a real event session on your phone. No form, no app.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event) [Open the real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways)
 
@@ -1549,7 +1550,7 @@ Read a real session now, or test your own speaker with us.
 
 We run it live with you, in the languages your audience needs.
 
-[Open the IMEX session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways) [Book a live test](https://www.snapsight.com/snapsight-website-preview/contact?interest=translation)
+[Open a real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways) [Book a live test](https://www.snapsight.com/snapsight-website-preview/contact?interest=translation)
 
 Real session · ICCA Mediterranean and France-Benelux chapter meeting · takeaways in French
 
@@ -1581,7 +1582,7 @@ Let’s see what Snapsight could do for the event you’re planning.
 
 ### Can I try Snapsight without booking a demo?
 
-Yes. The experience page opens a real IMEX Frankfurt 2025 session on your phone with no form and no app: live text, takeaways, Idea Cloud and summary, in the language you pick.
+Yes. The experience page opens a real event session on your phone with no form and no app: live text, takeaways, Idea Cloud and summary, in the language you pick.
 
 ### Is this a real session?
 
@@ -2015,19 +2016,19 @@ AI for trade shows and exhibitions
 
 # Attendees come for the show floor. They leave with every session.
 
-Every stage’s takeaways on attendees’ phones, as run at IMEX and The Meetings Show.
+Every stage’s takeaways on attendees’ phones, as run at Tech Week Singapore and ATxEnterprise.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=trade-shows) [Start with free translation](https://www.snapsight.com/signup)
 
-![Attendees around the giant IMEX letters on the IMEX Frankfurt 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-CztaaCu1.webp)
+![Panel at ATxEnterprise 2024 with session takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
 
-**150+** education sessions summarised[IMEX Frankfurt 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai)
+**400+** sessions[ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai)
 
 1 / 3
 
-## One attendee can reach 8–10 sessions. The Meetings Show ran 65.
+## One attendee can reach 8–10 sessions. With Snapsight, they got all 65.
 
-With Snapsight, every attendee got all 65, readable in 99 languages.
+At The Meetings Show 2025, all 65 sessions on three stages reached every attendee, readable in 99 languages.
 
 Three stages at once Two days →
 
@@ -2079,7 +2080,7 @@ Real photos from Tech Week Singapore, ATxEnterprise, IMEX and The Meetings Show.
 
 IMEX America 2024 · Las Vegas
 
-## Back-to-back meetings on the floor. Session takeaways in the IMEX app.
+## Back-to-back meetings on the floor. Session takeaways in the show app.
 
 Back at IMEX America after its debut at IMEX Frankfurt.
 
@@ -2091,7 +2092,7 @@ participants
 
 meetings competing with the education programme
 
-[Read the IMEX America story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america) [IMEX Frankfurt story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai) [All six trade show stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=trade-show)
+[Read the IMEX America story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america) [IMEX Frankfurt story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai) [All six trade show stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=trade-show)
 
 ## Every stage in one report. Your sponsor on the cover.
 
@@ -2145,7 +2146,7 @@ Give each stage one audio feed from its sound desk and put its QR code on the st
 
 ### Can attendees on the show floor catch sessions they missed?
 
-Yes. Takeaways and summaries stay available, so attendees in meetings or on the floor can read the sessions they missed. At The Meetings Show 2025, every attendee got all 65 sessions, up from the 8–10 one person could attend.
+Yes. Takeaways and summaries stay available, so attendees in meetings or on the floor can read the sessions they missed. At Tech Week Singapore 2024, 26,000+ attendees got the takeaways from sessions they couldn’t reach. At The Meetings Show 2025, every attendee got all 65 sessions, up from the 8–10 one person could attend.
 
 ### Our theatres are on the show floor. Does the noise matter?
 
@@ -2153,7 +2154,7 @@ Accuracy follows the audio, so take a direct feed from each stage’s sound desk
 
 ### Do attendees need to download anything?
 
-No. They scan the QR code or open the link in their phone’s browser. Or put the takeaways inside your show app, as IMEX did.
+No. They scan the QR code or open the link in their phone’s browser, as ATxEnterprise attendees did at all five stages. Or put the takeaways inside your show app.
 
 ### Can exhibitors and visitors follow sessions in their own language?
 
@@ -2263,7 +2264,7 @@ Economist Impact put a summary of every session one scan away, with real-time tr
 
 executives, corporate leaders and AI professionals
 
-[Read the Economist Impact story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024) [All four conference stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=conference)
+[Read the Economist Impact story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024) [All four conference stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=conference)
 
 ## One programme, every attendee’s language.
 
@@ -2361,7 +2362,7 @@ Yes. Each room needs one audio feed and one QR code, and the $199 Engage event p
 
 ### Can attendees follow in their own language?
 
-Yes, in 99 languages, each attendee on their own phone. Reading along is free; listening costs $10 per language, per session. The 64th ICCA Congress offered it to 1,514 delegates from 81 countries, through the language menu in the ICCA app.
+Yes, in 99 languages, each attendee on their own phone. Reading along is free; listening costs $10 per language, per session. At FIP’s 2025 World Congress, attendees could open real-time translations of every congress presentation in the FIP Congress App.
 
 ### Can we get a report on just one track?
 
@@ -2381,13 +2382,13 @@ AI for association conferences
 
 # Every session at your congress, kept and shared with your members.
 
-Live takeaways in your app and a report afterwards, as run by ICCA, PCMA, ASAE and UFI.
+Live takeaways in your app and a report afterwards, as run for FIP, AICPA & CIMA and CityDNA.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=associations) [Start with free translation](https://www.snapsight.com/signup)
 
-![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-V60WAWt0.webp)
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp)
 
-**60+** sessions summarised[ICCA Congress 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi)
+**65%** of attendees used Snapsight[CityDNA International Conference 2025](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
 
 1 / 3
 
@@ -2447,7 +2448,7 @@ of attendees used it: 2,000 of 5,000
 
 languages for every takeaway
 
-[Read the PCMA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights) [All six association stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=association-event)
+[Read the PCMA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights) [All six association stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=association-event)
 
 ## A report for your attendees, another for your planning.
 
@@ -2486,9 +2487,9 @@ Real Remix output from Association Focus @ IMEX Frankfurt 2025, the ASAE AI Summ
 
 At ASAE, 61 speakers made 184 speaker cards.
 
-## No staff to spare on the day? One volunteer ran it for BEIA.
+## No staff to spare on the day? One volunteer can run it.
 
-BEIA and CityDNA captured every session with no one spare to do it.
+CityDNA and BEIA captured every session with no one spare to do it.
 
 ### BEIA Conference & AGM 2024
 
@@ -2534,27 +2535,27 @@ Tell us about your programme, your app and your team, and we’ll take you throu
 
 ### How do we give members who couldn’t attend the content from our congress?
 
-Capture every session with Snapsight and share the takeaways, summaries and a post-event report afterwards. ICCA sent attendees a full report built from the live sessions of its 2024 congress. Remix drafts more formats from the same sessions, such as a member newsletter or a one-pager.
+Capture every session with Snapsight and share the takeaways, summaries and a post-event report afterwards. AICPA & CIMA had Snapsight draft the report of a two-day advisory group meeting, and ICCA sent attendees a full report built from its 2024 congress. Remix drafts more formats from the same sessions, such as a member newsletter or a one-pager.
 
 ### Can the takeaways sit inside our conference app?
 
-Yes. UFI’s own tech team added them to its conference app with no code, and ICCA ran them in its app. Or use a QR code and a link that opens in the browser.
+Yes. FIP put them in its congress app for every presentation, and UFI’s own tech team added them to its app with no code. Or use a QR code and a link that opens in the browser.
 
 ### We’re a small team. Who runs it on the day?
 
-At BEIA, one volunteer ran it after a 15-minute test at home. CityDNA’s organising team of four captured 15+ sessions with no one monitoring.
+CityDNA’s organising team of four captured 15+ sessions with no one monitoring. At BEIA, one volunteer ran it after a 15-minute test at home.
 
 ### Will attendees actually use it?
 
-40% of PCMA Convening Leaders attendees did, and 60%+ at ICCA Congress engaged with it in the app. CityDNA printed the QR code on every badge and reached 65%.
+CityDNA printed the QR code on every badge and reached 65% of attendees. 40% of PCMA Convening Leaders attendees used it, and 60%+ at ICCA Congress engaged with it in the app.
 
 ### What do we get after the conference?
 
-A report built from the sessions. ICCA sent one to attendees, and UFI uses its report, with sentiment analysis, in strategic planning. Remix drafts more formats from the same sessions.
+A report built from the sessions. CityDNA’s team saved hours, maybe days, of post-event work, and UFI uses its report, with sentiment analysis, in strategic planning. Remix drafts more formats from the same sessions.
 
 ### Can members follow in their own language?
 
-Yes. PCMA ran takeaways in seven languages. Live text translation is free in up to 10 of 99 languages per session.
+Yes. CityDNA ran live multilingual translation across 15+ sessions, and PCMA ran takeaways in seven languages. Live text translation is free in up to 10 of 99 languages per session.
 
 ### Do you offer association or nonprofit pricing?
 
@@ -2594,7 +2595,7 @@ Takeaways appeared four to five minutes into each session, Austrian dialect incl
 >
 > **Andreas**, Festival of Curiosity
 
-[Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=community-festival)
+[Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=community-festival)
 
 130+ activities, German and English
 
@@ -2624,21 +2625,21 @@ Real photos and cards from Festival of Curiosity and London Community Week. The 
 
 ## Mostly volunteers? Fifteen minutes to learn it.
 
-What it took at BEIA, run by one volunteer, and at Festival of Curiosity, run by two.
+What it took at Festival of Curiosity, run by two, and at BEIA, run by one volunteer.
 
 1. ### Before
 
-   One try-out. BEIA’s organiser tested it at home; the festival team rehearsed in its office.
+   One try-out. The festival team rehearsed in its office; BEIA’s organiser tested it at home.
 2. ### On the day
 
-   One or two people. A volunteer ran every BEIA session; at the festival, one person started sessions and another edited.
+   One or two people. At the festival, one person started sessions and another edited; a volunteer ran every BEIA session.
 3. ### In the room
 
    A QR code and a word from the MC. BEIA showed the code at the entrances and in the breaks, and the MC explained it each morning.
 
 What each room needs: one audio feed and one QR code.
 
-[BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai) [Festival of Curiosity story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025)
+[Festival of Curiosity story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai)
 
 ![Screens either side of the stage at the BEIA Conference reading “Afternoon tea. View session summaries with Snapsight”, with a QR code](https://www.snapsight.com/snapsight-website-preview/assets/beia-afternoon-tea-DzROAUyj.webp)
 
@@ -2706,7 +2707,7 @@ views, estimated
 
 Festival of Curiosity came away with months of material for LinkedIn from one festival.
 
-[Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix) [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=community-festival)
+[Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix) [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=community-festival)
 
 ![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-CvH5dyXu.webp)
 
@@ -2738,15 +2739,15 @@ Live text translation is free for every event, so you can start with one session
 
 ### We’re mostly volunteers. How many people does it take?
 
-One or two. One volunteer ran BEIA’s conference with Snapsight. Two ran Festival of Curiosity’s 130+ activities: one started sessions, the other edited in real time.
+One or two. Two ran Festival of Curiosity’s 130+ activities: one started sessions, the other edited in real time. One volunteer ran BEIA’s conference with Snapsight.
 
 ### Can we run it with no AV team?
 
-Yes. BEIA’s AV team was wary of learning a new system, so one volunteer ran it after a 15-minute test at home. Each room needs its sound sent to a laptop running Snapsight, with a reliable internet connection.
+Yes. At WiT Japan & North Asia 2024, one person handled the AV, the setup and the integration. Each room needs its sound sent to a laptop running Snapsight, with a reliable internet connection.
 
 ### How do attendees find it?
 
-By QR code. BEIA showed it on the entrance screens and in the breaks, put it on table sheets and in the conference app, and the MC explained it each morning. CityDNA printed it on every badge and reached 65% of attendees.
+By QR code. CityDNA printed it on every badge and reached 65% of attendees. BEIA showed it on the entrance screens and in the breaks, put it on table sheets and in the conference app, and the MC explained it each morning.
 
 ### Our speakers switch languages mid-sentence. Does that work?
 
@@ -2871,7 +2872,7 @@ Industry sector analysis · 2024
 
 Report Maritime and logistics sector report Singapore Apex Business Summit 2024
 
-Singapore Apex Business Summit 2024. The reports aren’t public, so each cover shows its title as the published story lists it.
+Singapore Apex Business Summit 2024. Each cover shows the report’s title as published.
 
 ## Send us your agenda. We’ll show you what your team gets.
 
@@ -3581,180 +3582,109 @@ Snapsight is SOC 2 Type II and ISO 27001 certified, and GDPR compliant. Your con
 ---
 
 URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/
-Title: Customer Stories: AI at IMEX, ICCA & More | Snapsight
+Title: Customer Stories: AI at Economist Impact & More | Snapsight
 
 Customer stories
 
-# Trusted by the teams behind IMEX, ICCA and The Meetings Show.
+# Trusted by event teams at Economist Impact and Informa Tech.
 
 Events that run Snapsight see 10x more engagement with their sessions.
 
-- ![The Meetings Show logo](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- IMEX logo
-- ICCA logo
-- The Economist logo
-- ASAE logo
-- ![UFI logo](https://www.snapsight.com/snapsight-website-preview/assets/ufi-logo-zUQW2TE8.webp)
+The Economist logo AI Innovation Asia 2024 · Economist Impact
 
-The Meetings Show 2025 · Northstar Travel Group
+## Session highlights the same day, not 48 hours later.
 
-## Three stages at once. Every attendee got all 65 sessions.
+Economist Impact gave 500 executives summaries of every session by QR code, with real-time translation.
 
-**65**
+[Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-sessions open to every attendee, up from the 8–10 one person could attend
-
-**99**
-
-languages attendees could read them in
-
-**<5 min**
-
-total setup time for all 65 sessions
-
-[Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
-
-![Idea Cloud of themes from a Meetings Show 2025 session on talent in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
-
-> “Instead of anxiously rushing between rooms, attendees were making strategic choices about where to spend their time, knowing nothing would be lost.”
->
->
->
-> Emily Roberts, Senior Marketing Manager, Northstar Travel Group
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
 
 ## Find an event like yours.
 
-Filter by the kind of event it was or the product they ran.
-
-Event
-
-Product
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-The Decarbonised Mine Conference · Perth
-
-### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
-
-Takeaways · Remix
-
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
-
-### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
-
-Takeaways · Translate
-
-ICCA Congress 2024 Association event · ICC Abu Dhabi
-
-### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
-
-Takeaways · Remix
-
-AI Innovation Asia 2024 Conference · Pan Pacific Singapore
-
-### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
-
-Takeaways · Translate
-
-ARC APAC Summit 2025 Conference · Melbourne
-
-### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
-
-Takeaways
-
-Festival of Curiosity Community & festival · Tabakfabrik Linz, Austria
-
-### [Two people, 130+ activities. Months of content from one festival.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025/)
-
-Takeaways · Translate · Remix
-
-London Community Week 2026 Community & festival · Big Penny Social, London
-
-### [49 speakers. 147 LinkedIn posts.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix/)
-
-Speaker Remix
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
-
-### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-
-Takeaways · Remix
-
-IMEX America 2024 Trade show · Las Vegas
-
-### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
-
-Takeaways
-
-Tech Week Singapore 2024 Trade show · Singapore
-
-### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
-
-Takeaways
-
-ASAE AI Summit 2024 Association event · Virtual
-
-### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
-
-Takeaways · Remix
-
-UFI European Conference 2024 Association event · Messe Zürich
-
-### [Tried in Macau in March. Standard in Zurich by June.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
-
-Takeaways · Remix
-
-ATxEnterprise 2024 Trade show · Singapore EXPO
+Informa Tech · ATxEnterprise 2024
 
 ### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
-Takeaways
+Sheba Medical Center · ARC APAC Summit 2025
 
-WiT Japan & North Asia 2024 Conference · Tokyo
+### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
+
+The Decarbonised Mine
+
+### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
+
+Tech Week Singapore 2024
+
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
+
+Festival of Curiosity
+
+### [Two people, 130+ activities. Months of content from one festival.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025/)
+
+WiT Japan & North Asia 2024
 
 ### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
 
-Takeaways
-
-CityDNA International Conference 2025 Association event · Budapest
+CityDNA International Conference 2025
 
 ### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
 
-Takeaways · Translate
+London Community Week 2026
 
-BEIA Conference & AGM 2024 Association event · New Plymouth
+### [49 speakers. 147 LinkedIn posts.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix/)
+
+The Meetings Show 2025
+
+### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+
+IMEX Frankfurt 2024
+
+### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
+
+PCMA Convening Leaders 2024
+
+### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
+
+ICCA Congress 2024
+
+### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
+
+IMEX America 2024
+
+### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
+
+ASAE AI Summit 2024
+
+### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
+
+UFI European Conference 2024
+
+### [Tried in Macau in March. Standard in Zurich by June.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
+
+The Meetings Show APAC 2024
+
+### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
+
+BEIA Conference & AGM 2024
 
 ### [One volunteer ran it for the whole conference.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai/)
 
-Takeaways
-
 ## More customer stories
 
-- [GRIC 2024 How Snapsight Helped GRIC 2024 Deliver Strategic Value from Content Without the Overhead](https://www.snapsight.com/en/resources/case-studies/gric-2024/)
-- [Behavioral Health Tech 2024 How Snapsight Helped Behavioral Health Tech’s Small Team Run a Big-League Event](https://www.snapsight.com/en/resources/case-studies/behavioral-health-tech-conference-2024/)
-- [IAPCO AM&GA 2025 Snapsight at IAPCO AM&GA 2025: Capturing Conversations That Matter](https://www.snapsight.com/en/resources/case-studies/iapco-amga-2025/)
-- [Korea MICE Expo 2024 Snapsight at Korea MICE Expo: Where Innovation Meets Implementation](https://www.snapsight.com/en/resources/case-studies/korea-mice-expo-2024/)
-- [Retail Congress MENA 2024 Capturing Retail’s Evolution: Snapsight at Retail Congress MENA 2024](https://www.snapsight.com/en/resources/case-studies/retail-congress-mena-2024/)
-- [TCEB “Model ไมซ์ใหม่” Workshop Snapsight Empowers Multilingual Communication and Knowledge Sharing at TCEB’s “Model ไมซ์ใหม่” Workshop](https://www.snapsight.com/en/resources/case-studies/snapsight-empowers-multilingual-communication-and-knowledge-sharing-at-tcebs-model-%E0%B9%84%E0%B8%A1%E0%B8%8B%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-workshop/)
-- [Singapore Apex Business Summit Singapore Apex Business Summit: Harnessing Strategic Insights with Snapsight](https://www.snapsight.com/en/resources/case-studies/singapore-apex-business-summit-harnessing-strategic-insights-with-snapsight/)
-- [Identiverse 2024 Snapsight Enhances Identiverse 2024: Advancing Content Capture in Identity Security](https://www.snapsight.com/en/resources/case-studies/snapsight-enhances-identiverse-2024-advancing-content-capture-in-identity-security/)
-- [The Business of Events The Business of Events: Unbound and Empowered by AI-Driven Insights](https://www.snapsight.com/en/resources/case-studies/the-business-of-events-unbound-and-empowered-by-ai-driven-insights/)
+- [Identiverse 2024](https://www.snapsight.com/en/resources/case-studies/snapsight-enhances-identiverse-2024-advancing-content-capture-in-identity-security/)
+- [Singapore Apex Business Summit](https://www.snapsight.com/en/resources/case-studies/singapore-apex-business-summit-harnessing-strategic-insights-with-snapsight/)
+- [GRIC 2024](https://www.snapsight.com/en/resources/case-studies/gric-2024/)
+- [Behavioral Health Tech 2024](https://www.snapsight.com/en/resources/case-studies/behavioral-health-tech-conference-2024/)
+- [Retail Congress MENA 2024](https://www.snapsight.com/en/resources/case-studies/retail-congress-mena-2024/)
+- [The Business of Events](https://www.snapsight.com/en/resources/case-studies/the-business-of-events-unbound-and-empowered-by-ai-driven-insights/)
+- [Korea MICE Expo 2024](https://www.snapsight.com/en/resources/case-studies/korea-mice-expo-2024/)
+- [TCEB “Model ไมซ์ใหม่” Workshop](https://www.snapsight.com/en/resources/case-studies/snapsight-empowers-multilingual-communication-and-knowledge-sharing-at-tcebs-model-%E0%B9%84%E0%B8%A1%E0%B8%8B%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-workshop/)
+- [IAPCO AM&GA 2025](https://www.snapsight.com/en/resources/case-studies/iapco-amga-2025/)
 
 ## What organisers said after the event.
 
 In their words, from the published stories.
-
-**23** main-stage sessions captured, with no extra setup
-
-> “It was absolutely just a highlight of the show because we were able to immediately flash all the key takeaways and word clouds from the session that had just happened…”
-
-**David Blansfield** Executive Vice President and Group Publisher, Northstar Travels
-
-[The Meetings Show APAC 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
 
 **1 weekend** for work that used to take weeks, sometimes months
 
@@ -3772,458 +3702,19 @@ In their words, from the published stories.
 
 [ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
+**13,773** content views across sessions
+
+> “They now get AI generated summaries of each of our conference sessions… It enables them to see every single session without actually being there as well.”
+
+**Georgie May** CloserStill, Tech Week Singapore 2024
+
+[Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
+
 ## See it working at your own event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event) [Start free](https://www.snapsight.com/signup)
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/
-Title: The Meetings Show 2025: All 65 Sessions Covered | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-![The Meetings Show logo](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-
-**The Meetings Show 2025** Northstar Travel Group ExCeL London
-
-# Three stages at once. Every attendee got all 65 sessions.
-
-Live text, key takeaways and Idea Clouds for every session on three main stages, readable in 99 languages.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![Idea Cloud from The Meetings Show 2025 session on talent and workforce development in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
-
-## The story
-
-### The challenge
-
-Three stages ran at the same time. The 1,500 planners attending could physically get to perhaps 8–10 of the 65 sessions, and language kept international attendees from following all of it.
-
-### What they ran
-
-Live text, key takeaways and Idea Clouds for every session across the three main stages, opened in the browser in one click and readable in 99 languages. Setup took under five minutes, with no extra equipment.
-
-### What happened
-
-Attendees went from 8–10 sessions to all 65. Northstar Travel Group is expanding its Snapsight integration for 2026, exploring workshops, exhibitor presentations and specialised tracks.
-
-## The numbers that mattered.
-
-**65**
-
-sessions open to every attendee, up from the 8–10 one person could attend
-
-**99**
-
-languages attendees could read them in
-
-**<5 min**
-
-total setup time for all 65 sessions
-
-> “Instead of anxiously rushing between rooms, attendees were making strategic choices about where to spend their time, knowing nothing would be lost.”
-
-**Emily Roberts** Senior Marketing Manager, Northstar Travel Group
-
-## What it looked like on the day.
-
-- ![Opening page of The Meetings Show 2025 Playbook, crediting Snapsight for capturing 65 live sessions](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-playbook-D6eWgPmQ.webp)
-  
-  Playbook · The Meetings Show 2025
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-- [**Translate** Live text in each attendee’s language, on their own phone.](https://www.snapsight.com/snapsight-website-preview/translate)
-
-## More events like this one.
-
-[More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
-
-### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-
-Takeaways · Remix
-
-IMEX America 2024 Trade show · Las Vegas
-
-### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
-
-Takeaways
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 2 September 2025.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/
-Title: The Meetings Show APAC: Takeaways to White Paper | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-![The Meetings Show logo](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-
-**The Meetings Show APAC 2024** Northstar Travel Group 17–18 April 2024 · Marina Bay Sands, Singapore
-
-# 23 main-stage sessions. One white paper for everyone else.
-
-Takeaways flashed on screen after every main-stage session, then shared with the whole community as a white paper.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![Panel on stage at The Meetings Show APAC with live takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-DYOdNJRr.webp)
-
-## The story
-
-### The challenge
-
-The first Meetings Show APAC, at Marina Bay Sands, wanted to give attendees an immersive, engaging experience, and to get its main-stage content to the wider community who couldn’t travel to Singapore.
-
-### What they ran
-
-Snapsight captured all 23 main-stage sessions with no extra setup and produced key takeaways and Idea Clouds. Northstar built it into the programme: at the end of each session the host or MC highlighted the takeaways and invited attendees to scan the QR code.
-
-### What happened
-
-The takeaways sparked discussion in the room. After the show, Northstar and Snapsight turned the insights into a white paper, Asia Pacific’s role in recasting the global MICE sector, and sent it to the whole community by newsletter.
-
-## The numbers that mattered.
-
-**23**
-
-main-stage sessions captured, with no extra setup
-
-> “It was absolutely just a highlight of the show because we were able to immediately flash all the key takeaways and word clouds from the session that had just happened…”
-
-**David Blansfield** Executive Vice President and Group Publisher, Northstar Travels
-
-## What people at the event said about it.
-
-> “It takes content live, listens to the content on stage and produces real-time takeaways, wonderful synopses. And, you know, stuff that attendees can use.”
-
-**James Lancaster** AMI Editor & Editorial Director, Northstar Meetings Group – UK
-
-> “Not only was it a value add for the experience in person but as a media provider, one who obviously cares for the community that we serve at large, we are taking that content.”
-
-> “The seemingly effortless way in which the show’s content is summarized and delivered provides a real-world example of the region’s influence in providing next-generation solutions…”
-
-**Northstar Travels** In the newsletter that sent out the white paper
-
-## What it looked like on the day.
-
-![A panel on the main stage at The Meetings Show APAC, with a session takeaway and the Snapsight QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-panel-DdBVRlYv.webp)
-
-The Meetings Show APAC 2024 · a still from the published story’s video, and the white paper embedded in it
-
-- ![Cover of the white paper Asia Pacific’s role in recasting the global MICE sector, produced by Snapsight with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-white-paper-CuriJQ5A.webp)
-  
-  White paper · The Meetings Show APAC 2024
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-- [**Remix** Reports, white papers and posts made from what was said.](https://www.snapsight.com/snapsight-website-preview/remix)
-
-## More events like this one.
-
-[More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
-
-### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-
-Takeaways · Remix
-
-The Meetings Show 2025 Trade show · ExCeL London
-
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
-
-Takeaways · Translate
-
-IMEX America 2024 Trade show · Las Vegas
-
-### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
-
-Takeaways
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 21 May 2024.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/
-Title: The Decarbonised Mine: A Weekend, Not Weeks | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-**The Decarbonised Mine** Andrew Slavin and team 2025 · Perth
-
-# Weeks of post-event work, finished over a weekend.
-
-A two-day mining conference replaced its record-edit-transcribe-write-design routine with summaries and reports from Snapsight.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![A speaker on stage at The Decarbonised Mine with presentation screens either side](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-stage-1VCk5cZs.webp)
-
-## The story
-
-### The challenge
-
-The team runs everything in-house. After each event they recorded every session, edited the videos, transcribed them, briefed a journalist and designed the reports. It took weeks, sometimes months.
-
-### What they ran
-
-Snapsight on both days of parallel sessions: a summary after every session by QR code, then post-event reports. The AV team had never used Snapsight and set it up without trouble.
-
-### What happened
-
-Attendees scanned the QR codes after every session without being told how, and the post-event work was done over the weekend. Snapsight is now the team’s default.
-
-## The numbers that mattered.
-
-**500+**
-
-mining industry professionals over two days
-
-**1 weekend**
-
-for work that used to take weeks, sometimes months
-
-> “The whole process that used to take us weeks was just… finished.”
-
-**Andrew Slavin** Leads the team behind The Decarbonised Mine
-
-## What it looked like on the day.
-
-![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-DF5ERmoC.webp)
-
-The Decarbonised Mine · from the published story
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-- [**Remix** Reports, white papers and posts made from what was said.](https://www.snapsight.com/snapsight-website-preview/remix)
-
-## More events like this one.
-
-[More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-AI Innovation Asia 2024 Conference · Pan Pacific Singapore
-
-### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
-
-Takeaways · Translate
-
-ARC APAC Summit 2025 Conference · Melbourne
-
-### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
-
-Takeaways
-
-WiT Japan & North Asia 2024 Conference · Tokyo
-
-### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
-
-Takeaways
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 4 July 2025.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/
-Title: PCMA Convening Leaders 2024: 2,000 Users | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-**PCMA Convening Leaders 2024** Professional Convention Management Association 7–10 January 2024 · San Diego Convention Center
-
-# 5,000 attendees. 2,000 of them used Snapsight.
-
-Real-time summaries and Idea Clouds, including for the Clinton keynote, with takeaways in seven languages.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![Convening Leaders 2024 stage with an Idea Cloud and QR code on the big screen](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-stage-B4Mk7EOU.webp)
-
-## The story
-
-### The challenge
-
-A record 5,000 business events professionals and a packed programme, with keynotes from Bill Clinton and Hillary Rodham Clinton, Mayim Bialik, Mo Gawdat and Nina Schick. PCMA wanted to help attendees distil and keep the key insights from each session, above all the high-profile keynotes.
-
-### What they ran
-
-Real-time AI summaries and Idea Clouds, opened by QR code, with takeaways in seven languages for an international audience: English, Spanish, Italian, French, German, Portuguese and Chinese.
-
-### What happened
-
-40% of attendees, 2,000 of 5,000, used Snapsight during the event. At the Clinton keynote, people could stay in the moment knowing they could revisit the main takeaways afterwards.
-
-## The numbers that mattered.
-
-**40%**
-
-of attendees used it: 2,000 of 5,000
-
-**7**
-
-languages for every takeaway
-
-> “That AI summary is really awesome, so useful when you are inundated with so much information & stimuli at live events.”
-
-**Attendee** Convening Leaders 2024
-
-## What it looked like on the day.
-
-![President Bill Clinton and Hillary Rodham Clinton on the big screens at PCMA Convening Leaders 2024](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-BYnDPj1c.webp) ![The main stage at PCMA Convening Leaders 2024 in San Diego](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-main-stage-C01A_CfJ.webp)
-
-PCMA Convening Leaders 2024 · the Clinton keynote and the main stage
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-- [**Translate** Live text in each attendee’s language, on their own phone.](https://www.snapsight.com/snapsight-website-preview/translate)
-
-## More events like this one.
-
-[More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-CityDNA International Conference 2025 Association event · Budapest
-
-### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
-
-Takeaways · Translate
-
-ICCA Congress 2024 Association event · ICC Abu Dhabi
-
-### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
-
-Takeaways · Remix
-
-ASAE AI Summit 2024 Association event · Virtual
-
-### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
-
-Takeaways · Remix
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 11 May 2024.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/
-Title: ICCA Congress 2024: 60+ Sessions Summarised | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-ICCA logo
-
-**ICCA Congress 2024** ICCA ICC Abu Dhabi
-
-# 60+ sessions summarised. The whole congress on one screen.
-
-Live takeaways for every session and an event-wide Idea Cloud on a four-sided display hung over the venue.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![Four-sided LED display suspended over the ICCA Congress 2024 floor, showing the event-wide Idea Cloud](https://www.snapsight.com/snapsight-website-preview/assets/icca-idea-cloud-cube-Bi5It6hU.webp)
-
-## The story
-
-### The challenge
-
-Five simultaneous stages over four days, and most sessions aren’t recorded because there are so many. Without a record, the content was gone when the mics went off.
-
-### What they ran
-
-Live takeaways for every session in ICCA’s app, and an event-wide Idea Cloud on a four-sided LED display suspended in the centre of the venue: takeaways during sessions, the congress’s themes between them. The Idea Cloud began with a question from Ksenjia Polla of the ICCA team: could people see, in real time, what the whole event was talking about?
-
-### What happened
-
-Over 60% of attendees engaged with the content through the app, and the cloud showed what was trending live: sustainability, intergenerational engagement, AI. A full post-event report built from the live dialogue went to attendees, and ICCA planned to run Snapsight at every ICCA event in 2025.
-
-## The numbers that mattered.
-
-**60+**
-
-sessions summarised
-
-**60%+**
-
-of attendees engaged with the content in the app
-
-**5**
-
-simultaneous stages over four days
-
-## What it looked like on the day.
-
-![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-V60WAWt0.webp)
-
-ICCA Congress 2024 · from the published story
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-- [**Remix** Reports, white papers and posts made from what was said.](https://www.snapsight.com/snapsight-website-preview/remix)
-
-## More events like this one.
-
-[More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-ASAE AI Summit 2024 Association event · Virtual
-
-### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
-
-Takeaways · Remix
-
-UFI European Conference 2024 Association event · Messe Zürich
-
-### [Tried in Macau in March. Standard in Zurich by June.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
-
-Takeaways · Remix
-
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
-
-### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
-
-Takeaways · Translate
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 15 April 2025.
 
 
 ---
@@ -4288,29 +3779,105 @@ AI Innovation Asia 2024 · from the published story
 
 [More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Decarbonised Mine Conference · Perth
-
-### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
-
-Takeaways · Remix
-
-ARC APAC Summit 2025 Conference · Melbourne
+Sheba Medical Center · ARC APAC Summit 2025
 
 ### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
 
-Takeaways
+The Decarbonised Mine
 
-WiT Japan & North Asia 2024 Conference · Tokyo
+### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
+
+WiT Japan & North Asia 2024
 
 ### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
-
-Takeaways
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 Adapted from the case study Snapsight published on 20 February 2025.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/
+Title: ATxEnterprise 2024: 5 Stages, 400+ Sessions | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+**ATxEnterprise 2024** Informa Tech 29–31 May 2024 · Singapore EXPO
+
+# Five stages, 400+ sessions. Takeaways on screen and in hand.
+
+Key takeaways on screen at all five stages, and on attendees’ phones by QR code, with no app to download.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![Panel at ATxEnterprise 2024 with session takeaways and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
+
+## The story
+
+### The challenge
+
+Five main stages and 400+ sessions, from broadcast and media tech to commercial AI, with titles and schedules changing at the last minute.
+
+### What they ran
+
+Snapsight on all five stages: key takeaways on screen with auto-scroll, so the AV team didn’t have to scroll, and on attendees’ phones by QR code.
+
+### What happened
+
+Session changes reached attendees straight away, and the team captured insights from every stage and downloaded them for post-event reports.
+
+## The numbers that mattered.
+
+**5**
+
+stages, all running Snapsight
+
+**400+**
+
+sessions
+
+**22,000+**
+
+tech professionals from 110 countries
+
+> “Deploying Snapsight across all 5 stages was remarkably straightforward. The platform’s setup process is well-designed, with clear instructions and minimal technical requirements.”
+
+**Cherry Lau** Conference Producer, ATxSG
+
+## What it looked like on the day.
+
+![An attendee photographs the takeaways screen at ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/assets/atx-phone-CDDA98P8.webp)
+
+ATxEnterprise 2024 · from the published story
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+
+## More events like this one.
+
+[More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+Tech Week Singapore 2024
+
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
+
+The Meetings Show 2025
+
+### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+
+IMEX Frankfurt 2024
+
+### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 9 September 2024.
 
 
 ---
@@ -4376,29 +3943,186 @@ ARC APAC Summit 2025 · from the published story
 
 [More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Decarbonised Mine Conference · Perth
-
-### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
-
-Takeaways · Remix
-
-AI Innovation Asia 2024 Conference · Pan Pacific Singapore
+Economist Impact · AI Innovation Asia 2024
 
 ### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-Takeaways · Translate
+The Decarbonised Mine
 
-WiT Japan & North Asia 2024 Conference · Tokyo
+### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
+
+WiT Japan & North Asia 2024
 
 ### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
-
-Takeaways
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 Adapted from the case study Snapsight published on 24 April 2025.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/
+Title: The Decarbonised Mine: A Weekend, Not Weeks | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+**The Decarbonised Mine** Andrew Slavin and team 2025 · Perth
+
+# Weeks of post-event work, finished over a weekend.
+
+A two-day mining conference replaced its record-edit-transcribe-write-design routine with summaries and reports from Snapsight.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![A speaker on stage at The Decarbonised Mine with presentation screens either side](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-stage-1VCk5cZs.webp)
+
+## The story
+
+### The challenge
+
+The team runs everything in-house. After each event they recorded every session, edited the videos, transcribed them, briefed a journalist and designed the reports. It took weeks, sometimes months.
+
+### What they ran
+
+Snapsight on both days of parallel sessions: a summary after every session by QR code, then post-event reports. The AV team had never used Snapsight and set it up without trouble.
+
+### What happened
+
+Attendees scanned the QR codes after every session without being told how, and the post-event work was done over the weekend. Snapsight is now the team’s default.
+
+## The numbers that mattered.
+
+**500+**
+
+mining industry professionals over two days
+
+**1 weekend**
+
+for work that used to take weeks, sometimes months
+
+> “The whole process that used to take us weeks was just… finished.”
+
+**Andrew Slavin** Leads the team behind The Decarbonised Mine
+
+## What it looked like on the day.
+
+![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-DF5ERmoC.webp)
+
+The Decarbonised Mine · from the published story
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+- [**Remix** Reports, white papers and posts made from what was said.](https://www.snapsight.com/snapsight-website-preview/remix)
+
+## More events like this one.
+
+[More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+Economist Impact · AI Innovation Asia 2024
+
+### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
+
+Sheba Medical Center · ARC APAC Summit 2025
+
+### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
+
+WiT Japan & North Asia 2024
+
+### [Live within a week, run by one person.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 4 July 2025.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/
+Title: Tech Week Singapore 2024: 500+ Sessions Covered | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+![Tech Week Singapore logo](https://www.snapsight.com/snapsight-website-preview/assets/techweek-logo-BWOiTjJf.webp)
+
+**Tech Week Singapore 2024** Tech Week Singapore Singapore
+
+# 17 stages, 500+ sessions. 13,773 content views.
+
+QR codes on all 17 stages gave 26,000+ attendees the takeaways from sessions they couldn’t reach.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![Tech Week Singapore 2024 stage with Snapsight QR codes on screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-sl4iSH5f.webp)
+
+## The story
+
+### The challenge
+
+500+ sessions in two days across 17 stages, for 26,000+ attendees and 550+ international speakers. Attendees missed valuable content, organisers struggled to track engagement across the stages, and any fix had to work in real time without adding work for speakers or attendees.
+
+### What they ran
+
+QR codes on all 17 stages, one scan from each session’s takeaways. Snapsight Premium went further for attendees, surfacing the trends, opportunities, challenges and sentiment from the sessions they missed.
+
+### What happened
+
+1,540 active users viewed session insights 13,773 times, about nine views each, spending 3m 27s on average. Organisers saw in real time which sessions sparked the most interest, and Tech Week Singapore plans to run Snapsight again.
+
+## The numbers that mattered.
+
+**13,773**
+
+content views across sessions
+
+**1,540**
+
+active users, 9 views each on average
+
+**3m 27s**
+
+average engagement time
+
+> “They now get AI generated summaries of each of our conference sessions… It enables them to see every single session without actually being there as well.”
+
+**Georgie May** CloserStill, Tech Week Singapore 2024 On camera at the show
+
+## What it looked like on the day.
+
+![Georgie May of CloserStill speaking at the Snapsight stand at Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-booth-Bo4vD8kH.webp)
+
+Tech Week Singapore 2024 · a still from the video in the published story
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+
+## More events like this one.
+
+[More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+Informa Tech · ATxEnterprise 2024
+
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
+
+The Meetings Show 2025
+
+### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+
+IMEX Frankfurt 2024
+
+### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 12 February 2025.
 
 
 ---
@@ -4466,29 +4190,194 @@ Festival of Curiosity · from the published story
 
 [More on community events](https://www.snapsight.com/snapsight-website-preview/solutions/community-events) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show 2025 Trade show · ExCeL London
+Economist Impact · AI Innovation Asia 2024
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-The Decarbonised Mine Conference · Perth
+The Decarbonised Mine
 
 ### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
 
-Takeaways · Remix
+CityDNA International Conference 2025
+
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 Adapted from the case study Snapsight published on 13 August 2025.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/
+Title: WiT Japan & North Asia 2024: Live in a Week | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+**WiT Japan & North Asia 2024** WiT (Web in Travel) Tokyo
+
+# Live within a week, run by one person.
+
+One person handled AV, setup and integration, and attendees used the insights for their own reports.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![Panel on stage at WiT Japan & North Asia 2024 with the takeaways screen to the left](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-DcEKDiEg.webp)
+
+## The story
+
+### The challenge
+
+The 2024 edition in Tokyo, themed “The Human Revolution”, gave Snapsight a week to go live, with one person, Gerry Pang, handling the AV, the setup and the platform integration.
+
+### What they ran
+
+Real-time insights and summaries for the sessions, with Idea Clouds and a QR code on the stage screens, so attendees could stay in the discussion instead of taking notes.
+
+### What happened
+
+Attendees used the insights after sessions to prepare their reports and share with colleagues, and asked about similar tools for their own events. Media used the summaries for post-event coverage.
+
+## The numbers that mattered.
+
+**1**
+
+person ran AV, setup and integration
+
+**1 week**
+
+from start to live
+
+> “The setup process was super easy and straightforward… Running sessions was a breeze. Breath of fresh air and such a pleasant experience to execute something so easily and smoothly yet being able to engage with attendees by leaps and bounds.”
+
+**Gerry Pang** WiT Japan & North Asia 2024
+
+## What people at the event said about it.
+
+> “Attendees referred to the insights after sessions, to prepare their reports and shared with colleagues.”
+
+**Gerry Pang** On attendees
+
+> “From an editorial POV, Snapsight helps considerably with note-taking and summaries, helping media generate more articles post-event – good tool for post-event coverage.”
+
+**Gerry Pang** On media coverage
+
+> “AI will play an increasingly important role. It will become an integral part of every event’s hygiene and standard operating procedure.”
+
+**Gerry Pang** On what comes next
+
+## What it looked like on the day.
+
+![Idea Cloud and QR code on screen at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-DftesWiM.webp) ![Two speakers in conversation at WiT Japan & North Asia 2024, with session takeaways on the screen behind them](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-panel-DNwJhZbi.webp) ![An audio interface cabled to a laptop showing the Snapsight QR code at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-FWIjbXc2.webp)
+
+WiT Japan & North Asia 2024 · photos from the published story
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+
+## More events like this one.
+
+[More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+Economist Impact · AI Innovation Asia 2024
+
+### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
+
+Sheba Medical Center · ARC APAC Summit 2025
+
+### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
+
+The Decarbonised Mine
+
+### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 21 June 2024.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/
+Title: CityDNA Conference 2025: 65% Used It, Team of 4 | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+**CityDNA International Conference 2025** CityDNA 9–11 April 2025 · Budapest
+
+# An organising team of four. 65% of attendees used it.
+
+Transcripts, summaries and translation across 15+ sessions, with a QR code printed on every badge.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![A phone showing Snapsight’s Takeaways tab, held up in a full conference room at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-CFu9_5FA.webp)
+
+## The story
+
+### The challenge
+
+Four people ran a conference for 150+ destination marketing professionals, and every session was packed with insights that can shift strategy. CityDNA needed each one captured accurately and in real time, without diverting resources it didn’t have.
+
+### What they ran
+
+CityDNA first saw Snapsight at the AI-Opener for Destinations event hosted by GroupNAO, and brought it in as a sponsorship collaboration. It ran real-time transcripts, summaries and live multilingual translation across 15+ sessions with no one monitoring it, and a Snapsight QR code was printed on every attendee badge.
+
+### What happened
+
+65% of attendees used Snapsight. They caught up on sessions they missed and rechecked key moments, speakers praised the accuracy of the summaries, and the team saved hours, maybe days, of post-event work. Next: more languages, Snapsight inside CityDNA’s event platform, and content before the event.
+
+## The numbers that mattered.
+
+**65%**
+
+of attendees used Snapsight
+
+**15+**
+
+sessions captured with no one monitoring
+
+**4**
+
+people on the organising team
+
+## What it looked like on the day.
+
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp) ![Cover of the CityDNA International Conference programme, Beyond Boundaries, Budapest, 9–11 April 2025](https://www.snapsight.com/snapsight-website-preview/assets/citydna-programme-DHuDaG_W.webp)
+
+CityDNA International Conference 2025 · a still from the published story’s video, and the programme
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+- [**Translate** Live text in each attendee’s language, on their own phone.](https://www.snapsight.com/snapsight-website-preview/translate)
+
+## More events like this one.
+
+[More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+PCMA Convening Leaders 2024
+
+### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
+
+ICCA Congress 2024
+
+### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
+
+ASAE AI Summit 2024
+
+### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 9 May 2025.
 
 
 ---
@@ -4598,29 +4487,108 @@ Big community changes start with trust. At London Community Week, Francisco Opaz
 
 [More on community events](https://www.snapsight.com/snapsight-website-preview/solutions/community-events) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-Festival of Curiosity Community & festival · Tabakfabrik Linz, Austria
+Festival of Curiosity
 
 ### [Two people, 130+ activities. Months of content from one festival.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025/)
 
-Takeaways · Translate · Remix
+Economist Impact · AI Innovation Asia 2024
 
-The Meetings Show 2025 Trade show · ExCeL London
+### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+Informa Tech · ATxEnterprise 2024
 
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 Adapted from the case study Snapsight published on 12 August 2026.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/
+Title: The Meetings Show 2025: All 65 Sessions Covered | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+![The Meetings Show logo](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
+
+**The Meetings Show 2025** Northstar Travel Group ExCeL London
+
+# Three stages at once. Every attendee got all 65 sessions.
+
+Live text, key takeaways and Idea Clouds for every session on three main stages, readable in 99 languages.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![Idea Cloud from The Meetings Show 2025 session on talent and workforce development in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
+
+## The story
+
+### The challenge
+
+Three stages ran at the same time. The 1,500 planners attending could physically get to perhaps 8–10 of the 65 sessions, and language kept international attendees from following all of it.
+
+### What they ran
+
+Live text, key takeaways and Idea Clouds for every session across the three main stages, opened in the browser in one click and readable in 99 languages. Setup took under five minutes, with no extra equipment.
+
+### What happened
+
+Attendees went from 8–10 sessions to all 65. Northstar Travel Group is expanding its Snapsight integration for 2026, exploring workshops, exhibitor presentations and specialised tracks.
+
+## The numbers that mattered.
+
+**65**
+
+sessions open to every attendee, up from the 8–10 one person could attend
+
+**99**
+
+languages attendees could read them in
+
+**<5 min**
+
+total setup time for all 65 sessions
+
+> “Instead of anxiously rushing between rooms, attendees were making strategic choices about where to spend their time, knowing nothing would be lost.”
+
+**Emily Roberts** Senior Marketing Manager, Northstar Travel Group
+
+## What it looked like on the day.
+
+- ![Opening page of The Meetings Show 2025 Playbook, crediting Snapsight for capturing 65 live sessions](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-playbook-D6eWgPmQ.webp)
+  
+  Playbook · The Meetings Show 2025
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+- [**Translate** Live text in each attendee’s language, on their own phone.](https://www.snapsight.com/snapsight-website-preview/translate)
+
+## More events like this one.
+
+[More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+Informa Tech · ATxEnterprise 2024
+
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
+
+Tech Week Singapore 2024
+
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
+
+IMEX Frankfurt 2024
+
+### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 2 September 2025.
 
 
 ---
@@ -4689,29 +4657,183 @@ Real screens · the IMEX Events app and an Idea Cloud from IMEX Frankfurt 2024
 
 [More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
+The Meetings Show APAC 2024
 
 ### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
 
-Takeaways · Remix
+Informa Tech · ATxEnterprise 2024
 
-The Meetings Show 2025 Trade show · ExCeL London
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+Tech Week Singapore 2024
 
-Takeaways · Translate
-
-IMEX America 2024 Trade show · Las Vegas
-
-### [15,800 participants. Session takeaways in the IMEX app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/)
-
-Takeaways
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 Adapted from the case study Snapsight published on 24 July 2024.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/
+Title: PCMA Convening Leaders 2024: 2,000 Users | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+**PCMA Convening Leaders 2024** Professional Convention Management Association 7–10 January 2024 · San Diego Convention Center
+
+# 5,000 attendees. 2,000 of them used Snapsight.
+
+Real-time summaries and Idea Clouds, including for the Clinton keynote, with takeaways in seven languages.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![Convening Leaders 2024 stage with an Idea Cloud and QR code on the big screen](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-stage-B4Mk7EOU.webp)
+
+## The story
+
+### The challenge
+
+A record 5,000 business events professionals and a packed programme, with keynotes from Bill Clinton and Hillary Rodham Clinton, Mayim Bialik, Mo Gawdat and Nina Schick. PCMA wanted to help attendees distil and keep the key insights from each session, above all the high-profile keynotes.
+
+### What they ran
+
+Real-time AI summaries and Idea Clouds, opened by QR code, with takeaways in seven languages for an international audience: English, Spanish, Italian, French, German, Portuguese and Chinese.
+
+### What happened
+
+40% of attendees, 2,000 of 5,000, used Snapsight during the event. At the Clinton keynote, people could stay in the moment knowing they could revisit the main takeaways afterwards.
+
+## The numbers that mattered.
+
+**40%**
+
+of attendees used it: 2,000 of 5,000
+
+**7**
+
+languages for every takeaway
+
+> “That AI summary is really awesome, so useful when you are inundated with so much information & stimuli at live events.”
+
+**Attendee** Convening Leaders 2024
+
+## What it looked like on the day.
+
+![President Bill Clinton and Hillary Rodham Clinton on the big screens at PCMA Convening Leaders 2024](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-BYnDPj1c.webp) ![The main stage at PCMA Convening Leaders 2024 in San Diego](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-main-stage-C01A_CfJ.webp)
+
+PCMA Convening Leaders 2024 · the Clinton keynote and the main stage
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+- [**Translate** Live text in each attendee’s language, on their own phone.](https://www.snapsight.com/snapsight-website-preview/translate)
+
+## More events like this one.
+
+[More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+CityDNA International Conference 2025
+
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
+
+ICCA Congress 2024
+
+### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
+
+ASAE AI Summit 2024
+
+### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 11 May 2024.
+
+
+---
+
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/
+Title: ICCA Congress 2024: 60+ Sessions Summarised | Snapsight
+
+[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+ICCA logo
+
+**ICCA Congress 2024** ICCA ICC Abu Dhabi
+
+# 60+ sessions summarised. The whole congress on one screen.
+
+Live takeaways for every session and an event-wide Idea Cloud on a four-sided display hung over the venue.
+
+[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
+
+![Four-sided LED display suspended over the ICCA Congress 2024 floor, showing the event-wide Idea Cloud](https://www.snapsight.com/snapsight-website-preview/assets/icca-idea-cloud-cube-Bi5It6hU.webp)
+
+## The story
+
+### The challenge
+
+Five simultaneous stages over four days, and most sessions aren’t recorded because there are so many. Without a record, the content was gone when the mics went off.
+
+### What they ran
+
+Live takeaways for every session in ICCA’s app, and an event-wide Idea Cloud on a four-sided LED display suspended in the centre of the venue: takeaways during sessions, the congress’s themes between them. The Idea Cloud began with a question from Ksenjia Polla of the ICCA team: could people see, in real time, what the whole event was talking about?
+
+### What happened
+
+Over 60% of attendees engaged with the content through the app, and the cloud showed what was trending live: sustainability, intergenerational engagement, AI. A full post-event report built from the live dialogue went to attendees, and ICCA planned to run Snapsight at every ICCA event in 2025.
+
+## The numbers that mattered.
+
+**60+**
+
+sessions summarised
+
+**60%+**
+
+of attendees engaged with the content in the app
+
+**5**
+
+simultaneous stages over four days
+
+## What it looked like on the day.
+
+![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-V60WAWt0.webp)
+
+ICCA Congress 2024 · from the published story
+
+## Products they used.
+
+- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+- [**Remix** Reports, white papers and posts made from what was said.](https://www.snapsight.com/snapsight-website-preview/remix)
+
+## More events like this one.
+
+[More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
+
+ASAE AI Summit 2024
+
+### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
+
+UFI European Conference 2024
+
+### [Tried in Macau in March. Standard in Zurich by June.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
+
+CityDNA International Conference 2025
+
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
+
+## Run this at your next event.
+
+Tell us about your programme and we’ll show you what attendees get.
+
+Adapted from the case study Snapsight published on 15 April 2025.
 
 
 ---
@@ -4789,119 +4911,23 @@ IMEX America 2024 · photos from the published story
 
 [More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show 2025 Trade show · ExCeL London
+Informa Tech · ATxEnterprise 2024
+
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
+
+Tech Week Singapore 2024
+
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
+
+The Meetings Show 2025
 
 ### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
-
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
-
-### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-
-Takeaways · Remix
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
 Adapted from the case study Snapsight published on 11 February 2025.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/
-Title: Tech Week Singapore 2024: 500+ Sessions Covered | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-![Tech Week Singapore logo](https://www.snapsight.com/snapsight-website-preview/assets/techweek-logo-BWOiTjJf.webp)
-
-**Tech Week Singapore 2024** Tech Week Singapore Singapore
-
-# 17 stages, 500+ sessions. 13,773 content views.
-
-QR codes on all 17 stages gave 26,000+ attendees the takeaways from sessions they couldn’t reach.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![Tech Week Singapore 2024 stage with Snapsight QR codes on screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-sl4iSH5f.webp)
-
-## The story
-
-### The challenge
-
-500+ sessions in two days across 17 stages, for 26,000+ attendees and 550+ international speakers. Attendees missed valuable content, organisers struggled to track engagement across the stages, and any fix had to work in real time without adding work for speakers or attendees.
-
-### What they ran
-
-QR codes on all 17 stages, one scan from each session’s takeaways. Snapsight Premium went further for attendees, surfacing the trends, opportunities, challenges and sentiment from the sessions they missed.
-
-### What happened
-
-1,540 active users viewed session insights 13,773 times, about nine views each, spending 3m 27s on average. Organisers saw in real time which sessions sparked the most interest, and Tech Week Singapore plans to run Snapsight again.
-
-## The numbers that mattered.
-
-**13,773**
-
-content views across sessions
-
-**1,540**
-
-active users, 9 views each on average
-
-**3m 27s**
-
-average engagement time
-
-> “They now get AI generated summaries of each of our conference sessions… It enables them to see every single session without actually being there as well.”
-
-**Georgie May** CloserStill, Tech Week Singapore 2024 On camera at the show
-
-## What it looked like on the day.
-
-![Georgie May of CloserStill speaking at the Snapsight stand at Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-booth-Bo4vD8kH.webp)
-
-Tech Week Singapore 2024 · a still from the video in the published story
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-
-## More events like this one.
-
-[More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-The Meetings Show 2025 Trade show · ExCeL London
-
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
-
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
-
-### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-
-Takeaways · Remix
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 12 February 2025.
 
 
 ---
@@ -4966,23 +4992,17 @@ Real report pages · ASAE AI adoption survey, shown during the summit
 
 [More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-ICCA Congress 2024 Association event · ICC Abu Dhabi
+ICCA Congress 2024
 
 ### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
 
-Takeaways · Remix
-
-UFI European Conference 2024 Association event · Messe Zürich
+UFI European Conference 2024
 
 ### [Tried in Macau in March. Standard in Zurich by June.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
 
-Takeaways · Remix
+CityDNA International Conference 2025
 
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
-
-### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
-
-Takeaways · Translate
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
 
 ## Run this at your next event.
 
@@ -5057,23 +5077,17 @@ UFI European Conference 2024 · stills from the videos in the published story
 
 [More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-ICCA Congress 2024 Association event · ICC Abu Dhabi
+ICCA Congress 2024
 
 ### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
 
-Takeaways · Remix
-
-ASAE AI Summit 2024 Association event · Virtual
+ASAE AI Summit 2024
 
 ### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
 
-Takeaways · Remix
+CityDNA International Conference 2025
 
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
-
-### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
-
-Takeaways · Translate
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
 
 ## Run this at your next event.
 
@@ -5084,273 +5098,95 @@ Adapted from the case study Snapsight published on 3 July 2024.
 
 ---
 
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/
-Title: ATxEnterprise 2024: 5 Stages, 400+ Sessions | Snapsight
+URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/
+Title: The Meetings Show APAC: Takeaways to White Paper | Snapsight
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-**ATxEnterprise 2024** Informa Tech 29–31 May 2024 · Singapore EXPO
+![The Meetings Show logo](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
 
-# Five stages, 400+ sessions. Takeaways on screen and in hand.
+**The Meetings Show APAC 2024** Northstar Travel Group 17–18 April 2024 · Marina Bay Sands, Singapore
 
-Key takeaways on screen at all five stages, and on attendees’ phones by QR code, with no app to download.
+# 23 main-stage sessions. One white paper for everyone else.
+
+Takeaways flashed on screen after every main-stage session, then shared with the whole community as a white paper.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel at ATxEnterprise 2024 with session takeaways and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
+![Panel on stage at The Meetings Show APAC with live takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-DYOdNJRr.webp)
 
 ## The story
 
 ### The challenge
 
-Five main stages and 400+ sessions, from broadcast and media tech to commercial AI, with titles and schedules changing at the last minute.
+The first Meetings Show APAC, at Marina Bay Sands, wanted to give attendees an immersive, engaging experience, and to get its main-stage content to the wider community who couldn’t travel to Singapore.
 
 ### What they ran
 
-Snapsight on all five stages: key takeaways on screen with auto-scroll, so the AV team didn’t have to scroll, and on attendees’ phones by QR code.
+Snapsight captured all 23 main-stage sessions with no extra setup and produced key takeaways and Idea Clouds. Northstar built it into the programme: at the end of each session the host or MC highlighted the takeaways and invited attendees to scan the QR code.
 
 ### What happened
 
-Session changes reached attendees straight away, and the team captured insights from every stage and downloaded them for post-event reports.
+The takeaways sparked discussion in the room. After the show, Northstar and Snapsight turned the insights into a white paper, Asia Pacific’s role in recasting the global MICE sector, and sent it to the whole community by newsletter.
 
 ## The numbers that mattered.
 
-**5**
+**23**
 
-stages, all running Snapsight
+main-stage sessions captured, with no extra setup
 
-**400+**
+> “It was absolutely just a highlight of the show because we were able to immediately flash all the key takeaways and word clouds from the session that had just happened…”
 
-sessions
+**David Blansfield** Executive Vice President and Group Publisher, Northstar Travels
 
-**22,000+**
+## What people at the event said about it.
 
-tech professionals from 110 countries
+> “It takes content live, listens to the content on stage and produces real-time takeaways, wonderful synopses. And, you know, stuff that attendees can use.”
 
-> “Deploying Snapsight across all 5 stages was remarkably straightforward. The platform’s setup process is well-designed, with clear instructions and minimal technical requirements.”
+**James Lancaster** AMI Editor & Editorial Director, Northstar Meetings Group – UK
 
-**Cherry Lau** Conference Producer, ATxSG
+> “Not only was it a value add for the experience in person but as a media provider, one who obviously cares for the community that we serve at large, we are taking that content.”
+
+> “The seemingly effortless way in which the show’s content is summarized and delivered provides a real-world example of the region’s influence in providing next-generation solutions…”
+
+**Northstar Travels** In the newsletter that sent out the white paper
 
 ## What it looked like on the day.
 
-![An attendee photographs the takeaways screen at ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/assets/atx-phone-CDDA98P8.webp)
+![A panel on the main stage at The Meetings Show APAC, with a session takeaway and the Snapsight QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-panel-DdBVRlYv.webp)
 
-ATxEnterprise 2024 · from the published story
+The Meetings Show APAC 2024 · a still from the published story’s video, and the white paper embedded in it
+
+- ![Cover of the white paper Asia Pacific’s role in recasting the global MICE sector, produced by Snapsight with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-white-paper-CuriJQ5A.webp)
+  
+  White paper · The Meetings Show APAC 2024
 
 ## Products they used.
 
 - [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
+- [**Remix** Reports, white papers and posts made from what was said.](https://www.snapsight.com/snapsight-website-preview/remix)
 
 ## More events like this one.
 
 [More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show 2025 Trade show · ExCeL London
-
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
-
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
+IMEX Frankfurt 2024
 
 ### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
 
-Takeaways · Remix
+Informa Tech · ATxEnterprise 2024
+
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
+
+Tech Week Singapore 2024
+
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
 
 ## Run this at your next event.
 
 Tell us about your programme and we’ll show you what attendees get.
 
-Adapted from the case study Snapsight published on 9 September 2024.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/
-Title: WiT Japan & North Asia 2024: Live in a Week | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-**WiT Japan & North Asia 2024** WiT (Web in Travel) Tokyo
-
-# Live within a week, run by one person.
-
-One person handled AV, setup and integration, and attendees used the insights for their own reports.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![Panel on stage at WiT Japan & North Asia 2024 with the takeaways screen to the left](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-DcEKDiEg.webp)
-
-## The story
-
-### The challenge
-
-The 2024 edition in Tokyo, themed “The Human Revolution”, gave Snapsight a week to go live, with one person, Gerry Pang, handling the AV, the setup and the platform integration.
-
-### What they ran
-
-Real-time insights and summaries for the sessions, with Idea Clouds and a QR code on the stage screens, so attendees could stay in the discussion instead of taking notes.
-
-### What happened
-
-Attendees used the insights after sessions to prepare their reports and share with colleagues, and asked about similar tools for their own events. Media used the summaries for post-event coverage.
-
-## The numbers that mattered.
-
-**1**
-
-person ran AV, setup and integration
-
-**1 week**
-
-from start to live
-
-> “The setup process was super easy and straightforward… Running sessions was a breeze. Breath of fresh air and such a pleasant experience to execute something so easily and smoothly yet being able to engage with attendees by leaps and bounds.”
-
-**Gerry Pang** WiT Japan & North Asia 2024
-
-## What people at the event said about it.
-
-> “Attendees referred to the insights after sessions, to prepare their reports and shared with colleagues.”
-
-**Gerry Pang** On attendees
-
-> “From an editorial POV, Snapsight helps considerably with note-taking and summaries, helping media generate more articles post-event – good tool for post-event coverage.”
-
-**Gerry Pang** On media coverage
-
-> “AI will play an increasingly important role. It will become an integral part of every event’s hygiene and standard operating procedure.”
-
-**Gerry Pang** On what comes next
-
-## What it looked like on the day.
-
-![Idea Cloud and QR code on screen at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-DftesWiM.webp) ![Two speakers in conversation at WiT Japan & North Asia 2024, with session takeaways on the screen behind them](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-panel-DNwJhZbi.webp) ![An audio interface cabled to a laptop showing the Snapsight QR code at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-FWIjbXc2.webp)
-
-WiT Japan & North Asia 2024 · photos from the published story
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-
-## More events like this one.
-
-[More on conferences](https://www.snapsight.com/snapsight-website-preview/solutions/conferences) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-The Decarbonised Mine Conference · Perth
-
-### [Weeks of post-event work, finished over a weekend.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
-
-Takeaways · Remix
-
-AI Innovation Asia 2024 Conference · Pan Pacific Singapore
-
-### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
-
-Takeaways · Translate
-
-ARC APAC Summit 2025 Conference · Melbourne
-
-### [A dense medical programme. 40% of attendees used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/)
-
-Takeaways
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 21 June 2024.
-
-
----
-
-URL: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/
-Title: CityDNA Conference 2025: 65% Used It, Team of 4 | Snapsight
-
-[Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-**CityDNA International Conference 2025** CityDNA 9–11 April 2025 · Budapest
-
-# An organising team of four. 65% of attendees used it.
-
-Transcripts, summaries and translation across 15+ sessions, with a QR code printed on every badge.
-
-[Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
-
-![A phone showing Snapsight’s Takeaways tab, held up in a full conference room at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-CFu9_5FA.webp)
-
-## The story
-
-### The challenge
-
-Four people ran a conference for 150+ destination marketing professionals, and every session was packed with insights that can shift strategy. CityDNA needed each one captured accurately and in real time, without diverting resources it didn’t have.
-
-### What they ran
-
-CityDNA first saw Snapsight at the AI-Opener for Destinations event hosted by GroupNAO, and brought it in as a sponsorship collaboration. It ran real-time transcripts, summaries and live multilingual translation across 15+ sessions with no one monitoring it, and a Snapsight QR code was printed on every attendee badge.
-
-### What happened
-
-65% of attendees used Snapsight. They caught up on sessions they missed and rechecked key moments, speakers praised the accuracy of the summaries, and the team saved hours, maybe days, of post-event work. Next: more languages, Snapsight inside CityDNA’s event platform, and content before the event.
-
-## The numbers that mattered.
-
-**65%**
-
-of attendees used Snapsight
-
-**15+**
-
-sessions captured with no one monitoring
-
-**4**
-
-people on the organising team
-
-## What it looked like on the day.
-
-![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp) ![Cover of the CityDNA International Conference programme, Beyond Boundaries, Budapest, 9–11 April 2025](https://www.snapsight.com/snapsight-website-preview/assets/citydna-programme-DHuDaG_W.webp)
-
-CityDNA International Conference 2025 · a still from the published story’s video, and the programme
-
-## Products they used.
-
-- [**Takeaways** Key takeaways and Idea Clouds while the session is still running.](https://www.snapsight.com/snapsight-website-preview/takeaways)
-- [**Translate** Live text in each attendee’s language, on their own phone.](https://www.snapsight.com/snapsight-website-preview/translate)
-
-## More events like this one.
-
-[More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
-
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
-
-### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
-
-Takeaways · Translate
-
-ICCA Congress 2024 Association event · ICC Abu Dhabi
-
-### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
-
-Takeaways · Remix
-
-ASAE AI Summit 2024 Association event · Virtual
-
-### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
-
-Takeaways · Remix
-
-## Run this at your next event.
-
-Tell us about your programme and we’ll show you what attendees get.
-
-Adapted from the case study Snapsight published on 9 May 2025.
+Adapted from the case study Snapsight published on 21 May 2024.
 
 
 ---
@@ -5416,23 +5252,17 @@ BEIA Conference & AGM 2024 · from the published story
 
 [More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
+CityDNA International Conference 2025
+
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
+
+PCMA Convening Leaders 2024
 
 ### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
 
-Takeaways · Translate
-
-ICCA Congress 2024 Association event · ICC Abu Dhabi
+ICCA Congress 2024
 
 ### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
-
-Takeaways · Remix
-
-ASAE AI Summit 2024 Association event · Virtual
-
-### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
-
-Takeaways · Remix
 
 ## Run this at your next event.
 
@@ -5780,16 +5610,18 @@ More than 550 organisations run their sessions with Snapsight.
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -5910,7 +5742,7 @@ Snapsight makes four products. Live translation lets attendees read free or list
 
 ### Which events use Snapsight?
 
-Published stories include IMEX Frankfurt and IMEX America, ICCA Congress, The Meetings Show, Economist Impact’s AI Innovation Asia, UFI, Tech Week Singapore and London Community Week. Each story gives the event, what was run and what happened.
+Published stories include Economist Impact’s AI Innovation Asia, Informa Tech’s ATxEnterprise, Tech Week Singapore, ARC APAC Summit, The Decarbonised Mine and London Community Week, as well as IMEX, ICCA and The Meetings Show. Each story gives the event, what was run and what happened.
 
 ### Who does Snapsight partner with?
 
@@ -6165,7 +5997,7 @@ Freeman launched Key Takeaways for live events, powered by Snapsight, in Februar
 
 ### Can I see Snapsight working at an event?
 
-Yes. Open a real IMEX Frankfurt 2025 session on the experience page, or book a demo with the team.
+Yes. Open a real event session on the experience page, or book a demo with the team.
 
 
 ---
@@ -6185,16 +6017,18 @@ SOC 2 Type II · ISO 27001 · GDPR · Used at 5,000+ events in 20+ countries
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -7334,16 +7168,18 @@ How Snapsight works: an attendee scans the session QR code and gets live text, t
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -7492,7 +7328,7 @@ Snapsight is AI software for live events. It listens to each session’s audio f
 
 ### Who is Snapsight for?
 
-Event organisers of every kind: trade shows and exhibitions, conferences and congresses, associations, corporate summits, community events and festivals. Agencies, PCOs and AV companies resell it or run it under their own brand for clients. Published stories include IMEX, ICCA, The Meetings Show, Economist Impact, UFI and London Community Week.
+Event organisers of every kind: trade shows and exhibitions, conferences and congresses, associations, corporate summits, community events and festivals. Agencies, PCOs and AV companies resell it or run it under their own brand for clients. Published stories include Economist Impact, Informa Tech’s ATxEnterprise, Tech Week Singapore, ARC APAC Summit and London Community Week.
 
 ### Is Snapsight free to use at an event?
 
@@ -7516,4 +7352,4 @@ Snapsight never trains AI models on your content, and your data, including the I
 
 ### Can we try Snapsight before our event?
 
-Yes. Open a real IMEX session on the experience page with no form, start free with live text on one of your own sessions, or ask Snapsight to test it live with your speaker in the languages your audience needs.
+Yes. Open a real event session on the experience page with no form, start free with live text on one of your own sessions, or ask Snapsight to test it live with your speaker in the languages your audience needs.

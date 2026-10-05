@@ -63,23 +63,17 @@ BEIA Conference & AGM 2024 · from the published story
 
 [More on association events](https://www.snapsight.com/snapsight-website-preview/solutions/associations) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-PCMA Convening Leaders 2024 Association event · San Diego Convention Center
+CityDNA International Conference 2025
+
+### [An organising team of four. 65% of attendees used it.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/)
+
+PCMA Convening Leaders 2024
 
 ### [5,000 attendees. 2,000 of them used Snapsight.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/)
 
-Takeaways · Translate
-
-ICCA Congress 2024 Association event · ICC Abu Dhabi
+ICCA Congress 2024
 
 ### [60+ sessions summarised. The whole congress on one screen.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
-
-Takeaways · Remix
-
-ASAE AI Summit 2024 Association event · Virtual
-
-### [A survey on Day 1. Its findings in the Day 2 keynote.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/)
-
-Takeaways · Remix
 
 ## Run this at your next event.
 

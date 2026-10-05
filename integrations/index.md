@@ -49,9 +49,9 @@ One link for the whole event, and one for every session.
 
 Real screens: the session’s QR code and link from IMEX Frankfurt 2025, and a session page in the IMEX Events app at IMEX Frankfurt 2024.
 
-## It already runs inside event apps. IMEX, ICCA and UFI put it in theirs.
+## It already runs inside event apps. Organisers put it in their own.
 
-Summaries in the IMEX Events app. Takeaways in ICCA’s and UFI’s.
+FIP put it in its congress app for every presentation. IMEX, ICCA and UFI put it in theirs.
 
 ![The IMEX Events app menu at IMEX Frankfurt 2024, with Education Summaries between Education and Eating and Drinking](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp)
 
@@ -65,8 +65,8 @@ Real screens · the IMEX Events app, IMEX Frankfurt 2024
 >
 > **Nick Dugdale-Moore** · Regional Director – Europe, UFI
 
+- [**FIP World Congress 2025** Real-time translations and key takeaways from all congress presentations, in the FIP Congress App.](https://copenhagen2025.fip.org/snapsight/)
 - [**IMEX Frankfurt 2024** Summaries and Idea Clouds for 150+ education sessions, in the IMEX Events app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-- [**ICCA Congress 2024** Over 60% of attendees engaged with the content through ICCA’s app.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/)
 - [**UFI European Conference 2024** UFI’s tech team added takeaways to its conference app themselves, with no code.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/)
 
 ## Online and hybrid sessions on Zoom, Teams and Google Meet.
@@ -163,11 +163,11 @@ Or start free and try a session link in your own app.
 
 ### Can Snapsight work inside Cvent, Swapcard or our event app?
 
-Yes. Snapsight works inside any event app that can embed a web page or open a link, including Swapcard, Cvent, Bizzabo, Whova, Grip, Brella, EventsAir, Hubilo, EventMobi and Stova. IMEX, ICCA and UFI have run it inside their own apps.
+Yes. Snapsight works inside any event app that can embed a web page or open a link, including Swapcard, Cvent, Bizzabo, Whova, Grip, Brella, EventsAir, Hubilo, EventMobi and Stova. FIP ran it in its congress app, and IMEX, ICCA and UFI in theirs.
 
 ### Is it a formal integration with those apps?
 
-It doesn’t need one. Snapsight uses what event apps already support: embedding a web page or opening a link. UFI’s tech team added takeaways to its conference app themselves, with no code.
+It doesn’t need one. Snapsight uses what event apps already support: embedding a web page or opening a link. Identiverse 2024 linked to its session reports from its own event app, and UFI’s tech team added takeaways to its conference app themselves, with no code.
 
 ### Which parts of Snapsight can we embed in our app?
 

@@ -135,16 +135,18 @@ organisations
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -154,7 +156,7 @@ Trusted by event teams around the world
 
 ### How do I turn conference sessions into a post-event report?
 
-Capture the sessions with Snapsight, then ask Remix for the report: say who it’s for and what it should cover, such as the themes across every stage with the quotes behind them. Remix drafts it from the sessions you pick, and you ask for changes until it’s right. IMEX Frankfurt 2025’s 47-page report covered everything said on stage.
+Capture the sessions with Snapsight, then ask Remix for the report: say who it’s for and what it should cover, such as the themes across every stage with the quotes behind them. Remix drafts it from the sessions you pick, and you ask for changes until it’s right. Festival of Curiosity’s bilingual reports were generated automatically from its sessions.
 
 ### What can Remix make from event sessions?
 

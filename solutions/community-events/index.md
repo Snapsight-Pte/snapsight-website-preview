@@ -1,6 +1,6 @@
 ---
 title: "AI for Community Events & Festivals | Snapsight"
-description: "Two people captured 130+ festival activities and one volunteer ran BEIA’s conference. Live takeaways, translation and speaker cards for community events."
+description: "Two people captured 130+ festival activities, and 49 speakers became 147 LinkedIn posts. Live takeaways, translation and speaker cards for community events."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/community-events
 updated: 2026-10-05
 ---
@@ -29,7 +29,7 @@ Takeaways appeared four to five minutes into each session, Austrian dialect incl
 >
 > **Andreas**, Festival of Curiosity
 
-[Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=community-festival)
+[Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=community-festival)
 
 130+ activities, German and English
 
@@ -59,21 +59,21 @@ Real photos and cards from Festival of Curiosity and London Community Week. The 
 
 ## Mostly volunteers? Fifteen minutes to learn it.
 
-What it took at BEIA, run by one volunteer, and at Festival of Curiosity, run by two.
+What it took at Festival of Curiosity, run by two, and at BEIA, run by one volunteer.
 
 1. ### Before
 
-   One try-out. BEIA’s organiser tested it at home; the festival team rehearsed in its office.
+   One try-out. The festival team rehearsed in its office; BEIA’s organiser tested it at home.
 2. ### On the day
 
-   One or two people. A volunteer ran every BEIA session; at the festival, one person started sessions and another edited.
+   One or two people. At the festival, one person started sessions and another edited; a volunteer ran every BEIA session.
 3. ### In the room
 
    A QR code and a word from the MC. BEIA showed the code at the entrances and in the breaks, and the MC explained it each morning.
 
 What each room needs: one audio feed and one QR code.
 
-[BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai) [Festival of Curiosity story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025)
+[Festival of Curiosity story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai)
 
 ![Screens either side of the stage at the BEIA Conference reading “Afternoon tea. View session summaries with Snapsight”, with a QR code](https://www.snapsight.com/snapsight-website-preview/assets/beia-afternoon-tea-DzROAUyj.webp)
 
@@ -141,7 +141,7 @@ views, estimated
 
 Festival of Curiosity came away with months of material for LinkedIn from one festival.
 
-[Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix) [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=community-festival)
+[Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix) [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=community-festival)
 
 ![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-CvH5dyXu.webp)
 
@@ -173,15 +173,15 @@ Live text translation is free for every event, so you can start with one session
 
 ### We’re mostly volunteers. How many people does it take?
 
-One or two. One volunteer ran BEIA’s conference with Snapsight. Two ran Festival of Curiosity’s 130+ activities: one started sessions, the other edited in real time.
+One or two. Two ran Festival of Curiosity’s 130+ activities: one started sessions, the other edited in real time. One volunteer ran BEIA’s conference with Snapsight.
 
 ### Can we run it with no AV team?
 
-Yes. BEIA’s AV team was wary of learning a new system, so one volunteer ran it after a 15-minute test at home. Each room needs its sound sent to a laptop running Snapsight, with a reliable internet connection.
+Yes. At WiT Japan & North Asia 2024, one person handled the AV, the setup and the integration. Each room needs its sound sent to a laptop running Snapsight, with a reliable internet connection.
 
 ### How do attendees find it?
 
-By QR code. BEIA showed it on the entrance screens and in the breaks, put it on table sheets and in the conference app, and the MC explained it each morning. CityDNA printed it on every badge and reached 65% of attendees.
+By QR code. CityDNA printed it on every badge and reached 65% of attendees. BEIA showed it on the entrance screens and in the breaks, put it on table sheets and in the conference app, and the MC explained it each morning.
 
 ### Our speakers switch languages mid-sentence. Does that work?
 

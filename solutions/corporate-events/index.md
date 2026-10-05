@@ -102,7 +102,7 @@ Industry sector analysis · 2024
 
 Report Maritime and logistics sector report Singapore Apex Business Summit 2024
 
-Singapore Apex Business Summit 2024. The reports aren’t public, so each cover shows its title as the published story lists it.
+Singapore Apex Business Summit 2024. Each cover shows the report’s title as published.
 
 ## Send us your agenda. We’ll show you what your team gets.
 

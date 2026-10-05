@@ -33,16 +33,18 @@ Analizando y traduciendo…
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -242,9 +244,9 @@ Turn on up to 10 per session. Each attendee picks one.
 
 Congresses, trade shows and corporate summits, run by 550+ organisations.
 
-> “The highlights of the show for me were the AI elements, including capturing all the sessions by Snapsight.”
+> “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
 
-**David Blansfield** EVP, Northstar Meetings Group
+**Organising team** Economist Impact, AI Innovation Asia 2024
 
 7
 
@@ -252,9 +254,9 @@ languages for every takeaway at PCMA Convening Leaders 2024. 2,000 of the 5,000 
 
 The Meetings Show, London, read in Spanish
 
-![Snapsight session content on the hanging screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-CO6AZLq3.webp)
+![Idea Clouds and QR codes on the side screens in the ballroom at the Singapore Apex Business Summit 2024](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-BVR_YcIx.webp)
 
-ICCA Congress, Abu Dhabi
+Singapore Apex Business Summit
 
 ![Attendees wearing headphones at a Snapsight session, IMEX Frankfurt](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-listening-BMdz2SDr.webp)
 

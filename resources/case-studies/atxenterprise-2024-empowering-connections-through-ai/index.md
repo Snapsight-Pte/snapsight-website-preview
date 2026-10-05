@@ -63,23 +63,17 @@ ATxEnterprise 2024 · from the published story
 
 [More on trade shows](https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-The Meetings Show 2025 Trade show · ExCeL London
+Tech Week Singapore 2024
+
+### [17 stages, 500+ sessions. 13,773 content views.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/)
+
+The Meetings Show 2025
 
 ### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
 
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
-
-IMEX Frankfurt 2024 Trade show · Frankfurt
+IMEX Frankfurt 2024
 
 ### [150+ education sessions, without leaving the show floor.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/)
-
-Takeaways · Remix
 
 ## Run this at your next event.
 

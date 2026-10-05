@@ -23,16 +23,18 @@ More than 550 organisations run their sessions with Snapsight.
 
 Trusted by event teams around the world
 
+- Siemens
+- The Economist
+- AICPA
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
+- ISPOR
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- PCMA
 - IMEX
 - ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
-- Siemens
-- The Economist
 - ASAE
-- PCMA
-- AICPA
 - NorthStar
-- ISPOR
 - Freeman
 - Encore
 - Showgear Productions
@@ -153,7 +155,7 @@ Snapsight makes four products. Live translation lets attendees read free or list
 
 ### Which events use Snapsight?
 
-Published stories include IMEX Frankfurt and IMEX America, ICCA Congress, The Meetings Show, Economist Impact’s AI Innovation Asia, UFI, Tech Week Singapore and London Community Week. Each story gives the event, what was run and what happened.
+Published stories include Economist Impact’s AI Innovation Asia, Informa Tech’s ATxEnterprise, Tech Week Singapore, ARC APAC Summit, The Decarbonised Mine and London Community Week, as well as IMEX, ICCA and The Meetings Show. Each story gives the event, what was run and what happened.
 
 ### Who does Snapsight partner with?
 

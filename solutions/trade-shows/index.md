@@ -1,6 +1,6 @@
 ---
 title: "AI for Trade Shows & Exhibitions | Snapsight"
-description: "Every stage’s takeaways on attendees’ phones by QR code or in your show app, live translation, and sponsor reports after. As run at IMEX and The Meetings Show."
+description: "Every stage’s takeaways on attendees’ phones or in your show app, live translation and sponsor reports. As run at Tech Week Singapore and ATxEnterprise."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows
 updated: 2026-10-05
 ---
@@ -9,19 +9,19 @@ AI for trade shows and exhibitions
 
 # Attendees come for the show floor. They leave with every session.
 
-Every stage’s takeaways on attendees’ phones, as run at IMEX and The Meetings Show.
+Every stage’s takeaways on attendees’ phones, as run at Tech Week Singapore and ATxEnterprise.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=trade-shows) [Start with free translation](https://www.snapsight.com/signup)
 
-![Attendees around the giant IMEX letters on the IMEX Frankfurt 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-CztaaCu1.webp)
+![Panel at ATxEnterprise 2024 with session takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
 
-**150+** education sessions summarised[IMEX Frankfurt 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai)
+**400+** sessions[ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai)
 
 1 / 3
 
-## One attendee can reach 8–10 sessions. The Meetings Show ran 65.
+## One attendee can reach 8–10 sessions. With Snapsight, they got all 65.
 
-With Snapsight, every attendee got all 65, readable in 99 languages.
+At The Meetings Show 2025, all 65 sessions on three stages reached every attendee, readable in 99 languages.
 
 Three stages at once Two days →
 
@@ -73,7 +73,7 @@ Real photos from Tech Week Singapore, ATxEnterprise, IMEX and The Meetings Show.
 
 IMEX America 2024 · Las Vegas
 
-## Back-to-back meetings on the floor. Session takeaways in the IMEX app.
+## Back-to-back meetings on the floor. Session takeaways in the show app.
 
 Back at IMEX America after its debut at IMEX Frankfurt.
 
@@ -85,7 +85,7 @@ participants
 
 meetings competing with the education programme
 
-[Read the IMEX America story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america) [IMEX Frankfurt story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai) [All six trade show stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies?type=trade-show)
+[Read the IMEX America story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america) [IMEX Frankfurt story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai) [All six trade show stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=trade-show)
 
 ## Every stage in one report. Your sponsor on the cover.
 
@@ -139,7 +139,7 @@ Give each stage one audio feed from its sound desk and put its QR code on the st
 
 ### Can attendees on the show floor catch sessions they missed?
 
-Yes. Takeaways and summaries stay available, so attendees in meetings or on the floor can read the sessions they missed. At The Meetings Show 2025, every attendee got all 65 sessions, up from the 8–10 one person could attend.
+Yes. Takeaways and summaries stay available, so attendees in meetings or on the floor can read the sessions they missed. At Tech Week Singapore 2024, 26,000+ attendees got the takeaways from sessions they couldn’t reach. At The Meetings Show 2025, every attendee got all 65 sessions, up from the 8–10 one person could attend.
 
 ### Our theatres are on the show floor. Does the noise matter?
 
@@ -147,7 +147,7 @@ Accuracy follows the audio, so take a direct feed from each stage’s sound desk
 
 ### Do attendees need to download anything?
 
-No. They scan the QR code or open the link in their phone’s browser. Or put the takeaways inside your show app, as IMEX did.
+No. They scan the QR code or open the link in their phone’s browser, as ATxEnterprise attendees did at all five stages. Or put the takeaways inside your show app.
 
 ### Can exhibitors and visitors follow sessions in their own language?
 

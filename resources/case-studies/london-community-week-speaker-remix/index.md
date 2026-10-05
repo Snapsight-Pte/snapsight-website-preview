@@ -107,23 +107,17 @@ Big community changes start with trust. At London Community Week, Francisco Opaz
 
 [More on community events](https://www.snapsight.com/snapsight-website-preview/solutions/community-events) [All customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-Festival of Curiosity Community & festival · Tabakfabrik Linz, Austria
+Festival of Curiosity
 
 ### [Two people, 130+ activities. Months of content from one festival.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025/)
 
-Takeaways · Translate · Remix
+Economist Impact · AI Innovation Asia 2024
 
-The Meetings Show 2025 Trade show · ExCeL London
+### [Session highlights the same day, not 48 hours later.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-### [Three stages at once. Every attendee got all 65 sessions.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/)
+Informa Tech · ATxEnterprise 2024
 
-Takeaways · Translate
-
-The Meetings Show APAC 2024 Trade show · Marina Bay Sands, Singapore
-
-### [23 main-stage sessions. One white paper for everyone else.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/)
-
-Takeaways · Remix
+### [Five stages, 400+ sessions. Takeaways on screen and in hand.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
 
 ## Run this at your next event.
 

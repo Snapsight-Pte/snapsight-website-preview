@@ -2,7 +2,7 @@
 title: "BEIA Conference & AGM 2024: One Volunteer Ran It | Snapsight"
 description: "After a 15-minute test at home, one volunteer ran Snapsight for 170 industry leaders."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ After a 15-minute test at home, one volunteer ran Snapsight for 170 industry lea
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-zGybPvyz.webp)
+![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-z7u35INI.webp)
 
 ## The story
 
@@ -51,7 +51,7 @@ industry leaders attended
 
 ## What it looked like on the day.
 
-![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-Ck-Hf6UC.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-CWiIKrJJ.webp)
+![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-DXgeniBa.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-B4uIl6Gf.webp)
 
 BEIA Conference & AGM 2024 · from the published story
 

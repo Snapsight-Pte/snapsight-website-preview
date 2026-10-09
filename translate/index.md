@@ -2,7 +2,7 @@
 title: "Free Live Translation for Events & Conferences | Snapsight"
 description: "Real-time translation for every session: attendees read or listen on their own phone, in their own language, with no app. Live text is free; voice is $10."
 canonical: https://www.snapsight.com/snapsight-website-preview/translate
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Free real-time translation for conferences and events
@@ -66,7 +66,7 @@ Each person picks their own language on their own phone.
 
 No interpreters to book, no headsets to rent and collect.
 
-![A full hall at the 64th ICCA Congress with Snapsight on the main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-main-stage-BnmuYf_2.webp)
+![A full hall at the 64th ICCA Congress with Snapsight on the main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-main-stage-CrwPT0e5.webp)
 
 64th ICCA Congress: one stage, delegates from around the world
 
@@ -118,7 +118,7 @@ SOC 2 Type II, ISO 27001, GDPR. Encrypted in transit and at rest; never used to 
 
 ## Read it free. Or hear it in their language.
 
-![Snapsight attendee screen showing a keynote as live Spanish text](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-Bqv5Sria.webp)
+![Snapsight attendee screen showing a keynote as live Spanish text](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-D2vzQWqN.webp)
 
 Read along · Free
 
@@ -126,7 +126,7 @@ Read along · Free
 
 Sentences appear as they are spoken. Good for busy halls, note-takers, and anyone who follows better by reading.
 
-![Snapsight attendee screen with Dutch selected for voice translation](https://www.snapsight.com/snapsight-website-preview/assets/dutch-voice-DrLfvHzs.webp)
+![Snapsight attendee screen with Dutch selected for voice translation](https://www.snapsight.com/snapsight-website-preview/assets/dutch-voice-Ch03yYGB.webp)
 
 Listen · $10 per language, per session
 
@@ -240,6 +240,8 @@ Turn on up to 10 per session. Each attendee picks one.
 - Yorùbá Yoruba
 - isiZulu Zulu
 
+**Show all 99 languages**
+
 ## Used at 5,000+ events in 20+ countries.
 
 Congresses, trade shows and corporate summits, run by 550+ organisations.
@@ -254,11 +256,11 @@ languages for every takeaway at PCMA Convening Leaders 2024. 2,000 of the 5,000 
 
 The Meetings Show, London, read in Spanish
 
-![Idea Clouds and QR codes on the side screens in the ballroom at the Singapore Apex Business Summit 2024](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-BVR_YcIx.webp)
+![Idea Clouds and QR codes on the side screens in the ballroom at the Singapore Apex Business Summit 2024](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-CsVDKkkX.webp)
 
 Singapore Apex Business Summit
 
-![Attendees wearing headphones at a Snapsight session, IMEX Frankfurt](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-listening-BMdz2SDr.webp)
+![Attendees wearing headphones at a Snapsight session, IMEX Frankfurt](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-listening-CztgJZz2.webp)
 
 IMEX Frankfurt, heard in headphones
 
@@ -275,7 +277,7 @@ One audio feed, one QR code. We test both with you before doors open.
    Your AV team sends the mixer feed to a laptop running Snapsight. That is the whole install.
 2. 02
 
-   ![Snapsight QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+   ![Snapsight QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
    ### Put up one QR code
 
@@ -292,7 +294,7 @@ One audio feed, one QR code. We test both with you before doors open.
 
    [Accessibility at your event](https://www.snapsight.com/snapsight-website-preview/accessibility)
 2. Remote and hybrid attendees open the same session link and follow in their language, wherever they are.
-3. Breakouts and side stages rarely get interpreters. Engage covers up to 10 rooms at once.
+3. Breakouts and side stages rarely get interpreters. Free covers every room: one audio feed and one QR code each.
 4. Add Pro for live takeaways, an Idea Cloud and a summary, in the same language, on the same screen.
 
    [Explore Takeaways](https://www.snapsight.com/snapsight-website-preview/takeaways)
@@ -315,9 +317,9 @@ Read along
 
 Free for every event
 
-- Unlimited sessions and hours
+- Every room at once
 - Up to 10 languages per session
-- One session live at a time
+- Up to 100 sessions a year
 - Link or QR code, no app
 
 [Start with free translation](https://www.snapsight.com/signup)
@@ -333,7 +335,7 @@ $10 per language, per session
 
 [Talk about voice](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation)
 
-[Parallel rooms, takeaways or downloads? See all plans](https://www.snapsight.com/snapsight-website-preview/pricing)
+[Your branding, takeaways or downloads? See all plans](https://www.snapsight.com/snapsight-website-preview/pricing)
 
 ## Every language in the room, starting with your next event.
 
@@ -345,7 +347,7 @@ Live text is free, with no card needed. Add voice when you need it.
 
 ### Is live translation free for events?
 
-Yes. Snapsight’s live text translation is free for every event, with no trial clock: unlimited sessions and hours, one session live at a time, and up to 10 languages per session from all 99. Attendees open a link or scan a QR code; there is no app. Voice translation, transcript downloads and Pro insights are paid.
+Yes. Snapsight’s live text translation is free for every event, with no trial clock: every room at once, up to 10 languages per session from all 99, and 100 sessions a year. Attendees open a link or scan a QR code; there is no app. Voice translation, transcript downloads and Pro insights are paid.
 
 ### How do attendees get live translation on their phones without an app?
 
@@ -377,11 +379,11 @@ One audio feed: the room’s mixer output sent to a laptop running Snapsight, wi
 
 ### Can we translate several rooms at the same time?
 
-Free runs one live session at a time. The $199 Engage event pass covers up to 10 rooms for up to 7 days, so breakouts and side stages get the same translation as the main stage. For more rooms or longer programmes, Snapsight prices Enterprise with you.
+Free covers every room at once, so breakouts and side stages get the same translation as the main stage: one audio feed and one QR code each. The $299 Engage event pass adds your branding, sponsor logos and Q&A moderation across all of them, and larger programmes talk to Snapsight about Enterprise.
 
 ### Can attendees keep the translated transcript afterwards?
 
-Free is for following live. Transcript downloads, summaries and live takeaways come with Snapsight Pro at $149 per session of up to 2 hours.
+Free is for following live. Transcript downloads, summaries and live takeaways come with Snapsight Pro at $249 per session of up to 2 hours, or from $99 a session in packs.
 
 ---
 

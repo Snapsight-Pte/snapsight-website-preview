@@ -2,7 +2,7 @@
 title: "Partners | Resell or White-Label Snapsight for Your Clients"
 description: "Resell Snapsight at wholesale rates or white-label it with your logo, colours and domain. For agencies, PCOs, DMCs, AV and production companies, and resellers."
 canonical: https://www.snapsight.com/snapsight-website-preview/partners
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Partners · Reseller and white-label programmes
@@ -13,7 +13,7 @@ For agencies, PCOs, DMCs, AV and production companies, and resellers.
 
 Become a partner See both programmes
 
-![IAPCO’s stage slide titled Service Provider Partners, naming EventsAir, Fielddrive, Parthen and Snapsight, at the IAPCO Annual Meeting and General Assembly 2025 in Taipei](https://www.snapsight.com/snapsight-website-preview/assets/iapco-service-provider-partners-SCIGqcRa.webp)
+![IAPCO’s stage slide titled Service Provider Partners, naming EventsAir, Fielddrive, Parthen and Snapsight, at the IAPCO Annual Meeting and General Assembly 2025 in Taipei](https://www.snapsight.com/snapsight-website-preview/assets/iapco-service-provider-partners-DWHjxnoY.webp)
 
 IAPCO names Snapsight a Service Provider Partner · AM&GA 2025, Taipei
 
@@ -95,13 +95,13 @@ Link or embed the attendee view in the app, or pull sessions over the API and MC
 
 In the event app
 
-![A session page in the IMEX Frankfurt event app, with a link reading See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp)
+![A session page in the IMEX Frankfurt event app, with a link reading See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp)
 
 IMEX Frankfurt app: a link on each session opens its takeaways.
 
 Added by your client’s team
 
-![Live session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-COpwCTya.webp)
+![Live session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-BmzXUOtH.webp)
 
 UFI’s own team put takeaways in its conference app, with no code.
 
@@ -141,14 +141,14 @@ Four steps, with our team beside yours.
 
    Before doors open, we check the feed and languages together.
 
-   ![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-C7wpPTQo.webp)
+   ![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-Bf7GySzn.webp)
 
    The audio feed beside the stage at IMEX Frankfurt
 4. ### Your client’s event, live
 
    Attendees scan the QR code. Our team supports event day.
 
-   ![Large stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+   ![Large stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
    The stage screen on stage at The Meetings Show
 
@@ -156,7 +156,7 @@ Four steps, with our team beside yours.
 
 Industry bodies, alliances and event companies we partner with.
 
-![Session highlights from IAPCO’s Annual Meeting and General Assembly 2025 in Taipei, a spread in IAPCO’s magazine The PCO carrying the Snapsight logo](https://www.snapsight.com/snapsight-website-preview/assets/iapco-pco-session-highlights-CV0T7p0E.webp)
+![Session highlights from IAPCO’s Annual Meeting and General Assembly 2025 in Taipei, a spread in IAPCO’s magazine The PCO carrying the Snapsight logo](https://www.snapsight.com/snapsight-website-preview/assets/iapco-pco-session-highlights-B067_2Wo.webp)
 
 **IAPCO** Service Provider Partner
 

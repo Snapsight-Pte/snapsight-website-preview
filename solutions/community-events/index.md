@@ -2,7 +2,7 @@
 title: "AI for Community Events & Festivals | Snapsight"
 description: "Two people captured 130+ festival activities, and 49 speakers became 147 LinkedIn posts. Live takeaways, translation and speaker cards for community events."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/community-events
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 AI for community events and festivals
@@ -13,7 +13,7 @@ Takeaways and translation for festivals and gatherings run by small teams and vo
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=community-events) [Start with free translation](https://www.snapsight.com/signup)
 
-![Festival of Curiosity sign outside Tabakfabrik Linz](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-BCjT8DQN.webp)
+![Festival of Curiosity sign outside Tabakfabrik Linz](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-D0kHlWfO.webp)
 
 **130+** activities: keynotes, workshops and experiences[Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025)
 
@@ -53,7 +53,7 @@ people ran Snapsight for the whole festival[Festival of Curiosity](https://www.s
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-ByfxMtkd.webp) Festival of Curiosity 2025 · Tabakfabrik Linz
+![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-BR8owmCJ.webp) Festival of Curiosity 2025 · Tabakfabrik Linz
 
 Real photos and cards from Festival of Curiosity and London Community Week. The attendee view is from an IMEX Frankfurt 2025 session. The stops are phases, not one event’s schedule.
 
@@ -75,7 +75,7 @@ What each room needs: one audio feed and one QR code.
 
 [Festival of Curiosity story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai)
 
-![Screens either side of the stage at the BEIA Conference reading “Afternoon tea. View session summaries with Snapsight”, with a QR code](https://www.snapsight.com/snapsight-website-preview/assets/beia-afternoon-tea-DzROAUyj.webp)
+![Screens either side of the stage at the BEIA Conference reading “Afternoon tea. View session summaries with Snapsight”, with a QR code](https://www.snapsight.com/snapsight-website-preview/assets/beia-afternoon-tea-BDXlvufq.webp)
 
 > “I did a quick test at home with my laptop in front of a TV show… It took about 15 minutes to really get to grips with it.”
 >
@@ -104,7 +104,7 @@ A sustainability council, a city network and a national industry body.
   Snapsight was the conference’s AI insights platform.
   
   [GSTC’s write-up](https://www.gstc.org/gstc2025-conference-fiji/)
-- ![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp)
+- ![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-Dy1LKtdw.webp)
   
   ### CityDNA International Conference 2025
   
@@ -115,7 +115,7 @@ A sustainability council, a city network and a national industry body.
   An organising team of four, with the QR code printed on every badge.
   
   [Read the CityDNA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
-- ![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-zGybPvyz.webp)
+- ![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-z7u35INI.webp)
   
   ### BEIA Conference & AGM 2024
   
@@ -143,7 +143,7 @@ Festival of Curiosity came away with months of material for LinkedIn from one fe
 
 [Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix) [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=community-festival)
 
-![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-CvH5dyXu.webp)
+![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-DJz3QJA1.webp)
 
 > “What impressed me most was how easy Remix made it for speakers themselves to jump in.”
 >
@@ -197,7 +197,7 @@ Each speaker gets a private Speaker Remix link, chooses their takeaways and revi
 
 ### What’s free for community events?
 
-Live text translation for every event: unlimited sessions, one session live at a time, and up to 10 languages per session. Takeaways, reports and Speaker Remix are paid.
+Live text translation for every event: every room at once, up to 10 languages per session, and 100 sessions a year. Takeaways, reports and Speaker Remix are paid.
 
 ### Do visitors need an app?
 

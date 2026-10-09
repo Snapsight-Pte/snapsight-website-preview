@@ -2,7 +2,7 @@
 title: "AI Translation & Captioning Buyer’s Guide | Snapsight"
 description: "How to choose AI translation and live captions for your event: 12 questions to ask vendors, 5 quality tests, 8 red flags, a scorecard and an RFP."
 canonical: https://www.snapsight.com/snapsight-website-preview/guides/ai-translation-captioning-buyers-guide
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Buyer’s guide · AI translation and live captions

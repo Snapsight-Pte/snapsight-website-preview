@@ -2,7 +2,7 @@
 title: "Tech Week Singapore 2024: 500+ Sessions Covered | Snapsight"
 description: "QR codes on all 17 stages gave 26,000+ attendees the takeaways from sessions they couldn’t reach."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tech-week-singapore-2024-how-snapsight-helped-26000-attendees-stay-on-top-of-500-sessions/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ QR codes on all 17 stages gave 26,000+ attendees the takeaways from sessions the
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Tech Week Singapore 2024 stage with Snapsight QR codes on screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-sl4iSH5f.webp)
+![Tech Week Singapore 2024 stage with Snapsight QR codes on screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-Deio9RgG.webp)
 
 ## The story
 
@@ -53,7 +53,7 @@ average engagement time
 
 ## What it looked like on the day.
 
-![Georgie May of CloserStill speaking at the Snapsight stand at Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-booth-Bo4vD8kH.webp)
+![Georgie May of CloserStill speaking at the Snapsight stand at Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-booth-DSCo3fol.webp)
 
 Tech Week Singapore 2024 · a still from the video in the published story
 

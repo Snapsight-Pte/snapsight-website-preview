@@ -2,7 +2,7 @@
 title: "ICCA Congress 2024: 60+ Sessions Summarised | Snapsight"
 description: "Live takeaways for every session and an event-wide Idea Cloud on a four-sided display hung over the venue."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/icca-congress-2024-abu-dhabi/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Live takeaways for every session and an event-wide Idea Cloud on a four-sided di
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Four-sided LED display suspended over the ICCA Congress 2024 floor, showing the event-wide Idea Cloud](https://www.snapsight.com/snapsight-website-preview/assets/icca-idea-cloud-cube-Bi5It6hU.webp)
+![Four-sided LED display suspended over the ICCA Congress 2024 floor, showing the event-wide Idea Cloud](https://www.snapsight.com/snapsight-website-preview/assets/icca-idea-cloud-cube-BDdk6h8r.webp)
 
 ## The story
 
@@ -49,7 +49,7 @@ simultaneous stages over four days
 
 ## What it looked like on the day.
 
-![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-V60WAWt0.webp)
+![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-D9VDL2gs.webp)
 
 ICCA Congress 2024 · from the published story
 

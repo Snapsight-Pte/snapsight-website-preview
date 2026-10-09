@@ -2,7 +2,7 @@
 title: "ASAE AI Summit 2024: Day 1 Survey, Day 2 Keynote | Snapsight"
 description: "Session summaries for 500+ association executives, and a survey analysed in under 24 hours."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/asaes-ai-summit-empowering-associations-with-insights/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Session summaries for 500+ association executives, and a survey analysed in unde
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![ASAE AI Summit, January 30–31, 2024](https://www.snapsight.com/snapsight-website-preview/assets/asae-ai-summit-BW94NKPt.webp)
+![ASAE AI Summit, January 30–31, 2024](https://www.snapsight.com/snapsight-website-preview/assets/asae-ai-summit-C8ERq_Cg.webp)
 
 ## The story
 
@@ -49,7 +49,7 @@ association executives and industry partners
 
 ## What it looked like on the day.
 
-![Interactive report chart from the ASAE AI adoption survey](https://www.snapsight.com/snapsight-website-preview/assets/asae-report-chart-B2DicxU3.webp) ![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-CrfXnUiB.webp)
+![Interactive report chart from the ASAE AI adoption survey](https://www.snapsight.com/snapsight-website-preview/assets/asae-report-chart-DuovlBq3.webp) ![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-DOzRtVZP.webp)
 
 Real report pages · ASAE AI adoption survey, shown during the summit
 

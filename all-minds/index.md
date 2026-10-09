@@ -2,7 +2,7 @@
 title: "All Minds: Neuroinclusive Event Accessibility | Snapsight"
 description: "All Minds brings Snapsight to events built around neuroinclusion at subsidised or no cost, in return for learning together what helps. Apply by form or email."
 canonical: https://www.snapsight.com/snapsight-website-preview/all-minds
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 The All Minds initiative · Neuroinclusive events
@@ -13,7 +13,7 @@ A partnership that brings Snapsight to events built around neuroinclusion, at su
 
 [Email the team](mailto:allminds@snapsight.com) Apply to All Minds
 
-![Attendees in headphones on lounge sofas, listening to a session at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-lounge-pVoL515K.webp)
+![Attendees in headphones on lounge sofas, listening to a session at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-lounge-DWYX8Lq-.webp)
 
 A headphone session in the lounge · IMEX Frankfurt 2026
 
@@ -40,22 +40,22 @@ Neuroinclusion sessions, captured and written up by Snapsight at real events.
 
 Each attendee chooses how to follow, in their own language.
 
-- ![Live text tab showing the speaker’s words as they were said.](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
+- ![Live text tab showing the speaker’s words as they were said.](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-DoN97rsE.webp)
   
   ### Live text
   
   Read along word by word, beside the speaker’s voice.
-- ![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-CENgKQ-j.webp)
+- ![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-DibtvE_K.webp)
   
   ### Takeaways
   
   The main points, added as the speaker makes them.
-- ![Idea Cloud tab showing the session’s ideas as tiles.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-ideacloud-BD_Bn8Nf.webp)
+- ![Idea Cloud tab showing the session’s ideas as tiles.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-ideacloud-DH7qg8I6.webp)
   
   ### Idea Cloud
   
   Start with the idea that interests you and explore from there.
-- ![Summary tab: a written summary of the talk.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-summary-DlOL3zUN.webp)
+- ![Summary tab: a written summary of the talk.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-summary-DZSGAVo3.webp)
   
   ### Summary
   

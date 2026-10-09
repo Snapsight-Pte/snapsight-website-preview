@@ -2,7 +2,7 @@
 title: "Senior Account Executive | Careers at Snapsight"
 description: "Lead complex sales for Snapsight, build relationships across event organisations, and help shape how the team wins and grows customer accounts."
 canonical: https://www.snapsight.com/snapsight-website-preview/careers/senior-account-executive
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 [All open roles](https://www.snapsight.com/snapsight-website-preview/careers#open-roles)

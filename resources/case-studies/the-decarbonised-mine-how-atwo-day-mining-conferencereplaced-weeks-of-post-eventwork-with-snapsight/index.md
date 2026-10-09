@@ -2,7 +2,7 @@
 title: "The Decarbonised Mine: A Weekend, Not Weeks | Snapsight"
 description: "A two-day mining conference replaced its record-edit-transcribe-write-design routine with summaries and reports from Snapsight."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ A two-day mining conference replaced its record-edit-transcribe-write-design rou
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A speaker on stage at The Decarbonised Mine with presentation screens either side](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-stage-1VCk5cZs.webp)
+![A speaker on stage at The Decarbonised Mine with presentation screens either side](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-stage-DooRa5NU.webp)
 
 ## The story
 
@@ -47,7 +47,7 @@ for work that used to take weeks, sometimes months
 
 ## What it looked like on the day.
 
-![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-DF5ERmoC.webp)
+![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-WHhG3Zte.webp)
 
 The Decarbonised Mine · from the published story
 

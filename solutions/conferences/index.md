@@ -2,7 +2,7 @@
 title: "AI for Conferences & Congresses | Snapsight"
 description: "A summary of every session by QR code as it ends, live translation in each talk, and post-event reports in days. As run at Economist Impact and ARC APAC Summit."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/conferences
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 AI for conferences and congresses
@@ -13,7 +13,7 @@ Live text in 99 languages during each talk, and a summary by QR code after it.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=conferences) [Start with free translation](https://www.snapsight.com/signup)
 
-![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BA2ORsMI.webp)
 
 **500** executives, corporate leaders and AI professionals[AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024)
 
@@ -39,7 +39,7 @@ Design the reports
 
 for work that used to take weeks, sometimes months
 
-![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-DF5ERmoC.webp)
+![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-WHhG3Zte.webp)
 
 The Decarbonised Mine · Perth
 
@@ -69,11 +69,11 @@ from start to live[WiT Japan & North Asia 2024](https://www.snapsight.com/snapsi
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![The audio interface at the sound desk that fed Snapsight at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-FWIjbXc2.webp) The audio feed · WiT Japan & North Asia 2024
+![The audio interface at the sound desk that fed Snapsight at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-C-hhUXyX.webp) The audio feed · WiT Japan & North Asia 2024
 
 Real photos from WiT Japan & North Asia, ARC APAC Summit and Economist Impact, and a MICECon report. The stops are phases of a typical conference, not one event’s schedule.
 
-![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DChB0of-.webp)
+![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DArU0J7M.webp)
 
 > “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
 >
@@ -107,7 +107,7 @@ countries they came from
 
 [How live translation works](https://www.snapsight.com/snapsight-website-preview/translate)
 
-![A full hall at the 64th ICCA Congress in Porto, with the ICCA InsightSphere by Snapsight on both main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-porto-wide-Cc97e5h3.webp)
+![A full hall at the 64th ICCA Congress in Porto, with the ICCA InsightSphere by Snapsight on both main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-porto-wide-DPNxocqG.webp)
 
 ![The ICCA attendee app with its language menu open](https://www.snapsight.com/snapsight-website-preview/assets/icca-language-menu-poster-BVhR2UjB.webp)
 
@@ -119,7 +119,7 @@ The ICCA app
 
 Drug names, trial acronyms and speaker names go in before doors open.
 
-- ![ARC APAC Summit banner telling attendees to look out for the Snapsight QR code at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-C27wW9mK.webp)
+- ![ARC APAC Summit banner telling attendees to look out for the Snapsight QR code at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-BWzJReNc.webp)
   
   ### ARC APAC Summit 2025
   
@@ -145,7 +145,7 @@ Drug names, trial acronyms and speaker names go in before doors open.
   The 83rd World Congress of Pharmacy and Pharmaceutical Sciences.
   
   [FIP’s Snapsight page](https://copenhagen2025.fip.org/snapsight/)
-- ![A panel on stage at Behavioral Health Tech 2024 in Phoenix, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/bht-panel-ChgysKIc.webp)
+- ![A panel on stage at Behavioral Health Tech 2024 in Phoenix, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/bht-panel-Ds0kqK91.webp)
   
   ### Behavioral Health Tech 2024
   
@@ -185,7 +185,7 @@ Straight after each session, by QR code. Economist Impact had highlights out the
 
 ### Can we cover parallel tracks?
 
-Yes. Each room needs one audio feed and one QR code, and the $199 Engage event pass covers up to 10 rooms for up to 7 days. Attendees can follow one session live and read the takeaways from another.
+Yes. Each room needs one audio feed and one QR code, and Free covers every room at once. Attendees can follow one session live and read the takeaways from another.
 
 ### Can attendees follow in their own language?
 

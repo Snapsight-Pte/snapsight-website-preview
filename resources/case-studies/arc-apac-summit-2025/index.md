@@ -2,7 +2,7 @@
 title: "ARC APAC Summit 2025: 40% of Attendees Used It | Snapsight"
 description: "Real-time transcription and summaries for 20+ jargon-heavy healthcare sessions."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/arc-apac-summit-2025/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ Real-time transcription and summaries for 20+ jargon-heavy healthcare sessions.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A panel on the ARC APAC Summit 2025 stage in Melbourne](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-stage-DE89juN3.webp)
+![A panel on the ARC APAC Summit 2025 stage in Melbourne](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-stage-BvUki5oL.webp)
 
 ## The story
 
@@ -51,7 +51,7 @@ healthcare professionals
 
 ## What it looked like on the day.
 
-![ARC APAC Summit banner telling attendees to look out for Snapsight QR codes at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-C27wW9mK.webp) ![Attendees in 3D glasses during a session at ARC APAC Summit 2025](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-audience-Da7I2Nb7.webp)
+![ARC APAC Summit banner telling attendees to look out for Snapsight QR codes at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-BWzJReNc.webp) ![Attendees in 3D glasses during a session at ARC APAC Summit 2025](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-audience-1W6OUP_A.webp)
 
 ARC APAC Summit 2025 · from the published story
 

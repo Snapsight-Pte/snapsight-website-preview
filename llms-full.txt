@@ -1,10 +1,10 @@
 # Snapsight: the full text of www.snapsight.com
 
-> Snapsight is AI software for live events. One audio feed from each room gives every attendee live text, translation, key takeaways, an Idea Cloud and a summary on their own phone, from a QR code or link with no app. Afterwards, Remix turns the same sessions into post-event reports, sponsor reports and decks, and Speaker Remix gives each speaker a branded card and post to share. Live text translation is free for every event; voice translation is $10 per language per session, Engage is $199 per event for up to 10 rooms, and Pro is $149 per session. Snapsight is headquartered in Singapore.
+> Snapsight is AI software for live events. One audio feed from each room gives every attendee live text, translation, key takeaways, an Idea Cloud and a summary on their own phone, from a QR code or link with no app. Afterwards, Remix turns the same sessions into post-event reports, sponsor reports and decks, and Speaker Remix gives each speaker a branded card and post to share. Live text translation is free for every event; voice translation is $10 per language per session, Engage is $299 per event, and Pro is $249 per session or from $99 in packs. Snapsight is headquartered in Singapore.
 
-Plans, in USD before tax: Free ($0): live text translation, unlimited sessions and hours, one session live at a time. Engage ($199 per event): up to 10 rooms for up to 7 days. Pro ($149 per session of up to 2 hours), or 10 sessions for $1,190 and 50 for $4,750, used across events within 12 months. Individual Engage: $19 per month for one presenter. Voice translation: $10 per language per session, on every plan. Extra Remix credits: 20 for $19. Enterprise: on request.
+Plans, in USD before tax: Free ($0): live text translation in every room, up to 100 sessions a year. Engage ($299 per event): your branding, sponsor logos, Speaker Remix and Q&A moderation across one event. Pro ($249 per session of up to 2 hours), or packs of 20 for $3,980, 50 for $7,450, 100 for $9,900, used across events within 12 months; packs include Engage. Voice translation: $10 per language per session, on every plan. Extra Remix credits: 20 for $19. Enterprise: beyond 100 sessions a year, on request.
 
-Generated 2026-10-05 from the published pages. Each page starts with its URL.
+Generated 2026-10-09 from the published pages. Each page starts with its URL.
 
 
 ---
@@ -73,7 +73,7 @@ Each person picks their own language on their own phone.
 
 No interpreters to book, no headsets to rent and collect.
 
-![A full hall at the 64th ICCA Congress with Snapsight on the main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-main-stage-BnmuYf_2.webp)
+![A full hall at the 64th ICCA Congress with Snapsight on the main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-main-stage-CrwPT0e5.webp)
 
 64th ICCA Congress: one stage, delegates from around the world
 
@@ -125,7 +125,7 @@ SOC 2 Type II, ISO 27001, GDPR. Encrypted in transit and at rest; never used to 
 
 ## Read it free. Or hear it in their language.
 
-![Snapsight attendee screen showing a keynote as live Spanish text](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-Bqv5Sria.webp)
+![Snapsight attendee screen showing a keynote as live Spanish text](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-D2vzQWqN.webp)
 
 Read along · Free
 
@@ -133,7 +133,7 @@ Read along · Free
 
 Sentences appear as they are spoken. Good for busy halls, note-takers, and anyone who follows better by reading.
 
-![Snapsight attendee screen with Dutch selected for voice translation](https://www.snapsight.com/snapsight-website-preview/assets/dutch-voice-DrLfvHzs.webp)
+![Snapsight attendee screen with Dutch selected for voice translation](https://www.snapsight.com/snapsight-website-preview/assets/dutch-voice-Ch03yYGB.webp)
 
 Listen · $10 per language, per session
 
@@ -247,6 +247,8 @@ Turn on up to 10 per session. Each attendee picks one.
 - Yorùbá Yoruba
 - isiZulu Zulu
 
+**Show all 99 languages**
+
 ## Used at 5,000+ events in 20+ countries.
 
 Congresses, trade shows and corporate summits, run by 550+ organisations.
@@ -261,11 +263,11 @@ languages for every takeaway at PCMA Convening Leaders 2024. 2,000 of the 5,000 
 
 The Meetings Show, London, read in Spanish
 
-![Idea Clouds and QR codes on the side screens in the ballroom at the Singapore Apex Business Summit 2024](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-BVR_YcIx.webp)
+![Idea Clouds and QR codes on the side screens in the ballroom at the Singapore Apex Business Summit 2024](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-CsVDKkkX.webp)
 
 Singapore Apex Business Summit
 
-![Attendees wearing headphones at a Snapsight session, IMEX Frankfurt](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-listening-BMdz2SDr.webp)
+![Attendees wearing headphones at a Snapsight session, IMEX Frankfurt](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-listening-CztgJZz2.webp)
 
 IMEX Frankfurt, heard in headphones
 
@@ -282,7 +284,7 @@ One audio feed, one QR code. We test both with you before doors open.
    Your AV team sends the mixer feed to a laptop running Snapsight. That is the whole install.
 2. 02
 
-   ![Snapsight QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+   ![Snapsight QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
    ### Put up one QR code
 
@@ -299,7 +301,7 @@ One audio feed, one QR code. We test both with you before doors open.
 
    [Accessibility at your event](https://www.snapsight.com/snapsight-website-preview/accessibility)
 2. Remote and hybrid attendees open the same session link and follow in their language, wherever they are.
-3. Breakouts and side stages rarely get interpreters. Engage covers up to 10 rooms at once.
+3. Breakouts and side stages rarely get interpreters. Free covers every room: one audio feed and one QR code each.
 4. Add Pro for live takeaways, an Idea Cloud and a summary, in the same language, on the same screen.
 
    [Explore Takeaways](https://www.snapsight.com/snapsight-website-preview/takeaways)
@@ -322,9 +324,9 @@ Read along
 
 Free for every event
 
-- Unlimited sessions and hours
+- Every room at once
 - Up to 10 languages per session
-- One session live at a time
+- Up to 100 sessions a year
 - Link or QR code, no app
 
 [Start with free translation](https://www.snapsight.com/signup)
@@ -340,7 +342,7 @@ $10 per language, per session
 
 [Talk about voice](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation)
 
-[Parallel rooms, takeaways or downloads? See all plans](https://www.snapsight.com/snapsight-website-preview/pricing)
+[Your branding, takeaways or downloads? See all plans](https://www.snapsight.com/snapsight-website-preview/pricing)
 
 ## Every language in the room, starting with your next event.
 
@@ -352,7 +354,7 @@ Live text is free, with no card needed. Add voice when you need it.
 
 ### Is live translation free for events?
 
-Yes. Snapsight’s live text translation is free for every event, with no trial clock: unlimited sessions and hours, one session live at a time, and up to 10 languages per session from all 99. Attendees open a link or scan a QR code; there is no app. Voice translation, transcript downloads and Pro insights are paid.
+Yes. Snapsight’s live text translation is free for every event, with no trial clock: every room at once, up to 10 languages per session from all 99, and 100 sessions a year. Attendees open a link or scan a QR code; there is no app. Voice translation, transcript downloads and Pro insights are paid.
 
 ### How do attendees get live translation on their phones without an app?
 
@@ -384,11 +386,11 @@ One audio feed: the room’s mixer output sent to a laptop running Snapsight, wi
 
 ### Can we translate several rooms at the same time?
 
-Free runs one live session at a time. The $199 Engage event pass covers up to 10 rooms for up to 7 days, so breakouts and side stages get the same translation as the main stage. For more rooms or longer programmes, Snapsight prices Enterprise with you.
+Free covers every room at once, so breakouts and side stages get the same translation as the main stage: one audio feed and one QR code each. The $299 Engage event pass adds your branding, sponsor logos and Q&A moderation across all of them, and larger programmes talk to Snapsight about Enterprise.
 
 ### Can attendees keep the translated transcript afterwards?
 
-Free is for following live. Transcript downloads, summaries and live takeaways come with Snapsight Pro at $149 per session of up to 2 hours.
+Free is for following live. Transcript downloads, summaries and live takeaways come with Snapsight Pro at $249 per session of up to 2 hours, or from $99 a session in packs.
 
 
 ---
@@ -404,7 +406,7 @@ Live captions of every session on attendees’ own phones, in the speaker’s la
 
 [See it in action](https://www.snapsight.com/snapsight-website-preview/experience) [Start free](https://www.snapsight.com/signup)
 
-![Snapsight attendee screen showing a keynote as live English captions](https://www.snapsight.com/snapsight-website-preview/assets/english-live-text-D9hTO-90.webp)
+![Snapsight attendee screen showing a keynote as live English captions](https://www.snapsight.com/snapsight-website-preview/assets/english-live-text-Bm2rTQwy.webp)
 
 The attendee view in Snapsight · live text on their phone
 
@@ -442,7 +444,7 @@ Live captions, translated captions, voice and transcripts
 | Translated captions | Sometimes called live subtitles: the same words translated into another language as they are spoken. | Free as live text translation, up to 10 languages per session. |
 | Voice translation | The talk spoken aloud in another language, through the attendee’s own earbuds. | $10 per language per session, with captions included. |
 | Room-screen captions | The live text shown full screen on a stage display, TV or monitor, for everyone in the room. | Presentation Mode: high contrast, readable at a distance. |
-| Transcript | The full text of the session, to keep and search afterwards. | Transcript and subtitle downloads with Pro, $149 per session. |
+| Transcript | The full text of the session, to keep and search afterwards. | Transcript and subtitle downloads with Pro, $249 per session or less in packs. |
 
 Real session text · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
@@ -464,7 +466,7 @@ Best for requested accommodations and sessions that need a human check.
 
 ### Snapsight live captions
 
-AI writes them from the room’s audio feed, in every room that has one; Engage covers up to 10 at once. Turned on per session and free for every event, in the spoken language or translated into the attendee’s.
+AI writes them from the room’s audio feed, in every room that has one, all at once. Turned on per session and free for every event, in the spoken language or translated into the attendee’s.
 
 Best for every session, for anyone who follows better by reading.
 
@@ -523,13 +525,13 @@ Free for every event, with no trial clock. Prices in USD, before tax.
 
 $0 every event
 
-Live captions and text translation: unlimited sessions and hours, one session live at a time, up to 10 languages per session.
+Live captions and text translation: every room at once, up to 10 languages per session, up to 100 sessions a year.
 
 ### Engage
 
-$199 / event
+$299 / event
 
-Captions in up to 10 rooms at once, for up to 7 days.
+Your branding and sponsor logos on the captions, with Q&A moderation and analytics for every room of the event.
 
 ### Voice
 
@@ -539,7 +541,7 @@ Attendees hear the talk in their language, with captions included.
 
 ### Pro
 
-$149 / session
+$249 / session
 
 Transcript and subtitle downloads, live takeaways and session summaries.
 
@@ -565,7 +567,7 @@ Yes. Presentation Mode puts the live text full screen on a stage display, TV or 
 
 ### Are live captions free?
 
-Yes. Snapsight’s live captions and text translation are free for every event: unlimited sessions and hours, one session live at a time, and up to 10 languages per session. The $199 Engage pass covers up to 10 rooms at once, and transcript downloads come with Pro.
+Yes. Snapsight’s live captions and text translation are free for every event: every room at once, up to 10 languages per session, and 100 sessions a year. The $299 Engage pass puts your branding and sponsor logos on the captions, and transcript downloads come with Pro.
 
 ### How accurate are AI live captions?
 
@@ -589,7 +591,7 @@ Add speaker names, sponsor brands, drug names and acronyms as custom vocabulary 
 
 ### Can we download the captions as a transcript or subtitle file?
 
-Yes, with Snapsight Pro. Transcript and subtitle downloads are included for purchased Pro sessions at $149 per session of up to 2 hours; Free and Engage are for following live.
+Yes, with Snapsight Pro. Transcript and subtitle downloads are included for purchased Pro sessions at $249 per session of up to 2 hours, less in packs; Free and Engage are for following live.
 
 
 ---
@@ -658,7 +660,7 @@ Follow one session live and read the takeaways from the other.
 
 Catch up afterwards on the sessions you missed.
 
-![An attendee photographs a panel on stage, with the Snapsight Idea Cloud and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/phone-filming-panel-BHTN2lqC.webp)
+![An attendee photographs a panel on stage, with the Snapsight Idea Cloud and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/phone-filming-panel-BcDklNOa.webp)
 
 ## Every idea, back to who said it.
 
@@ -681,28 +683,28 @@ Takeaway
 
 On stage, in the foyer or outside a full room. It grows as the talk goes.
 
-- ![Snapsight Idea Cloud on the stage screens at Retail Congress MENA](https://www.snapsight.com/snapsight-website-preview/assets/venue-retail-congress-mena-WQBivOgA.webp)
+- ![Snapsight Idea Cloud on the stage screens at Retail Congress MENA](https://www.snapsight.com/snapsight-website-preview/assets/venue-retail-congress-mena-FghUnu6V.webp)
   
   Retail Congress MENA
-- ![Snapsight Idea Cloud on the stage screens at UNBOUND](https://www.snapsight.com/snapsight-website-preview/assets/venue-led-wall-Cc41OF99.webp)
+- ![Snapsight Idea Cloud on the stage screens at UNBOUND](https://www.snapsight.com/snapsight-website-preview/assets/venue-led-wall-CHd6I5VW.webp)
   
   UNBOUND
-- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
+- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B-oWy7pu.webp)
   
   All My T Summit
-- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-C10xjsAx.webp)
+- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-BNxC1xPV.webp)
   
   Singapore APEX Business Summit
-- ![Snapsight Idea Cloud on a tablet in front of the stage at UFI European Conference](https://www.snapsight.com/snapsight-website-preview/assets/venue-ufi-tablet-CXdpxkpm.webp)
+- ![Snapsight Idea Cloud on a tablet in front of the stage at UFI European Conference](https://www.snapsight.com/snapsight-website-preview/assets/venue-ufi-tablet-BEyXRyIU.webp)
   
   UFI European Conference
-- ![Snapsight Idea Cloud on the stage screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-jQhn1d3d.webp)
+- ![Snapsight Idea Cloud on the stage screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-Ck0sjcQu.webp)
   
   ICCA Congress, Abu Dhabi
-- ![Snapsight Idea Cloud on the stage screens at IMEX America, Las Vegas](https://www.snapsight.com/snapsight-website-preview/assets/venue-imex-las-vegas-RX6LB86k.webp)
+- ![Snapsight Idea Cloud on the stage screens at IMEX America, Las Vegas](https://www.snapsight.com/snapsight-website-preview/assets/venue-imex-las-vegas-DRblMaR8.webp)
   
   IMEX America, Las Vegas
-- ![Snapsight Idea Cloud on the stage screens at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/venue-meetings-show-apac-BFS7LtwR.webp)
+- ![Snapsight Idea Cloud on the stage screens at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/venue-meetings-show-apac-Dt-WpoT0.webp)
   
   The Meetings Show Asia Pacific
 
@@ -734,29 +736,31 @@ Remix turns the same takeaways and quotes into reports, posts and decks. This on
 
 [Explore Remix](https://www.snapsight.com/snapsight-website-preview/remix) [Explore Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix)
 
-![Remix drafting a two-page IMEX partner report, AI at Events: From Ideas to Action, from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-CSb4NRYs.webp)
+![Remix drafting a two-page IMEX partner report, AI at Events: From Ideas to Action, from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-D_u4h-3Q.webp)
 
 Real Remix output · IMEX super session with Henry Coutinho-Mason, Tracy Judge and Vamshi Velmajala
 
 Pro
 
-## $149 a session. Less when you run more.
+## $249 a session. Less when you run more.
 
 Per session, up to 2 hours. Pay per session or buy a pack. Translation stays free.
 
 - Live takeaways and Idea Cloud
 - Session summary
 - Transcript and subtitle downloads
-- 5 Remix credits per session
+- Remix for post-event content
+- Engage for the event, with any pack
+- MCP and API access
 - Free live translation, as always
 
 You pay
 
-**With packs** You save $300 **$1,190**
+**With packs** You save $1,000 **$3,980**
 
-**Per session** 10 × $149 **$1,490**
+**Per session** 20 × $249 **$4,980**
 
-$119 per session · 1 × 10-session pack
+$199 per session · 1 × 20-session pack
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways)
 
@@ -764,7 +768,7 @@ Packs are valid for 12 months. Prices in USD, before tax.
 
 ## Let every attendee leave with the ideas.
 
-$149 a session, with live translation free.
+$249 a session, with live translation free.
 
 ## Frequently asked questions
 
@@ -802,7 +806,7 @@ No. Each session has a link and a QR code that open in the phone’s browser, wi
 
 ### How much do AI session summaries cost?
 
-Snapsight Pro is $149 per session of up to 2 hours, or $119 a session in a pack of 10 and $95 in a pack of 50, valid for 12 months. Pro includes live takeaways, the Idea Cloud, summaries, transcript downloads and a speaker content kit. Live text translation stays free.
+Snapsight Pro is $249 per session of up to 2 hours, or $199, $149 and $99 a session in packs of 20, 50 and 100, valid for 12 months. Pro includes live takeaways, the Idea Cloud, summaries, transcript downloads, Remix for post-event content, and MCP and API access; packs also include Engage for every event they are used at. Live text translation stays free.
 
 ### Can takeaways from a closed session stay private?
 
@@ -844,7 +848,7 @@ Write the post-event report: the themes across every stage, with the quotes behi
 
 Here’s your report. **47 pages**, every quote tied to its session.
 
-![Actionable Insights from IMEX Frankfurt 2025](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-BIvNggI3.webp)
+![Actionable Insights from IMEX Frankfurt 2025](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-D3R7jWCV.webp)
 
 IMEX Frankfurt 2025 · both reports are real[Open the report](https://www.snapsight.com/snapsight-website-preview/examples/imex-frankfurt-2025-actionable-insights.pdf)
 
@@ -864,7 +868,7 @@ and every other session
 
 Remix
 
-![IMEX Frankfurt 2025 report](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-BIvNggI3.webp)
+![IMEX Frankfurt 2025 report](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-D3R7jWCV.webp)
 
 IMEX Frankfurt 2025 · 47 pages[Open the PDF](https://www.snapsight.com/snapsight-website-preview/examples/imex-frankfurt-2025-actionable-insights.pdf)
 
@@ -872,9 +876,9 @@ IMEX Frankfurt 2025 · 47 pages[Open the PDF](https://www.snapsight.com/snapsigh
 
 A branded report on the ideas their buyers came to hear.
 
-![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-DX-7Z_No.webp) Spice and beam, on the cover
+![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-Dp9qjyrp.webp) Spice and beam, on the cover
 
-![The Meetings Show Asia Pacific 2024 strategic insights, in partnership with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-2024-cover-Bn65cVwr.webp) Northstar Meetings Group, partner
+![The Meetings Show Asia Pacific 2024 strategic insights, in partnership with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-2024-cover-CKEf546d.webp) Northstar Meetings Group, partner
 
 AIME 2025 · Melbourne · [Open the PDF](https://www.snapsight.com/snapsight-website-preview/examples/aime-2025-strategic-report.pdf)
 
@@ -890,7 +894,7 @@ Social post
 
 10 insights from IAPCO EDGE Stockholm 2026. Swipe for the numbers.
 
-![10 insights from IAPCO EDGE Stockholm](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-DWPnYYk_.webp)
+![10 insights from IAPCO EDGE Stockholm](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-ryWbqfW0.webp)
 
 Attendee newsletter
 
@@ -993,7 +997,7 @@ Yes. Pull takeaways and reports into your CMS over the Snapsight API, or connect
 
 ### How much does Remix cost?
 
-Each Snapsight Pro session ($149) includes 5 Remix credits, the 10- and 50-session packs include 50 and 250, and an extra 20 credits cost $19. One credit creates one new standard text output; downloads and manual edits use no credits.
+Each Snapsight Pro session ($249) includes 5 Remix credits, the 20-, 50- and 100-session packs include 100, 250 and 500, and an extra 20 credits cost $19. One credit creates one new standard text output; downloads and manual edits use no credits.
 
 ### Is our content safe in Remix?
 
@@ -1029,7 +1033,7 @@ Doing it by hand means rewatching every talk, pulling lines, writing captions an
 
 London Community Week made a card for all 49 of its speakers.
 
-![Six real Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-q0RYqOra.webp)
+![Six real Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-WBGU1OdK.webp)
 
 Real cards · London Community Week 2026
 
@@ -1041,7 +1045,7 @@ Real Ewa Magiera card · example post and reactions · real posts are below
 
 ## One card carries the speaker, your event and your sponsors.
 
-![Ewa Magiera’s real Speaker Remix card from London Community Week 2026: her takeaway, her name and role, the event identity and sponsor marks](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+![Ewa Magiera’s real Speaker Remix card from London Community Week 2026: her takeaway, her name and role, the event identity and sponsor marks](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)
 
 Ewa Magiera · London Community Week 2026
 
@@ -1073,7 +1077,7 @@ No design work for your team, and no chasing speakers for posts.
 
 ## What happened at London Community Week.
 
-![London Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-BmxDlin2.png)
+![London Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-DEZTMyp5.webp)
 
 > “What impressed me most was how easy Remix made it for speakers themselves to jump in. Combined with our social team generating endless variations from each session, we kept London Community Week 2026’s momentum alive for weeks afterward.”
 
@@ -1093,7 +1097,7 @@ visible engagements across three Pages
 
 reposts into new networks
 
-![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-jUFZa59U.webp)
+![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-BODON1GQ.webp)
 
 **London Community Week** on LinkedIn
 
@@ -1101,13 +1105,13 @@ Scaling community starts with keeping people at the centre. At London Community 
 
 17 July 2026 · 36 reactions [View the post by London Community Week on LinkedIn](https://www.linkedin.com/posts/london-community-week_scaling-community-starts-with-keeping-people-activity-7483822286731599873-GwP9)
 
-![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-Dbt_8z6t.webp)
+![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-CH_k6ysw.webp)
 
 Your members are decaying on schedule. It might sound surprising, but Jillian Bejtlich's session at London Community Week challenged us to rethink member retention through the lens of science — and what that means for building healthier, longer-lasting communities. Thank you, Jillian, for sharing this thought-provoking perspective with our community. 💜 And thank you to Snapsight for helping us capture and revisit these insights. 🙌
 
 10 July 2026 · 18 reactions [View the post by London Community Week on LinkedIn](https://www.linkedin.com/posts/london-community-week_your-members-are-decaying-on-schedule-it-activity-7481357528942133248-Duqa)
 
-![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-Uf6DClYO.webp)
+![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-BNpuX2u1.webp)
 
 **Community Week** on LinkedIn
 
@@ -1184,7 +1188,7 @@ Set up languages and names, then test the audio together.
 3. **Put up the QR code** Each session has its own link and QR code, for the stage screen, a slide, a badge or print.
 4. **Run the sound check with us** We check the feed, your languages and attendee access with you before doors open.
 
-![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-C7wpPTQo.webp)
+![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-Bf7GySzn.webp)
 
 The Snapsight laptop beside the stage at IMEX Frankfurt
 
@@ -1222,11 +1226,11 @@ Your AV team sends the mixer feed to a laptop running Snapsight, with a reliable
 
 And the room’s ideas grow on the big screen as the talk goes.
 
-![Snapsight attendee screen showing the live text of the talk in English](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
+![Snapsight attendee screen showing the live text of the talk in English](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-DoN97rsE.webp)
 
 Real session · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
-![Large LED stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+![Large LED stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
 **On the big screen** The Idea Cloud and the QR code, on the main screen, LED walls or foyer screens, in your event’s colours. The Meetings Show Asia Pacific
 
@@ -1234,14 +1238,14 @@ Real session · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
 The takeaways stay available, and feed Remix for your reports and your speakers’ posts.
 
-- ![Snapsight attendee screen with the written summary of an IMEX Frankfurt session](https://www.snapsight.com/snapsight-website-preview/assets/screen-summary-Gj_xup16.webp)
+- ![Snapsight attendee screen with the written summary of an IMEX Frankfurt session](https://www.snapsight.com/snapsight-website-preview/assets/screen-summary-kbvRSBz9.webp)
   
   For attendees
   
   ### Takeaways and summaries stay open.
   
   People who missed a session can catch up afterwards.
-- ![Remix drafting a two-page IMEX partner report from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-CSb4NRYs.webp)
+- ![Remix drafting a two-page IMEX partner report from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-D_u4h-3Q.webp)
   
   For your team
   
@@ -1250,7 +1254,7 @@ The takeaways stay available, and feed Remix for your reports and your speakers�
   Post-event and sponsor reports, carousels and decks, from your sessions.
   
   [Explore Remix](https://www.snapsight.com/snapsight-website-preview/remix)
-- ![Ewa Magiera’s speaker card from London Community Week, made with Speaker Remix](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+- ![Ewa Magiera’s speaker card from London Community Week, made with Speaker Remix](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)
   
   For your speakers
   
@@ -1290,7 +1294,7 @@ Accuracy follows the audio, the accent and the language. Snapsight’s 97% Engli
 
 ### Can Snapsight run in several rooms at once?
 
-Free runs one live session at a time. The $199 Engage event pass covers up to 10 rooms for up to 7 days, and for larger programmes Snapsight prices Enterprise with you.
+Free covers every room at once, up to 100 sessions a year. The $299 Engage event pass lifts that cap for the event and adds your branding, sponsor logos and Q&A moderation; for larger programmes Snapsight prices Enterprise with you.
 
 ### Does it work for online and hybrid sessions?
 
@@ -1328,7 +1332,7 @@ Works inside any event app that can embed a page or open a link, including Swapc
 
 Live **Thriving in the AI era** *HC* Henry Coutinho-Mason
 
-![Snapsight Idea Cloud of the session’s themes, inside the event app’s session page](https://www.snapsight.com/snapsight-website-preview/assets/screen-idea-cloud-haq6YLHC.webp)
+![Snapsight Idea Cloud of the session’s themes, inside the event app’s session page](https://www.snapsight.com/snapsight-website-preview/assets/screen-idea-cloud-DkzTaA1Y.webp)
 
 Illustration of an event app. The Snapsight views are real screens from IMEX Frankfurt 2025.
 
@@ -1341,14 +1345,14 @@ One link for the whole event, and one for every session.
    1**Copy the session links.** Every session has its own link, the same one behind its QR code.
 2. IMEX Events app
 
-   ![A session page in the IMEX Events app at IMEX Frankfurt 2024, ending with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp)
+   ![A session page in the IMEX Events app at IMEX Frankfurt 2024, ending with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp)
 
    2**Add them to your app.** Embed the page in a tab or on the session, or add it as a link.
 3. snapsight.com allowed
 
    **Done** snapsight.com
 
-    ![The Snapsight takeaways page, open in the event app’s own browser](https://www.snapsight.com/snapsight-website-preview/assets/screen-takeaways--S8V5ryC.webp)
+    ![The Snapsight takeaways page, open in the event app’s own browser](https://www.snapsight.com/snapsight-website-preview/assets/screen-takeaways-BYwAAzVP.webp)
 
    3**Allow the link.** Then it opens inside the app’s own browser, not outside it.
 
@@ -1362,9 +1366,9 @@ Real screens: the session’s QR code and link from IMEX Frankfurt 2025, and a s
 
 FIP put it in its congress app for every presentation. IMEX, ICCA and UFI put it in theirs.
 
-![The IMEX Events app menu at IMEX Frankfurt 2024, with Education Summaries between Education and Eating and Drinking](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp)
+![The IMEX Events app menu at IMEX Frankfurt 2024, with Education Summaries between Education and Eating and Drinking](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-DdpE34iv.webp)
 
-![A session page in the IMEX Events app, with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp)
+![A session page in the IMEX Events app, with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp)
 
 Real screens · the IMEX Events app, IMEX Frankfurt 2024
 
@@ -1382,7 +1386,7 @@ Real screens · the IMEX Events app, IMEX Frankfurt 2024
 
 Remote attendees open the same session link as the room.
 
-![A panel on stage at WIT Japan & North Asia 2024, with the audience in the room](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-DcEKDiEg.webp)
+![A panel on stage at WIT Japan & North Asia 2024, with the audience in the room](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-Vg9oWUDA.webp)
 
 **In the room** One feed from the sound desk.
 
@@ -1506,53 +1510,33 @@ Attendees don’t need one. Without an event app, they scan the session’s QR c
 ---
 
 URL: https://www.snapsight.com/snapsight-website-preview/experience
-Title: Live Translation Demo: Try a Real Event Session | Snapsight
+Title: Live Translation Demo: Try It With Your Own Speech | Snapsight
 
-Try Snapsight
+- 12,847 demos run
+- 75+ languages
 
-# See what attendees see.
+# Experience Snapsight live.
 
-Open a real event session on your phone. No form, no app.
+See how any speech becomes real-time multilingual content intelligence. Transcription, translation and AI insights in seconds.
+
+Choose your audio source
+
+Translate into up to 3
+
+- 5 minutes
+- No credit card required
+
+## Or open a real event session.
+
+No form, no app: the attendee view of a talk at IMEX Frankfurt, with its takeaways, live text, Idea Cloud and summary.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event) [Open the real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways)
 
-![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-CENgKQ-j.webp)
+![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-DibtvE_K.webp)
 
 [**On your phone?** Scan to open it there](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways)
 
 Real session · Henry Coutinho-Mason · Thriving in the AI era · IMEX Frankfurt 2025
-
-## Hear it in another language.
-
-Press play, pick a language, then switch between reading and listening.
-
-[How live translation works](https://www.snapsight.com/snapsight-website-preview/translate)
-
-1 Pick a language
-
-2 Read or listen
-
-You hear the speaker, as the room does.
-
-0:00
-
-**Opening keynote** Español
-
-Buenos días a todos. Miren a su alrededor.
-
-Analizando y traduciendo…
-
-## Try it with your own speech.
-
-Read a real session now, or test your own speaker with us.
-
-### Test it on your own speaker
-
-We run it live with you, in the languages your audience needs.
-
-[Open a real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways) [Book a live test](https://www.snapsight.com/snapsight-website-preview/contact?interest=translation)
-
-Real session · ICCA Mediterranean and France-Benelux chapter meeting · takeaways in French
 
 ## After the talk, the session keeps working.
 
@@ -1564,7 +1548,7 @@ Made with Remix from an IMEX session on AI and events.
 
 [Read the report](https://www.snapsight.com/snapsight-website-preview/examples/imex-ai-at-events-report.pdf) [Explore Remix](https://www.snapsight.com/snapsight-website-preview/remix)
 
-[![Ewa Magiera’s Start Small Before Scaling speaker card in London Community Week’s branding.](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+[![Ewa Magiera’s Start Small Before Scaling speaker card in London Community Week’s branding.](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
 
 ### A speaker’s ideas, ready to share
 
@@ -1582,19 +1566,19 @@ Let’s see what Snapsight could do for the event you’re planning.
 
 ### Can I try Snapsight without booking a demo?
 
-Yes. The experience page opens a real event session on your phone with no form and no app: live text, takeaways, Idea Cloud and summary, in the language you pick.
+Yes. Start the live demo on the experience page: pick an audio source, the speaker’s language and up to three translations. It takes about five minutes and needs no credit card.
 
-### Is this a real session?
+### What audio can I use in the demo?
 
-Yes. It is Henry Coutinho-Mason’s session “Thriving in the AI era” at IMEX Frankfurt 2025, as attendees saw it.
+Your microphone, a YouTube video or one of the sample conference talks. On a phone the demo offers what the phone can capture: the microphone on an iPhone, the microphone or a sample talk on Android.
 
-### Can I test Snapsight with my own speaker?
+### Can I see a real event session too?
 
-Yes. Snapsight runs it live with you, in the languages your audience needs, so you can judge it on your own audio and terms.
+Yes. The experience page also opens Henry Coutinho-Mason’s session “Thriving in the AI era” at IMEX Frankfurt 2025, as attendees saw it: live text, takeaways, Idea Cloud and summary, with no form and no app.
 
 ### Can I try it at my own event for free?
 
-Yes. Live text and translation are free for every event, one session live at a time, so you can run Snapsight on a real session of your own.
+Yes. Live text and translation are free for every event, so you can run Snapsight on a real session of your own.
 
 ### Can I see what Remix makes?
 
@@ -1608,248 +1592,208 @@ Use Book a demo and tell Snapsight about your programme and what you want attend
 ---
 
 URL: https://www.snapsight.com/snapsight-website-preview/pricing
-Title: Snapsight Pricing | Free Live Text, Engage, Pro & Enterprise
+Title: Snapsight Pricing | Free Live Translation, Engage, Pro & Enterprise
 
-Pricing · Free live text for every event
+Pricing
 
-# Start with free text. Add what your event needs.
+# Live translation is free. Pay only for what you add.
 
-Help everyone follow along. Add better conversations, session takeaways and content worth sharing when you need them.
-
-Compare plans Explore add-ons
-
-For every audience
+Priced per event and per session, never per attendee.
 
 ## Free
 
 Make every session easy to follow, in your audience’s language.
 
+Sessions
+
+Up to 100 a year
+
 $0 forever
 
-Unlimited sessions and hours.
-**One session live at a time.**
+No credit card required.
 
 [Start free](https://www.snapsight.com/signup)
 
-No credit card required
+Includes:
 
 - Live transcription and text translation
-- Up to 10 active text languages per session
-- Full supported language catalogue
-- Basic Q&A and manual polls
-- Audience access by link or QR code
-
-Live viewing with Snapsight branding.
-
-For interactive events
+- Up to 10 languages a session
+- Every room at once
+- Basic Q&A and polls
+- Join by link or QR code, no app
 
 ## Engage
 
-Run better Q&A. Get people participating. See what resonates.
+Your brand and your sponsors, across the whole event.
 
-$199 / event
+Sessions
 
-Up to 10 rooms. Up to 7 days.
-**All sessions and presenters.**
+Every session of one event
 
-[Talk about Engage](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=engage)
+$299 per event
 
-Priced by rooms, never by attendees
+One event, every room.
+
+[Get Engage](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=engage)
 
 Everything in Free, plus:
 
-- Answers captured from the talk
-- Advanced Q&A moderation
-- AI-assisted questions and polls
-- Your event branding
+- Your custom branding
+- [Sponsor logos on screens and captions](https://www.snapsight.com/snapsight-website-preview/sponsors)
+- Speaker Remix cards for every speaker
+- Q&A moderation, AI questions and polls
 - Engagement analytics and exports
 
-More than 10 rooms? [Let’s talk.](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=enterprise)
-
-For lasting session value
+Packs include Engage
 
 ## Pro
 
 Keep the ideas. Get a complete record. Give speakers content to share.
 
-$149 / session
+Sessions
 
-Up to 2 hours per session.
-**A longer session counts as two.**
+$249 per session
 
-[Talk about Pro](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro) Save with session packs ↓
+One session, up to 2 hours. Packs from $99 a session include Engage.
 
-Everything in Engage, for this session.
+[Get Pro](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro)
 
 - Live takeaways and session summaries
 - Transcript and subtitle downloads
 - Insight views, analytics and session reports
-- Automatic speaker content kit
-- 5 Remix credits per Pro session
+- Remix for post-event content
+- MCP and API access
 
-Add Engage to cover every room of your event.
+## Enterprise
 
-SOC 2 Type II · ISO 27001 · GDPR · Used at 5,000+ events in 20+ countries
+For organisations running many events a year.
 
-All prices in USD, excluding applicable taxes. Voice translation is an optional $10 per language, per session on every plan.
+Sessions
 
-## Bring more sessions. Pay less for each one.
+More than 100 a year, pooled
 
-For organisations and partners
+Custom
 
-### Enterprise
-
-Run connected events at scale, with the support and flexibility your team needs.
-
-- Unlimited rooms and events
-- Pooled Pro sessions at volume rates
-- White label and custom domain
-- SSO, team administration and integrations
-- Event-day operations and dedicated support
-- SLA, data retention and invoicing
+Below $99 a session.
 
 [Talk to sales](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=enterprise)
 
-Wholesale rates for AV and production partners. Our public rates are the most you’ll pay.
+Everything in Pro, plus:
 
-Same Pro features. Use across events for 12 months.
+- Sessions pooled across events
+- SSO and team administration
+- White label and custom domain
+- Event-day operations and dedicated support
+- SLA, DPA and invoicing
 
-### 10 Pro sessions
+Prices before tax. A session is up to 2 hours.
 
-Save $300
+Used at 5,000+ events in 20+ countries
 
-$1,190 paid once
+- Freeman
+- Encore
+- IMEX
+- Northstar
+- AICPA
+- ISPOR
+- Visit Orlando
 
-$119 per session · 50 Remix credits
+Secure and accessible on every plan
 
-[Enquire about 10 sessions](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro-10)
+- SOC 2 Type II
+- ISO 27001
+- GDPR
+- WCAG 2.1 AA
 
-### 50 Pro sessions
+[How we protect event content](https://www.snapsight.com/snapsight-website-preview/security)
 
-Save $2,700
+## Want attendees to hear it? Add voice translation.
 
-$4,750 paid once
+Live speech-to-speech translation through attendees’ own earbuds, with captions in the same language. On every plan, including Free.
 
-$95 per session · 250 Remix credits
+$10 per language, per session
 
-[Enquire about 50 sessions](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro-50)
+5 languages × 20 sessions = $1,000
 
-One session is up to 2 hours. A longer session uses two sessions from your pack.
+[Estimate your event](https://www.snapsight.com/snapsight-website-preview/tools/event-translation-cost-calculator)
 
-## Speaking or training on your own? Use Engage for your talks.
+## Compare plans, side by side.
 
-Professional Q&A, polls, branding, engagement analytics and Speaker Remix access for your own presentations. Remix credits are purchased separately.
+What each plan includes: Free, Engage, Pro and Enterprise
 
-One presenter · One host account · One live session at a time · Unlimited attendees
+| Capability | Free $0 | Engage $299 per event | Pro From $99 a session | Enterprise Custom |
+| --- | --- | --- | --- | --- |
+| Live, in every room | | | | |
+| Live transcription and captions | Included | Included | Included | Included |
+| Text translation, up to 10 languages a session | Included | Included | Included | Included |
+| Rooms at once | Unlimited | Unlimited | Unlimited | Unlimited |
+| Sessions | 100 a year | The whole event | The sessions you buy | Volume |
+| Attendees join by link or QR code, no app | Included | Included | Included | Included |
+| Basic Q&A and polls | Included | Included | Included | Included |
+| Voice translation | Add-on | Add-on | Add-on | Add-on |
+| Your event | | | | |
+| Your custom branding | Not included | Included | Included | Included |
+| Sponsor logos on screens and captions | Not included | Included | Included | Included |
+| Speaker Remix cards for every speaker | Not included | Included | Included | Included |
+| Q&A moderation, AI questions and polls | Not included | Included | Included | Included |
+| Engagement analytics and exports | Not included | Included | Included | Included |
+| After each session | | | | |
+| Live takeaways and session summaries | Not included | Not included | Included | Included |
+| Transcript and subtitle downloads | Not included | Not included | Included | Included |
+| Insight views, analytics and session reports | Not included | Not included | Included | Included |
+| Remix for post-event content | Not included | Not included | Included | Included |
+| Your organisation | | | | |
+| SOC 2 Type II, ISO 27001 and GDPR | Included | Included | Included | Included |
+| SSO and team administration | Not included | Not included | Not included | Included |
+| White label and custom domain | Not included | Not included | Not included | Included |
+| Event-day operations and dedicated support | Not included | Not included | Not included | Included |
+| SLA, DPA and invoicing | Not included | Not included | Not included | Included |
 
-$19 / month
+## What organisers say after running it.
 
-[Ask about individual Engage](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=individual) Cancel anytime
-
-## Every Pro session includes a speaker content kit.
-
-Prepared from the talk, ready to review, edit and share.
-
-[Explore Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix)
-
-1
-
-### Session recap
-
-The ideas worth keeping
-
-3
-
-### Social posts
-
-A head start on sharing
-
-5
-
-### Suggested quotes
-
-Highlights from the talk
-
-1
-
-### Follow-up email
-
-Keep the conversation going
-
-Your standard kit uses no Remix credits. Use your included credits for additional content.
-
-## What each plan includes, side by side.
-
-What each plan includes: Free, Engage and Pro
-
-| Capability | Free | Engage | Pro |
-| --- | --- | --- | --- |
-| Live text hours | Unlimited | Unlimited | Unlimited |
-| Live sessions at once | 1 | Up to 10 rooms | Purchased session |
-| Active text languages | Up to 10 | Up to 10 | Up to 10 |
-| Basic Q&A and manual polls | Included | Included | Included |
-| Answers captured from the talk | — | Included | Included |
-| Advanced moderation and AI assistance | — | Included | Included |
-| Event branding | Snapsight branding | Your branding | Your branding |
-| Engagement analytics and exports | — | Included | Included |
-| Speaker Remix | — | Access; credits extra | Included |
-| Transcript and subtitle downloads | — | — | Included |
-| Live takeaways, summaries and session reports | — | — | Included |
-| Automatic speaker content kit | — | — | Included |
-| Remix credits | None | None | 5 per session |
-| Voice translation | $10 / language / session | $10 / language / session | $10 / language / session |
-
-Enterprise adds organisation-wide controls and support. Downloads, insights and automatic content kits apply to its purchased Pro sessions.
-
-## Add voice translation or more Remix credits.
-
-### Voice translation
-
-Let attendees listen in their chosen language with live speech-to-speech translation. Each paid voice language includes its text captions.
-
-$10 / language / session
-
-Available on every plan, including Free. A session is up to 2 hours; longer sessions count as two.
-
-3 languages × 5 sessions = $150
-
-[Ask about voice translation](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation)
-
-### More Remix credits
-
-Create more posts, recaps and follow-ups. One credit creates one new standard text output. Downloads and manual edits use no credits.
-
-$19 / 20 credits
-
-Pro includes 5 credits per session. Engage users can buy credits when they want to create.
-
-[Ask about extra credits](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=remix)
-
-Nonprofit, association or education event? [Ask about special pricing](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=special-pricing)
+- > “Deploying Snapsight across all 5 stages was remarkably straightforward.”
+  
+  **Cherry Lau** Conference Producer, ATxSG
+  
+  [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
+- > “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
+  
+  **Organising team** Economist Impact
+  
+  [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
+- > “The whole process that used to take us weeks was just… finished.”
+  
+  **Andrew Slavin** Leads the team behind The Decarbonised Mine
+  
+  [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
 
 ## Not sure which plan fits? We’ll put it together with you.
 
 Tell us about the rooms, sessions and languages you have in mind.
 
-[Talk through your event](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=help-me-choose) [Estimate translation costs](https://www.snapsight.com/snapsight-website-preview/tools/event-translation-cost-calculator)
+[Talk through your event](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=help-me-choose) [Start free](https://www.snapsight.com/signup)
 
 ## Frequently asked questions
 
 ### How much does Snapsight cost?
 
-Live text translation is free for every event. The Engage event pass is $199 for up to 10 rooms over up to 7 days; Pro is $149 per session of up to 2 hours, or $119 and $95 a session in packs of 10 and 50; voice translation is $10 per language per session. Enterprise is priced with you, and all prices are in USD before tax.
+Live text translation is free for every event, in every room, up to 100 sessions a year. The Engage event pass is $299; Pro is $249 per session of up to 2 hours, or $199, $149 and $99 a session in packs of 20, 50 and 100; voice translation is $10 per language per session. Programmes of more than 100 sessions a year price below $99 as Enterprise, and all prices are in USD before tax.
 
 ### What is included in the free plan?
 
-Live transcription and text translation, with no monthly session or hour allowance and one session live at a time. Choose up to 10 active text languages from the full supported catalogue. Free includes live viewing with Snapsight branding, basic Q&A and manual polls; voice translation, transcript downloads and Pro insights are paid.
+Live transcription and text translation in every room at once, with up to 10 active text languages from the full supported catalogue and 100 sessions a year. Free includes live viewing with Snapsight branding, basic Q&A and manual polls, and the session count is always in view. Voice translation, transcript downloads and Pro insights are paid.
 
 ### What counts as a session?
 
-One Pro or voice session is up to 2 hours, and a longer session counts as two: it uses two Pro sessions from a pack, or costs $20 per voice language. An Engage event lasts up to 7 days and includes up to 10 rooms, with all sessions and presenters. There is no per-attendee fee.
+A session is up to 2 hours, and a longer session counts as two: it uses two Pro sessions from a pack, costs $20 per voice language, and takes two of the free 100. An Engage event covers every room and session of that event, with all presenters. There is no per-attendee fee.
+
+### What happens after 100 free sessions in a year?
+
+The next session needs an Engage pass for its event, at $299, or a Pro pack. Sessions in an Engage or Pro event never count towards the 100, a session that is already live is never stopped, and the count resets each year.
 
 ### Do I need Engage and Pro?
 
-Pro includes everything in Engage for its own purchased session. For a multi-room event with content on selected sessions, choose Engage for the event and Pro for those sessions. They are priced separately; Pro does not include an event-wide Engage pass.
+A Pro pack includes Engage for every event it is used at, so your branding, sponsor logos, Speaker Remix and Q&A moderation run in every room of those events. A single Pro session covers that session only. Choose Engage on its own when you want the event experience without takeaways, transcripts or Remix.
 
 ### How much does voice translation cost?
 
@@ -1857,19 +1801,11 @@ Voice translation is an optional $10 per language per session on every plan, inc
 
 ### Can I download transcripts with Free or Engage?
 
-No. Transcript and subtitle downloads are included only for purchased Pro sessions, including Pro sessions in Enterprise. Engage adds engagement analytics and exports of questions and poll results, not the full spoken transcript.
-
-### How do Remix credits work?
-
-One credit creates one new standard text output; downloads and manual edits use no credits. Each Pro session includes 5 credits and an automatic speaker content kit that uses none, and an extra pack of 20 credits costs $19.
+No. Transcript and subtitle downloads are included only for purchased Pro sessions, including Pro sessions in Enterprise. Engage adds Speaker Remix cards, engagement analytics and exports of questions and poll results, not the full spoken transcript.
 
 ### Do attendees or speakers have to pay?
 
-No. Attendees join by link or QR code without buying a plan to view what you have enabled. Speakers can receive the automatic content kit from a purchased Pro session without an individual Engage subscription.
-
-### How does individual Engage work for solo speakers and trainers?
-
-Individual Engage is $19 per month for one presenter and one host account, with one live session at a time and unlimited attendees. It includes professional Q&A, polls, branding, engagement analytics and access to Speaker Remix; cancel before the next renewal to stop billing.
+No. Attendees join by link or QR code without buying a plan to view what you have enabled. Speakers get their Speaker Remix cards on Engage and Pro events without a subscription of their own.
 
 ### Is there a discount for nonprofits, associations or education?
 
@@ -1896,15 +1832,14 @@ Human interpreters **$25,320–$39,560**
 - Booths, 3 languages × 2 rooms $3,360–$6,000
 - Headsets, 500 × $7 a day $7,000
 
-Snapsight **$559**
+Snapsight **$360**
 
 - Live text, 3 languages Free
 - Voice, 3 languages × 12 sessions × $10 $360
-- Engage pass, 2 rooms in parallel $199
 
-Difference for the same 12 sessions: **$24,761–$39,001**
+Difference for the same 12 sessions: **$24,960–$39,200**
 
-[Discuss this estimate](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation&plan=engage&sessions=12&attendees=500&languages=3&engage-pass=1&estimate=559&currency=USD) [Start free](https://www.snapsight.com/signup)
+[Discuss this estimate](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation&sessions=12&attendees=500&languages=3&estimate=360&currency=USD) [Start free](https://www.snapsight.com/signup)
 
 USD, before tax. Interpreter figures exclude travel, per diems and agency fees. More than 10 rooms or 7 days? [Ask for a quote](https://www.snapsight.com/snapsight-website-preview/contact?interest=enterprise).
 
@@ -1928,7 +1863,7 @@ Attendees join from a link or a QR code on screen.
 
 From your sound desk. No booths or consoles to build.
 
-![Stage LED screen showing a Snapsight QR code beside an Idea Cloud of session themes](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+![Stage LED screen showing a Snapsight QR code beside an Idea Cloud of session themes](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
 One QR code on the main screen · The Meetings Show Asia Pacific
 
@@ -1948,7 +1883,7 @@ $10 per language per session of up to 2 hours
 
 **Parallel rooms**
 
-$199 Engage pass, up to 10 rooms and 7 days
+Free, every room: one audio feed and one QR code each
 
 [See pricing](https://www.snapsight.com/snapsight-website-preview/pricing)
 
@@ -1984,7 +1919,7 @@ Live text is free. Add voice where your audience needs it.
 
 ### What’s the cheapest way to translate a conference into 10 languages?
 
-Live text translation: with Snapsight it is free in up to 10 languages per session, read on attendees’ own phones, one session live at a time. If attendees need to hear the translation, voice is $10 per language per session, so 10 languages across 12 sessions costs $1,200, and the $199 Engage pass covers up to 10 rooms in parallel. Interpreters for the same coverage need at least two per language per booth.
+Live text translation: with Snapsight it is free in up to 10 languages per session, read on attendees’ own phones, in every room at once. If attendees need to hear the translation, voice is $10 per language per session, so 10 languages across 12 sessions costs $1,200. Interpreters for the same coverage need at least two per language per booth.
 
 ### How much does simultaneous interpretation cost?
 
@@ -1996,7 +1931,7 @@ At least two per language per booth, rotating every 20 to 30 minutes, per AIIC p
 
 ### What does Snapsight cost for the same event?
 
-Live text translation is free in every language. Voice translation, heard through attendees’ own earbuds, is $10 per language per session of up to 2 hours. Free runs one live session at a time; for rooms in parallel, the $199 Engage pass covers up to 10 rooms for up to 7 days, and there is no per-attendee fee.
+Live text translation is free in every language. Voice translation, heard through attendees’ own earbuds, is $10 per language per session of up to 2 hours. Free covers every room at once, and there is no per-attendee fee.
 
 ### When should we still book interpreters?
 
@@ -2020,7 +1955,7 @@ Every stage’s takeaways on attendees’ phones, as run at Tech Week Singapore 
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=trade-shows) [Start with free translation](https://www.snapsight.com/signup)
 
-![Panel at ATxEnterprise 2024 with session takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
+![Panel at ATxEnterprise 2024 with session takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-BQSmuP5q.webp)
 
 **400+** sessions[ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai)
 
@@ -2038,7 +1973,7 @@ One attendee’s day Every session, for every attendee
 
 sessions every attendee got, readable in 99 languages
 
-![Idea Cloud of themes from a Meetings Show 2025 session on talent in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
+![Idea Cloud of themes from a Meetings Show 2025 session on talent in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-Byb6v_tF.webp)
 
 One of the 65 · a session’s Idea Cloud
 
@@ -2066,11 +2001,11 @@ stages, each with its QR code on screen[Tech Week Singapore 2024](https://www.sn
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![Tech Week Singapore 2024 stage with Snapsight QR codes on the screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-sl4iSH5f.webp) Tech Week Singapore 2024
+![Tech Week Singapore 2024 stage with Snapsight QR codes on the screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-Deio9RgG.webp) Tech Week Singapore 2024
 
 Real photos from Tech Week Singapore, ATxEnterprise, IMEX and The Meetings Show. The stops are phases of a typical show day, not one show’s schedule.
 
-![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-BYkzB2-9.webp)
+![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-C_N9TTJo.webp)
 
 > “We’re helping attendees maximize show time by providing quick, accessible session insights while delivering high-level intelligence for global event planners.”
 >
@@ -2102,11 +2037,11 @@ Post-event and sponsor reports, drafted from what was said on your stages.
 
 Post-event report · IMEX Frankfurt 2025 · 47 pages
 
-![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-DX-7Z_No.webp) Spice and beam, on the cover
+![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-Dp9qjyrp.webp) Spice and beam, on the cover
 
 Sponsor report · AIME 2025 · partners on the cover
 
-![AIME 2026 one-page insights summary](https://www.snapsight.com/snapsight-website-preview/assets/aime-2026-onepager-CU-jj-XJ.webp)
+![AIME 2026 one-page insights summary](https://www.snapsight.com/snapsight-website-preview/assets/aime-2026-onepager-BcAJ-iV1.webp)
 
 One-pager · AIME 2026
 
@@ -2170,7 +2105,7 @@ Yes. At Tech Week Singapore 2024, organisers saw which sessions drew the most in
 
 ### What does Snapsight cost for a trade show?
 
-Live text translation is free for every event. The $199 Engage event pass covers up to 10 rooms for up to 7 days, takeaways and reports come with Pro at $149 per session, and bigger shows talk to Snapsight about Enterprise.
+Live text translation is free for every event, in every room. The $299 Engage event pass adds your branding, sponsor logos and Q&A moderation for the whole event; takeaways and reports come with Pro at $249 per session, less in packs; and bigger shows talk to Snapsight about Enterprise.
 
 
 ---
@@ -2186,7 +2121,7 @@ Live text in 99 languages during each talk, and a summary by QR code after it.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=conferences) [Start with free translation](https://www.snapsight.com/signup)
 
-![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BA2ORsMI.webp)
 
 **500** executives, corporate leaders and AI professionals[AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024)
 
@@ -2212,7 +2147,7 @@ Design the reports
 
 for work that used to take weeks, sometimes months
 
-![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-DF5ERmoC.webp)
+![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-WHhG3Zte.webp)
 
 The Decarbonised Mine · Perth
 
@@ -2242,11 +2177,11 @@ from start to live[WiT Japan & North Asia 2024](https://www.snapsight.com/snapsi
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![The audio interface at the sound desk that fed Snapsight at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-FWIjbXc2.webp) The audio feed · WiT Japan & North Asia 2024
+![The audio interface at the sound desk that fed Snapsight at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-C-hhUXyX.webp) The audio feed · WiT Japan & North Asia 2024
 
 Real photos from WiT Japan & North Asia, ARC APAC Summit and Economist Impact, and a MICECon report. The stops are phases of a typical conference, not one event’s schedule.
 
-![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DChB0of-.webp)
+![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DArU0J7M.webp)
 
 > “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
 >
@@ -2280,7 +2215,7 @@ countries they came from
 
 [How live translation works](https://www.snapsight.com/snapsight-website-preview/translate)
 
-![A full hall at the 64th ICCA Congress in Porto, with the ICCA InsightSphere by Snapsight on both main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-porto-wide-Cc97e5h3.webp)
+![A full hall at the 64th ICCA Congress in Porto, with the ICCA InsightSphere by Snapsight on both main screens](https://www.snapsight.com/snapsight-website-preview/assets/icca-congress-porto-wide-DPNxocqG.webp)
 
 ![The ICCA attendee app with its language menu open](https://www.snapsight.com/snapsight-website-preview/assets/icca-language-menu-poster-BVhR2UjB.webp)
 
@@ -2292,7 +2227,7 @@ The ICCA app
 
 Drug names, trial acronyms and speaker names go in before doors open.
 
-- ![ARC APAC Summit banner telling attendees to look out for the Snapsight QR code at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-C27wW9mK.webp)
+- ![ARC APAC Summit banner telling attendees to look out for the Snapsight QR code at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-BWzJReNc.webp)
   
   ### ARC APAC Summit 2025
   
@@ -2318,7 +2253,7 @@ Drug names, trial acronyms and speaker names go in before doors open.
   The 83rd World Congress of Pharmacy and Pharmaceutical Sciences.
   
   [FIP’s Snapsight page](https://copenhagen2025.fip.org/snapsight/)
-- ![A panel on stage at Behavioral Health Tech 2024 in Phoenix, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/bht-panel-ChgysKIc.webp)
+- ![A panel on stage at Behavioral Health Tech 2024 in Phoenix, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/bht-panel-Ds0kqK91.webp)
   
   ### Behavioral Health Tech 2024
   
@@ -2358,7 +2293,7 @@ Straight after each session, by QR code. Economist Impact had highlights out the
 
 ### Can we cover parallel tracks?
 
-Yes. Each room needs one audio feed and one QR code, and the $199 Engage event pass covers up to 10 rooms for up to 7 days. Attendees can follow one session live and read the takeaways from another.
+Yes. Each room needs one audio feed and one QR code, and Free covers every room at once. Attendees can follow one session live and read the takeaways from another.
 
 ### Can attendees follow in their own language?
 
@@ -2386,7 +2321,7 @@ Live takeaways in your app and a report afterwards, as run for FIP, AICPA & CIMA
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=associations) [Start with free translation](https://www.snapsight.com/signup)
 
-![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp)
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-Dy1LKtdw.webp)
 
 **65%** of attendees used Snapsight[CityDNA International Conference 2025](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
 
@@ -2422,11 +2357,11 @@ of attendees used Snapsight[CityDNA International Conference 2025](https://www.s
 
 [Takeaways](https://www.snapsight.com/snapsight-website-preview/takeaways)
 
-![An attendee reads a Snapsight session summary on her phone at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-CFu9_5FA.webp) CityDNA International Conference 2025 · Budapest
+![An attendee reads a Snapsight session summary on her phone at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-m1xcGCr6.webp) CityDNA International Conference 2025 · Budapest
 
 Real photos from CityDNA, PCMA, UFI and ICCA, and a page of the ASAE survey report. The stops are phases of a typical congress, not one event’s schedule.
 
-![Bill and Hillary Clinton on the screens at the PCMA Convening Leaders 2024 keynote](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-BYnDPj1c.webp)
+![Bill and Hillary Clinton on the screens at the PCMA Convening Leaders 2024 keynote](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-DeseGLkQ.webp)
 
 > “That AI summary is really awesome, so useful when you are inundated with so much information & stimuli at live events.”
 >
@@ -2475,11 +2410,11 @@ The section on member experience
 
 Post-event report · Association Focus @ IMEX Frankfurt 2025
 
-![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-CrfXnUiB.webp)
+![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-DOzRtVZP.webp)
 
 Sentiment by job function · ASAE AI adoption survey
 
-![10 insights from IAPCO EDGE Stockholm, a LinkedIn carousel](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-DWPnYYk_.webp)
+![10 insights from IAPCO EDGE Stockholm, a LinkedIn carousel](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-ryWbqfW0.webp)
 
 LinkedIn carousel · IAPCO EDGE Stockholm
 
@@ -2517,7 +2452,7 @@ sessions captured with no one monitoring
 
 [BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai) [CityDNA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
 
-![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-Ck-Hf6UC.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-CWiIKrJJ.webp)
+![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-DXgeniBa.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-B4uIl6Gf.webp)
 
 > “I would 100% recommend it. It was great. I think it’s a great addition.”
 >
@@ -2579,7 +2514,7 @@ Takeaways and translation for festivals and gatherings run by small teams and vo
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=community-events) [Start with free translation](https://www.snapsight.com/signup)
 
-![Festival of Curiosity sign outside Tabakfabrik Linz](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-BCjT8DQN.webp)
+![Festival of Curiosity sign outside Tabakfabrik Linz](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-D0kHlWfO.webp)
 
 **130+** activities: keynotes, workshops and experiences[Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025)
 
@@ -2619,7 +2554,7 @@ people ran Snapsight for the whole festival[Festival of Curiosity](https://www.s
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-ByfxMtkd.webp) Festival of Curiosity 2025 · Tabakfabrik Linz
+![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-BR8owmCJ.webp) Festival of Curiosity 2025 · Tabakfabrik Linz
 
 Real photos and cards from Festival of Curiosity and London Community Week. The attendee view is from an IMEX Frankfurt 2025 session. The stops are phases, not one event’s schedule.
 
@@ -2641,7 +2576,7 @@ What each room needs: one audio feed and one QR code.
 
 [Festival of Curiosity story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025) [BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai)
 
-![Screens either side of the stage at the BEIA Conference reading “Afternoon tea. View session summaries with Snapsight”, with a QR code](https://www.snapsight.com/snapsight-website-preview/assets/beia-afternoon-tea-DzROAUyj.webp)
+![Screens either side of the stage at the BEIA Conference reading “Afternoon tea. View session summaries with Snapsight”, with a QR code](https://www.snapsight.com/snapsight-website-preview/assets/beia-afternoon-tea-BDXlvufq.webp)
 
 > “I did a quick test at home with my laptop in front of a TV show… It took about 15 minutes to really get to grips with it.”
 >
@@ -2670,7 +2605,7 @@ A sustainability council, a city network and a national industry body.
   Snapsight was the conference’s AI insights platform.
   
   [GSTC’s write-up](https://www.gstc.org/gstc2025-conference-fiji/)
-- ![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp)
+- ![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-Dy1LKtdw.webp)
   
   ### CityDNA International Conference 2025
   
@@ -2681,7 +2616,7 @@ A sustainability council, a city network and a national industry body.
   An organising team of four, with the QR code printed on every badge.
   
   [Read the CityDNA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
-- ![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-zGybPvyz.webp)
+- ![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-z7u35INI.webp)
   
   ### BEIA Conference & AGM 2024
   
@@ -2709,7 +2644,7 @@ Festival of Curiosity came away with months of material for LinkedIn from one fe
 
 [Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix) [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix) [Both community and festival stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/?type=community-festival)
 
-![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-CvH5dyXu.webp)
+![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-DJz3QJA1.webp)
 
 > “What impressed me most was how easy Remix made it for speakers themselves to jump in.”
 >
@@ -2763,7 +2698,7 @@ Each speaker gets a private Speaker Remix link, chooses their takeaways and revi
 
 ### What’s free for community events?
 
-Live text translation for every event: unlimited sessions, one session live at a time, and up to 10 languages per session. Takeaways, reports and Speaker Remix are paid.
+Live text translation for every event: every room at once, up to 10 languages per session, and 100 sessions a year. Takeaways, reports and Speaker Remix are paid.
 
 ### Do visitors need an app?
 
@@ -2783,7 +2718,7 @@ Every session summarised, and a report drafted from the discussion, as run for A
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=corporate) [Start with free translation](https://www.snapsight.com/signup)
 
-![The ballroom at the Singapore Apex Business Summit 2024, with Idea Clouds and QR codes on the side screens](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-BVR_YcIx.webp)
+![The ballroom at the Singapore Apex Business Summit 2024, with Idea Clouds and QR codes on the side screens](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-CsVDKkkX.webp)
 
 **28** sessions captured in real time[Singapore Apex Business Summit 2024](https://www.snapsight.com/en/resources/case-studies/singapore-apex-business-summit-harnessing-strategic-insights-with-snapsight/)
 
@@ -2824,13 +2759,13 @@ Your event app tells attendees that every session will be summarised.
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![Announcement in the Identiverse 2024 app: “Snapsight – What’s that? We’re thrilled to partner with Snapsight to offer instant AI-generated content summaries for each main agenda presentation.”](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-app-announcement-C1yVQRZZ.webp)
+![Announcement in the Identiverse 2024 app: “Snapsight – What’s that? We’re thrilled to partner with Snapsight to offer instant AI-generated content summaries for each main agenda presentation.”](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-app-announcement-F4R2DNBS.webp)
 
 An announcement in the Identiverse 2024 app
 
 Real app screens and photos from Identiverse 2024 and the Singapore Apex Business Summit 2024. The stops are phases, not one event’s schedule.
 
-![A breakout room at Identiverse 2024 with the Snapsight QR code on both screens](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-breakout-BUMZVRqO.webp)
+![A breakout room at Identiverse 2024 with the Snapsight QR code on both screens](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-breakout-Cp0AQx_L.webp)
 
 > “This year, we’re excited to be partnering with Snapsight to provide instant, AI-generated content summaries for each presentation in the main agenda at the conference.”
 >
@@ -2906,7 +2841,7 @@ Snapsight is SOC 2 Type II and ISO 27001 certified, and GDPR compliant. Your con
 
 ### What does Snapsight cost for a corporate event?
 
-Live text translation is free for every event. The $199 Engage event pass covers up to 10 rooms for up to 7 days, and takeaways, summaries and transcripts come with Pro at $149 per session.
+Live text translation is free for every event, in every room. The $299 Engage event pass adds your branding, sponsor logos and Q&A moderation, and takeaways, summaries and transcripts come with Pro at $249 per session, less in packs.
 
 
 ---
@@ -2922,13 +2857,13 @@ Sell each one as sponsorship, in your own tiers and at your own price.
 
 [Plan a sponsorship](https://www.snapsight.com/snapsight-website-preview/contact?interest=sponsors) Get the prospectus text
 
-![The Snapsight stage screen on stage at WiT Japan & North Asia 2024: QR code, Idea Cloud and the event’s logo under the QR](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-DftesWiM.webp)
+![The Snapsight stage screen on stage at WiT Japan & North Asia 2024: QR code, Idea Cloud and the event’s logo under the QR](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-B5MvqUJt.webp)
 
-![The IMEX Frankfurt 2024 event app menu with an Education Summaries line](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp)
+![The IMEX Frankfurt 2024 event app menu with an Education Summaries line](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-DdpE34iv.webp)
 
-![The Strategic Insights from AIME 2025 report cover, with its partner logos on the cover](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-DX-7Z_No.webp)
+![The Strategic Insights from AIME 2025 report cover, with its partner logos on the cover](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-Dp9qjyrp.webp)
 
-![Ewa Magiera’s speaker card from London Community Week 2026, with the Sponsored by strip along the bottom](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+![Ewa Magiera’s speaker card from London Community Week 2026, with the Sponsored by strip along the bottom](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)
 
 One sponsor, every surface.
 
@@ -2940,7 +2875,7 @@ The QR slides, the stage screen and the app line attendees tap.
 
 And a thank-you from the stage in your opening remarks.
 
-![A Snapsight break slide at IMEX America 2024: “Taking a breather? We’ve got the event covered. Scan QR code to access insights from all the sessions”](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-BYkzB2-9.webp)
+![A Snapsight break slide at IMEX America 2024: “Taking a breather? We’ve got the event covered. Scan QR code to access insights from all the sessions”](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-C_N9TTJo.webp)
 
 Educational Summaries presented by Your sponsor
 
@@ -2957,7 +2892,7 @@ Sell the main stage, each theatre and each track on its own.
 
 Real Snapsight stage screens from IMEX Frankfurt 2025, The Meetings Show, WiT Japan & North Asia 2024 and all my t summit. Room and sponsor names are placeholders.
 
-![Cover of Actionable Insights from IMEX Frankfurt 2025, with the Snapsight and IMEX logos](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-BIvNggI3.webp)
+![Cover of Actionable Insights from IMEX Frankfurt 2025, with the Snapsight and IMEX logos](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-D3R7jWCV.webp)
 
 Your sponsor
 
@@ -3118,7 +3053,7 @@ Any of 99 languages, chosen by each attendee on their own phone.
 
 [How live translation works](https://www.snapsight.com/snapsight-website-preview/translate)
 
-![The live text of the session in English](https://www.snapsight.com/snapsight-website-preview/assets/live-en-D-U-Mase.webp)
+![The live text of the session in English](https://www.snapsight.com/snapsight-website-preview/assets/live-en-CLCR97jX.webp)
 
 Read along · Free
 
@@ -3126,7 +3061,7 @@ Read along · Free
 
 Sentences appear as they’re spoken, even when the speaker switches language mid-sentence.
 
-![Snapsight attendee screen with Dutch selected for voice translation](https://www.snapsight.com/snapsight-website-preview/assets/dutch-voice-DrLfvHzs.webp)
+![Snapsight attendee screen with Dutch selected for voice translation](https://www.snapsight.com/snapsight-website-preview/assets/dutch-voice-Ch03yYGB.webp)
 
 Listen · $10 per language, per session
 
@@ -3162,15 +3097,15 @@ The Idea Cloud grows as the talk goes, for anyone who follows better by seeing t
 
 [Explore Takeaways](https://www.snapsight.com/snapsight-website-preview/takeaways)
 
-![The Idea Cloud and the session QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+![The Idea Cloud and the session QR code on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
 The Meetings Show Asia Pacific
 
-![A live Idea Cloud on the big screen behind a fireside chat at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
+![A live Idea Cloud on the big screen behind a fireside chat at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B-oWy7pu.webp)
 
 All My T Summit
 
-![The Idea Cloud on the hanging screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-jQhn1d3d.webp)
+![The Idea Cloud on the hanging screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-Ck0sjcQu.webp)
 
 ICCA Congress, Abu Dhabi
 
@@ -3188,7 +3123,7 @@ Work alongside us to learn what actually helps. There’s no playbook yet; with 
 
 [Apply to All Minds](https://www.snapsight.com/snapsight-website-preview/all-minds#all-minds-apply) [About the programme](https://www.snapsight.com/snapsight-website-preview/all-minds)
 
-![The live text of the IMEX America 2025 session Embracing neurodiversity: Creating inclusive meetings and events, followed in Spanish](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-neurodiversity-es-BCh6QJ8J.webp)
+![The live text of the IMEX America 2025 session Embracing neurodiversity: Creating inclusive meetings and events, followed in Spanish](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-neurodiversity-es-DhlU7DDh.webp)
 
 Real session · Embracing neurodiversity: Creating inclusive meetings and events · IMEX America 2025
 
@@ -3226,7 +3161,7 @@ Yes. They open the same session link and follow in their language, wherever they
 
 ### What accessibility features are free?
 
-Live captions and text translation, for every event: unlimited sessions, one session live at a time, up to 10 languages per session. Voice translation is $10 per language, per session, with captions included. Takeaways, the Idea Cloud and summaries come with Pro at $149 per session.
+Live captions and text translation, for every event: every room at once, up to 10 languages per session, 100 sessions a year. Voice translation is $10 per language, per session, with captions included. Takeaways, the Idea Cloud and summaries come with Pro at $249 per session, less in packs.
 
 ### What is All Minds?
 
@@ -3246,7 +3181,7 @@ A partnership that brings Snapsight to events built around neuroinclusion, at su
 
 [Email the team](mailto:allminds@snapsight.com) Apply to All Minds
 
-![Attendees in headphones on lounge sofas, listening to a session at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-lounge-pVoL515K.webp)
+![Attendees in headphones on lounge sofas, listening to a session at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-lounge-DWYX8Lq-.webp)
 
 A headphone session in the lounge · IMEX Frankfurt 2026
 
@@ -3273,22 +3208,22 @@ Neuroinclusion sessions, captured and written up by Snapsight at real events.
 
 Each attendee chooses how to follow, in their own language.
 
-- ![Live text tab showing the speaker’s words as they were said.](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
+- ![Live text tab showing the speaker’s words as they were said.](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-DoN97rsE.webp)
   
   ### Live text
   
   Read along word by word, beside the speaker’s voice.
-- ![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-CENgKQ-j.webp)
+- ![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-DibtvE_K.webp)
   
   ### Takeaways
   
   The main points, added as the speaker makes them.
-- ![Idea Cloud tab showing the session’s ideas as tiles.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-ideacloud-BD_Bn8Nf.webp)
+- ![Idea Cloud tab showing the session’s ideas as tiles.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-ideacloud-DH7qg8I6.webp)
   
   ### Idea Cloud
   
   Start with the idea that interests you and explore from there.
-- ![Summary tab: a written summary of the talk.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-summary-DlOL3zUN.webp)
+- ![Summary tab: a written summary of the talk.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-summary-DZSGAVo3.webp)
   
   ### Summary
   
@@ -3383,7 +3318,7 @@ For agencies, PCOs, DMCs, AV and production companies, and resellers.
 
 Become a partner See both programmes
 
-![IAPCO’s stage slide titled Service Provider Partners, naming EventsAir, Fielddrive, Parthen and Snapsight, at the IAPCO Annual Meeting and General Assembly 2025 in Taipei](https://www.snapsight.com/snapsight-website-preview/assets/iapco-service-provider-partners-SCIGqcRa.webp)
+![IAPCO’s stage slide titled Service Provider Partners, naming EventsAir, Fielddrive, Parthen and Snapsight, at the IAPCO Annual Meeting and General Assembly 2025 in Taipei](https://www.snapsight.com/snapsight-website-preview/assets/iapco-service-provider-partners-DWHjxnoY.webp)
 
 IAPCO names Snapsight a Service Provider Partner · AM&GA 2025, Taipei
 
@@ -3465,13 +3400,13 @@ Link or embed the attendee view in the app, or pull sessions over the API and MC
 
 In the event app
 
-![A session page in the IMEX Frankfurt event app, with a link reading See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp)
+![A session page in the IMEX Frankfurt event app, with a link reading See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp)
 
 IMEX Frankfurt app: a link on each session opens its takeaways.
 
 Added by your client’s team
 
-![Live session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-COpwCTya.webp)
+![Live session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-BmzXUOtH.webp)
 
 UFI’s own team put takeaways in its conference app, with no code.
 
@@ -3511,14 +3446,14 @@ Four steps, with our team beside yours.
 
    Before doors open, we check the feed and languages together.
 
-   ![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-C7wpPTQo.webp)
+   ![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-Bf7GySzn.webp)
 
    The audio feed beside the stage at IMEX Frankfurt
 4. ### Your client’s event, live
 
    Attendees scan the QR code. Our team supports event day.
 
-   ![Large stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+   ![Large stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
    The stage screen on stage at The Meetings Show
 
@@ -3526,7 +3461,7 @@ Four steps, with our team beside yours.
 
 Industry bodies, alliances and event companies we partner with.
 
-![Session highlights from IAPCO’s Annual Meeting and General Assembly 2025 in Taipei, a spread in IAPCO’s magazine The PCO carrying the Snapsight logo](https://www.snapsight.com/snapsight-website-preview/assets/iapco-pco-session-highlights-CV0T7p0E.webp)
+![Session highlights from IAPCO’s Annual Meeting and General Assembly 2025 in Taipei, a spread in IAPCO’s magazine The PCO carrying the Snapsight logo](https://www.snapsight.com/snapsight-website-preview/assets/iapco-pco-session-highlights-B067_2Wo.webp)
 
 **IAPCO** Service Provider Partner
 
@@ -3598,7 +3533,7 @@ Economist Impact gave 500 executives summaries of every session by QR code, with
 
 [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BA2ORsMI.webp)
 
 ## Find an event like yours.
 
@@ -3670,6 +3605,8 @@ BEIA Conference & AGM 2024
 
 ### [One volunteer ran it for the whole conference.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai/)
 
+**Show all 17 stories**
+
 ## More customer stories
 
 - [Identiverse 2024](https://www.snapsight.com/en/resources/case-studies/snapsight-enhances-identiverse-2024-advancing-content-capture-in-identity-security/)
@@ -3681,6 +3618,8 @@ BEIA Conference & AGM 2024
 - [Korea MICE Expo 2024](https://www.snapsight.com/en/resources/case-studies/korea-mice-expo-2024/)
 - [TCEB “Model ไมซ์ใหม่” Workshop](https://www.snapsight.com/en/resources/case-studies/snapsight-empowers-multilingual-communication-and-knowledge-sharing-at-tcebs-model-%E0%B9%84%E0%B8%A1%E0%B8%8B%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-workshop/)
 - [IAPCO AM&GA 2025](https://www.snapsight.com/en/resources/case-studies/iapco-amga-2025/)
+
+**Show all 9 stories**
 
 ## What organisers said after the event.
 
@@ -3734,7 +3673,7 @@ Economist Impact gave 500 executives summaries of every session by QR code, with
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BA2ORsMI.webp)
 
 ## The story
 
@@ -3766,7 +3705,7 @@ for session highlights, against up to 48 hours for edited recordings
 
 ## What it looked like on the day.
 
-![Delegates at a table in the networking area at AI Innovation Asia 2024, beside a QR code card for the event agenda](https://www.snapsight.com/snapsight-website-preview/assets/economist-qr-card-Cw9M7M8d.webp) ![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DChB0of-.webp)
+![Delegates at a table in the networking area at AI Innovation Asia 2024, beside a QR code card for the event agenda](https://www.snapsight.com/snapsight-website-preview/assets/economist-qr-card-ChjLYuUX.webp) ![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DArU0J7M.webp)
 
 AI Innovation Asia 2024 · from the published story
 
@@ -3813,7 +3752,7 @@ Key takeaways on screen at all five stages, and on attendees’ phones by QR cod
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel at ATxEnterprise 2024 with session takeaways and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
+![Panel at ATxEnterprise 2024 with session takeaways and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-BQSmuP5q.webp)
 
 ## The story
 
@@ -3849,7 +3788,7 @@ tech professionals from 110 countries
 
 ## What it looked like on the day.
 
-![An attendee photographs the takeaways screen at ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/assets/atx-phone-CDDA98P8.webp)
+![An attendee photographs the takeaways screen at ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/assets/atx-phone-C1p63V7D.webp)
 
 ATxEnterprise 2024 · from the published story
 
@@ -3895,7 +3834,7 @@ Real-time transcription and summaries for 20+ jargon-heavy healthcare sessions.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A panel on the ARC APAC Summit 2025 stage in Melbourne](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-stage-DE89juN3.webp)
+![A panel on the ARC APAC Summit 2025 stage in Melbourne](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-stage-BvUki5oL.webp)
 
 ## The story
 
@@ -3931,7 +3870,7 @@ healthcare professionals
 
 ## What it looked like on the day.
 
-![ARC APAC Summit banner telling attendees to look out for Snapsight QR codes at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-C27wW9mK.webp) ![Attendees in 3D glasses during a session at ARC APAC Summit 2025](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-audience-Da7I2Nb7.webp)
+![ARC APAC Summit banner telling attendees to look out for Snapsight QR codes at each session](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-qr-poster-BWzJReNc.webp) ![Attendees in 3D glasses during a session at ARC APAC Summit 2025](https://www.snapsight.com/snapsight-website-preview/assets/arc-apac-audience-1W6OUP_A.webp)
 
 ARC APAC Summit 2025 · from the published story
 
@@ -3977,7 +3916,7 @@ A two-day mining conference replaced its record-edit-transcribe-write-design rou
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A speaker on stage at The Decarbonised Mine with presentation screens either side](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-stage-1VCk5cZs.webp)
+![A speaker on stage at The Decarbonised Mine with presentation screens either side](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-stage-DooRa5NU.webp)
 
 ## The story
 
@@ -4009,7 +3948,7 @@ for work that used to take weeks, sometimes months
 
 ## What it looked like on the day.
 
-![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-DF5ERmoC.webp)
+![A speaker at the lectern at The Decarbonised Mine conference in Perth](https://www.snapsight.com/snapsight-website-preview/assets/decarbonised-mine-speaker-WHhG3Zte.webp)
 
 The Decarbonised Mine · from the published story
 
@@ -4058,7 +3997,7 @@ QR codes on all 17 stages gave 26,000+ attendees the takeaways from sessions the
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Tech Week Singapore 2024 stage with Snapsight QR codes on screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-sl4iSH5f.webp)
+![Tech Week Singapore 2024 stage with Snapsight QR codes on screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-Deio9RgG.webp)
 
 ## The story
 
@@ -4094,7 +4033,7 @@ average engagement time
 
 ## What it looked like on the day.
 
-![Georgie May of CloserStill speaking at the Snapsight stand at Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-booth-Bo4vD8kH.webp)
+![Georgie May of CloserStill speaking at the Snapsight stand at Tech Week Singapore 2024](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-booth-DSCo3fol.webp)
 
 Tech Week Singapore 2024 · a still from the video in the published story
 
@@ -4140,7 +4079,7 @@ A two-person team captured a bilingual festival in German and English, Austrian 
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Festival of Curiosity key visual: two people tossing cubes on a factory rooftop, with a 23–24 May 2025 date card](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-BCjT8DQN.webp)
+![Festival of Curiosity key visual: two people tossing cubes on a factory rooftop, with a 23–24 May 2025 date card](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-D0kHlWfO.webp)
 
 ## The story
 
@@ -4176,7 +4115,7 @@ into a session before takeaways appear
 
 ## What it looked like on the day.
 
-![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-ByfxMtkd.webp)
+![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-BR8owmCJ.webp)
 
 Festival of Curiosity · from the published story
 
@@ -4224,7 +4163,7 @@ One person handled AV, setup and integration, and attendees used the insights fo
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel on stage at WiT Japan & North Asia 2024 with the takeaways screen to the left](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-DcEKDiEg.webp)
+![Panel on stage at WiT Japan & North Asia 2024 with the takeaways screen to the left](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-Vg9oWUDA.webp)
 
 ## The story
 
@@ -4270,7 +4209,7 @@ from start to live
 
 ## What it looked like on the day.
 
-![Idea Cloud and QR code on screen at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-DftesWiM.webp) ![Two speakers in conversation at WiT Japan & North Asia 2024, with session takeaways on the screen behind them](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-panel-DNwJhZbi.webp) ![An audio interface cabled to a laptop showing the Snapsight QR code at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-FWIjbXc2.webp)
+![Idea Cloud and QR code on screen at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-B5MvqUJt.webp) ![Two speakers in conversation at WiT Japan & North Asia 2024, with session takeaways on the screen behind them](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-panel-DhiLVLbJ.webp) ![An audio interface cabled to a laptop showing the Snapsight QR code at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-C-hhUXyX.webp)
 
 WiT Japan & North Asia 2024 · photos from the published story
 
@@ -4316,7 +4255,7 @@ Transcripts, summaries and translation across 15+ sessions, with a QR code print
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A phone showing Snapsight’s Takeaways tab, held up in a full conference room at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-CFu9_5FA.webp)
+![A phone showing Snapsight’s Takeaways tab, held up in a full conference room at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-m1xcGCr6.webp)
 
 ## The story
 
@@ -4348,7 +4287,7 @@ people on the organising team
 
 ## What it looked like on the day.
 
-![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp) ![Cover of the CityDNA International Conference programme, Beyond Boundaries, Budapest, 9–11 April 2025](https://www.snapsight.com/snapsight-website-preview/assets/citydna-programme-DHuDaG_W.webp)
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-Dy1LKtdw.webp) ![Cover of the CityDNA International Conference programme, Beyond Boundaries, Budapest, 9–11 April 2025](https://www.snapsight.com/snapsight-website-preview/assets/citydna-programme-D_nkYXkt.webp)
 
 CityDNA International Conference 2025 · a still from the published story’s video, and the programme
 
@@ -4387,7 +4326,7 @@ Title: London Community Week 2026: 147 LinkedIn Posts | Snapsight
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-![Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-BmxDlin2.png)
+![Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-DEZTMyp5.webp)
 
 **London Community Week 2026** Led by Community C.I.C. 7–9 July 2026 · Big Penny Social, London
 
@@ -4397,7 +4336,7 @@ A card for every speaker, shared across three official Pages for weeks after the
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=speaker-remix) [Start free](https://www.snapsight.com/signup)
 
-![A grid of Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-q0RYqOra.webp)
+![A grid of Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-WBGU1OdK.webp)
 
 ## The story
 
@@ -4435,9 +4374,9 @@ reposts into new networks
 
 Six of the 49 Speaker Remix cards · London Community Week 2026
 
-![Speaker card for Juulia Ruha, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-1-DiuE5756.webp) ![Speaker card for Vera Hazelwood, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-2-Cgm5ZZTD.webp) ![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-CvH5dyXu.webp)
+![Speaker card for Juulia Ruha, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-1-D2Ad55-r.webp) ![Speaker card for Vera Hazelwood, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-2-CTjPXXLb.webp) ![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-DJz3QJA1.webp)
 
-![Speaker card for Viktorija Ignatavičiūtė from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-4-BLVxqIs4.webp) ![Speaker card for Kimmy Costa from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-5-DuU3Dt8Q.webp) ![Speaker card for Sonia Toqqe, Playbooks must be living documents, not forgotten files, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-6-CnedGhI5.webp)
+![Speaker card for Viktorija Ignatavičiūtė from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-4-BIiI8knF.webp) ![Speaker card for Kimmy Costa from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-5-LIR2DfHV.webp) ![Speaker card for Sonia Toqqe, Playbooks must be living documents, not forgotten files, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-6-DVxWlpoR.webp)
 
 ## 147 posts across three official Pages.
 
@@ -4455,7 +4394,7 @@ From the case study Snapsight published on 12 August 2026.
 
 Real posts from the event’s own Page, each crediting Snapsight.
 
-![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-jUFZa59U.webp)
+![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-BODON1GQ.webp)
 
 **London Community Week** on LinkedIn · 17 July 2026
 
@@ -4463,7 +4402,7 @@ Scaling community starts with keeping people at the centre. At London Community 
 
 36 reactions · 3 comments [View post](https://www.linkedin.com/posts/london-community-week_scaling-community-starts-with-keeping-people-activity-7483822286731599873-GwP9)
 
-![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-Dbt_8z6t.webp)
+![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-CH_k6ysw.webp)
 
 **London Community Week** on LinkedIn · 10 July 2026
 
@@ -4471,7 +4410,7 @@ Your members are decaying on schedule. It might sound surprising, but Jillian Be
 
 18 reactions · 1 comment [View post](https://www.linkedin.com/posts/london-community-week_your-members-are-decaying-on-schedule-it-activity-7481357528942133248-Duqa)
 
-![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-Uf6DClYO.webp)
+![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-BNpuX2u1.webp)
 
 **Community Week** on LinkedIn · 16 July 2026
 
@@ -4523,7 +4462,7 @@ Live text, key takeaways and Idea Clouds for every session on three main stages,
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Idea Cloud from The Meetings Show 2025 session on talent and workforce development in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
+![Idea Cloud from The Meetings Show 2025 session on talent and workforce development in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-Byb6v_tF.webp)
 
 ## The story
 
@@ -4559,7 +4498,7 @@ total setup time for all 65 sessions
 
 ## What it looked like on the day.
 
-- ![Opening page of The Meetings Show 2025 Playbook, crediting Snapsight for capturing 65 live sessions](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-playbook-D6eWgPmQ.webp)
+- ![Opening page of The Meetings Show 2025 Playbook, crediting Snapsight for capturing 65 live sessions](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-playbook-D4JPLoz-.webp)
   
   Playbook · The Meetings Show 2025
 
@@ -4608,7 +4547,7 @@ Summaries and Idea Clouds for every education session, inside the IMEX app and o
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Attendees around the giant IMEX letters on the IMEX Frankfurt 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-CztaaCu1.webp)
+![Attendees around the giant IMEX letters on the IMEX Frankfurt 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-DXNX6ogg.webp)
 
 ## The story
 
@@ -4644,7 +4583,7 @@ buyers from 96 countries
 
 ## What it looked like on the day.
 
-![IMEX Frankfurt 2024 app menu with Education Summaries](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp) ![A session page in the IMEX app linking to its takeaways](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp) ![Idea Cloud from an IMEX Frankfurt 2024 session on sustainability](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-idea-cloud-BxjCXdk4.webp)
+![IMEX Frankfurt 2024 app menu with Education Summaries](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-DdpE34iv.webp) ![A session page in the IMEX app linking to its takeaways](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp) ![Idea Cloud from an IMEX Frankfurt 2024 session on sustainability](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-idea-cloud-BEJsiwlW.webp)
 
 Real screens · the IMEX Events app and an Idea Cloud from IMEX Frankfurt 2024
 
@@ -4691,7 +4630,7 @@ Real-time summaries and Idea Clouds, including for the Clinton keynote, with tak
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Convening Leaders 2024 stage with an Idea Cloud and QR code on the big screen](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-stage-B4Mk7EOU.webp)
+![Convening Leaders 2024 stage with an Idea Cloud and QR code on the big screen](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-stage-M2g2h1sG.webp)
 
 ## The story
 
@@ -4723,7 +4662,7 @@ languages for every takeaway
 
 ## What it looked like on the day.
 
-![President Bill Clinton and Hillary Rodham Clinton on the big screens at PCMA Convening Leaders 2024](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-BYnDPj1c.webp) ![The main stage at PCMA Convening Leaders 2024 in San Diego](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-main-stage-C01A_CfJ.webp)
+![President Bill Clinton and Hillary Rodham Clinton on the big screens at PCMA Convening Leaders 2024](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-DeseGLkQ.webp) ![The main stage at PCMA Convening Leaders 2024 in San Diego](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-main-stage-Qlc6vAda.webp)
 
 PCMA Convening Leaders 2024 · the Clinton keynote and the main stage
 
@@ -4772,7 +4711,7 @@ Live takeaways for every session and an event-wide Idea Cloud on a four-sided di
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Four-sided LED display suspended over the ICCA Congress 2024 floor, showing the event-wide Idea Cloud](https://www.snapsight.com/snapsight-website-preview/assets/icca-idea-cloud-cube-Bi5It6hU.webp)
+![Four-sided LED display suspended over the ICCA Congress 2024 floor, showing the event-wide Idea Cloud](https://www.snapsight.com/snapsight-website-preview/assets/icca-idea-cloud-cube-BDdk6h8r.webp)
 
 ## The story
 
@@ -4804,7 +4743,7 @@ simultaneous stages over four days
 
 ## What it looked like on the day.
 
-![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-V60WAWt0.webp)
+![A session hall at ICCA Congress 2024 in Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/icca-hall-D9VDL2gs.webp)
 
 ICCA Congress 2024 · from the published story
 
@@ -4853,7 +4792,7 @@ Session takeaways in the IMEX app for a show with 15,800 participants and 85,000
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-BYkzB2-9.webp)
+![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-C_N9TTJo.webp)
 
 ## The story
 
@@ -4899,7 +4838,7 @@ meetings competing with the education programme
 
 ## What it looked like on the day.
 
-![Attendees after a session at IMEX America 2024, with a thank-you screen and QR code at the front of the room](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-room-CIO_gWG_.webp) ![The Snapsight and Spark stand on the IMEX America 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-booth-DeQ8f63w.webp) ![Attendees in the corridors at IMEX America 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-venue-P-KFW8TG.webp)
+![Attendees after a session at IMEX America 2024, with a thank-you screen and QR code at the front of the room](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-room-eufxIwCR.webp) ![The Snapsight and Spark stand on the IMEX America 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-booth-DYRNJh5L.webp) ![Attendees in the corridors at IMEX America 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-venue-9RfdwALt.webp)
 
 IMEX America 2024 · photos from the published story
 
@@ -4947,7 +4886,7 @@ Session summaries for 500+ association executives, and a survey analysed in unde
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![ASAE AI Summit, January 30–31, 2024](https://www.snapsight.com/snapsight-website-preview/assets/asae-ai-summit-BW94NKPt.webp)
+![ASAE AI Summit, January 30–31, 2024](https://www.snapsight.com/snapsight-website-preview/assets/asae-ai-summit-C8ERq_Cg.webp)
 
 ## The story
 
@@ -4979,7 +4918,7 @@ association executives and industry partners
 
 ## What it looked like on the day.
 
-![Interactive report chart from the ASAE AI adoption survey](https://www.snapsight.com/snapsight-website-preview/assets/asae-report-chart-B2DicxU3.webp) ![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-CrfXnUiB.webp)
+![Interactive report chart from the ASAE AI adoption survey](https://www.snapsight.com/snapsight-website-preview/assets/asae-report-chart-DuovlBq3.webp) ![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-DOzRtVZP.webp)
 
 Real report pages · ASAE AI adoption survey, shown during the summit
 
@@ -5028,7 +4967,7 @@ UFI’s own tech team put takeaways into the conference app, with no code.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-COpwCTya.webp)
+![Session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-BmzXUOtH.webp)
 
 ## The story
 
@@ -5064,7 +5003,7 @@ to put takeaways in the UFI app
 
 ## What it looked like on the day.
 
-![A session’s Idea Cloud on a tablet in front of the stage at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-idea-cloud-BenIvD-F.webp) ![A speaker on the UFI European Conference 2024 stage in Zurich](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-stage-DANyXgmD.webp)
+![A session’s Idea Cloud on a tablet in front of the stage at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-idea-cloud-Cl4M19ez.webp) ![A speaker on the UFI European Conference 2024 stage in Zurich](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-stage-Btlsg6Cg.webp)
 
 UFI European Conference 2024 · stills from the videos in the published story
 
@@ -5113,7 +5052,7 @@ Takeaways flashed on screen after every main-stage session, then shared with the
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel on stage at The Meetings Show APAC with live takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-DYOdNJRr.webp)
+![Panel on stage at The Meetings Show APAC with live takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-B8TZ3sur.webp)
 
 ## The story
 
@@ -5153,11 +5092,11 @@ main-stage sessions captured, with no extra setup
 
 ## What it looked like on the day.
 
-![A panel on the main stage at The Meetings Show APAC, with a session takeaway and the Snapsight QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-panel-DdBVRlYv.webp)
+![A panel on the main stage at The Meetings Show APAC, with a session takeaway and the Snapsight QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-panel-Cj-RbL1Z.webp)
 
 The Meetings Show APAC 2024 · a still from the published story’s video, and the white paper embedded in it
 
-- ![Cover of the white paper Asia Pacific’s role in recasting the global MICE sector, produced by Snapsight with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-white-paper-CuriJQ5A.webp)
+- ![Cover of the white paper Asia Pacific’s role in recasting the global MICE sector, produced by Snapsight with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-white-paper-C3clTMuS.webp)
   
   White paper · The Meetings Show APAC 2024
 
@@ -5204,7 +5143,7 @@ After a 15-minute test at home, one volunteer ran Snapsight for 170 industry lea
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-zGybPvyz.webp)
+![A full room at the BEIA Conference & AGM 2024 in New Plymouth](https://www.snapsight.com/snapsight-website-preview/assets/beia-room-z7u35INI.webp)
 
 ## The story
 
@@ -5240,7 +5179,7 @@ industry leaders attended
 
 ## What it looked like on the day.
 
-![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-Ck-Hf6UC.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-CWiIKrJJ.webp)
+![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-DXgeniBa.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-B4uIl6Gf.webp)
 
 BEIA Conference & AGM 2024 · from the published story
 
@@ -5412,7 +5351,7 @@ AES-256 at rest · TLS 1.3 in transit
 
 What happens to a session’s audio, text and translations.
 
-![A laptop at the sound desk running Snapsight live text, beside a microphone, at The Meetings Show London](https://www.snapsight.com/snapsight-website-preview/assets/sound-desk-meetings-show-SrKxpo1O.webp)
+![A laptop at the sound desk running Snapsight live text, beside a microphone, at The Meetings Show London](https://www.snapsight.com/snapsight-website-preview/assets/sound-desk-meetings-show-BPiWjHSH.webp)
 
 **Sound desk** One audio feed from the room.
 
@@ -5428,7 +5367,7 @@ Hosted on AWS in Frankfurt
 
 Language models, named below
 
-![Snapsight attendee screen with live text in Spanish for the session “The Future is Yesterday”](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-Bqv5Sria.webp)
+![Snapsight attendee screen with live text in Spanish for the session “The Future is Yesterday”](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-D2vzQWqN.webp)
 
 **Attendee’s phone** Opens in the browser. No app.
 
@@ -5600,7 +5539,7 @@ A Singapore-headquartered team building real-time event intelligence for organis
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact) [See open roles](https://www.snapsight.com/snapsight-website-preview/careers)
 
-![Three people talking in front of a session’s Idea Cloud on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-apac-idea-cloud-BOwjqmrq.webp)
+![Three people talking in front of a session’s Idea Cloud on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-apac-idea-cloud-BP1CjOIf.webp)
 
 A session’s Idea Cloud on the main screen · The Meetings Show Asia Pacific, Singapore
 
@@ -5631,14 +5570,14 @@ Trusted by event teams around the world
 
 Snapsight began with a practical goal: make every session easier to follow while it happens, then make what was said easy to find and use.
 
-1. ![Session takeaways and a QR code on the stage screen at The Meetings Show Asia Pacific 2024](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-DYOdNJRr.webp)
+1. ![Session takeaways and a QR code on the stage screen at The Meetings Show Asia Pacific 2024](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-B8TZ3sur.webp)
 
    Apr 2024 **The first events**
 
    Business Events Industry Week in Chicago, then The Meetings Show Asia Pacific in Singapore.
 
    [TTGmice](https://www.ttgmice.com/2024/04/17/gevme-unleashes-new-ai-tool-to-transform-conference-insights/)
-2. ![Attendees on the show floor at IMEX Frankfurt 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-CztaaCu1.webp)
+2. ![Attendees on the show floor at IMEX Frankfurt 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-DXNX6ogg.webp)
 
    May 2024 **Launch at IMEX Frankfurt**
 
@@ -5663,14 +5602,14 @@ Snapsight began with a practical goal: make every session easier to follow while
    The BestCities Global Alliance starts a two-year partnership.
 
    [TTG Associations](https://www.ttgassociations.com/2025/05/23/bestcities-embraces-ai-with-snapsight-to-shape-future-event-engagement/)
-5. ![The Remix workspace, from the launch announcement](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
+5. ![The Remix workspace, from the launch announcement](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-oevBF82Z.webp)
 
    May 2026 **Remix launches**
 
    Sessions turned into reports, campaigns and decks in real time.
 
    [PR Newswire](https://www.prnewswire.com/news-releases/snapsight-unveils-remix-turning-live-event-sessions-into-reports-campaigns-and-decks-in-real-time-302769041.html)
-6. ![Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-q0RYqOra.webp)
+6. ![Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-WBGU1OdK.webp)
 
    Jul 2026 **Speaker Remix**
 
@@ -5682,21 +5621,21 @@ Snapsight began with a practical goal: make every session easier to follow while
 
 The team works on site with the organisers and speakers who use Snapsight.
 
-- ![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-CJ32x7sI.webp)
+- ![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-BOwYAEF3.webp)
   
   At the Snapsight stand · IMEX Frankfurt 2026
   
   ### Stay close to the event floor.
   
   We spend time with organisers, speakers and attendees where Snapsight is used.
-- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-stage-BSEkFD1a.webp)
+- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-stage-C0fVuOC6.webp)
   
   On stage · MOAT London 2026
   
   ### Keep the source visible.
   
   Every insight stays tied to the session, speaker and moment it came from.
-- ![One attendee wearing headphones on a lounge sofa, with two more headsets on the table, at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-headphones-CWfhpf5k.webp)
+- ![One attendee wearing headphones on a lounge sofa, with two more headsets on the table, at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-headphones-m1CTY0ry.webp)
   
   A headphone session in the lounge · IMEX Frankfurt 2026
   
@@ -5704,7 +5643,7 @@ The team works on site with the organisers and speakers who use Snapsight.
   
   Language, accessibility and format are part of the product from the start.
 
-![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-podium-DcAPt__6.webp)
+![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-podium-CfgAfZzr.webp)
 
 Vamshi Velmajala, Managing Director · MOAT London 2026
 
@@ -5770,7 +5709,7 @@ Work on a product people use on stage, in the audience and after the event.
 
 [About Snapsight](https://www.snapsight.com/snapsight-website-preview/about) See open roles
 
-![Members of the Snapsight team together outside at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-group-jgooj2lJ.jpg)
+![Members of the Snapsight team together outside at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-group-Dgr7GAzm.webp)
 
 Snapsight team offsite
 
@@ -5792,11 +5731,11 @@ Ideas appear on screen while the audience is still listening.
 
 On the main stage at CityDNA, Bruges
 
-![A MarCom Summit screen with a Snapsight QR code to scan for session takeaways, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/marcom-snapsight-screen-D5nJp6MS.webp)
+![A MarCom Summit screen with a Snapsight QR code to scan for session takeaways, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/marcom-snapsight-screen-CaJelzZl.webp)
 
 Session takeaways at MarCom Summit, Cleveland
 
-![Visitors talking with the team beneath the Snapsight logo at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-booth-DhzGZrpg.webp)
+![Visitors talking with the team beneath the Snapsight logo at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-booth-CaldknNc.webp)
 
 On the show floor at IMEX Frankfurt, 2026
 
@@ -5812,11 +5751,11 @@ A remote team across India, the UK, Europe and the US that meets at the shows it
 
 [More about Snapsight](https://www.snapsight.com/snapsight-website-preview/about)
 
-![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-CJ32x7sI.webp)
+![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-BOwYAEF3.webp)
 
 At the Snapsight stand · IMEX Frankfurt 2026
 
-![The Snapsight team seated at round tables during a presentation at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-goa-B0vYo8Ts.jpg)
+![The Snapsight team seated at round tables during a presentation at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-goa-CMNjQuvY.webp)
 
 Planning sessions at the team offsite
 
@@ -5886,7 +5825,7 @@ Launches, awards and trade press since 2024, and a press kit ready to download.
 
 [Press enquiries](mailto:cs@snapsight.com?subject=Press%20enquiry%20for%20Snapsight) Get the press kit
 
-![Snapsight Remix product preview](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
+![Snapsight Remix product preview](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-oevBF82Z.webp)
 
 Latest release · PR Newswire · 13 May 2026
 
@@ -5938,22 +5877,22 @@ May 2024, at IMEX Frankfurt
 
 Attendee screens from a real session, Remix, and event photos.
 
-- ![Live text of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
+- ![Live text of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-DoN97rsE.webp)
   
   **Live text** Attendee phone · IMEX Frankfurt 2025 [PNG · 311 KB](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
-- ![Takeaways of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-takeaways-en-RXrD2Gfn.png)
+- ![Takeaways of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-takeaways-en-eitCKS8s.webp)
   
   **Takeaways** Attendee phone · IMEX Frankfurt 2025 [PNG · 235 KB](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-takeaways-en-RXrD2Gfn.png)
-- ![The Idea Cloud of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-ideacloud-tiAZXRIZ.png)
+- ![The Idea Cloud of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-ideacloud-Dbn97Kv3.webp)
   
   **Idea Cloud** Attendee phone · IMEX Frankfurt 2025 [PNG · 229 KB](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-ideacloud-tiAZXRIZ.png)
-- ![The Remix workspace with reports, carousels and decks](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
+- ![The Remix workspace with reports, carousels and decks](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-oevBF82Z.webp)
   
   **Remix** The workspace, from the launch release [PNG · 682 KB](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
-- ![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-podium-CPuYyotg.jpg)
+- ![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-podium-B4iiHXlM.webp)
   
   **Vamshi Velmajala** Managing Director · MOAT London 2026 [JPG · 174 KB](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-podium-CPuYyotg.jpg)
-- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-stage-rx5u0-KN.jpg)
+- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-stage-BdgA9456.webp)
   
   **On stage** Fireside conversation · MOAT London 2026 [JPG · 242 KB](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-stage-rx5u0-KN.jpg)
 
@@ -7156,34 +7095,119 @@ You agree that for any Non-approved Usage, we may discontinue providing the Serv
 URL: https://www.snapsight.com/snapsight-website-preview/
 Title: Snapsight | AI Translation, Takeaways & Content for Events
 
-For the people at your event. And the team behind it.
-
 # Live translation. Takeaways. Remix.
 
 Give attendees the key points in their language. Turn the same sessions into posts, newsletters and reports with Remix.
 
 [See it in action](https://www.snapsight.com/snapsight-website-preview/experience) [Start free](https://www.snapsight.com/signup)
 
-How Snapsight works: an attendee scans the session QR code and gets live text, translation, Q&A, takeaways and a summary. Everything captured flows into Remix, which turns it into a recap deck, LinkedIn posts and a newsletter.
+Back to projects IMEX
 
-Trusted by event teams around the world
+Home Sessions Speakers Remix Deployments Settings
 
-- Siemens
-- The Economist
-- AICPA
-- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
-- ISPOR
-- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
-- PCMA
+5 sessions remaining
+
+0 used5
+
+Buy sessions
+
+Get Started Guide Support Trust Center Book a Demo NNorthwind Events Pro
+
+### remix
+
+12/12 sessions captured Regenerate remixes Customize your brand
+
+**All Remixes**
+
+View All
+
+Recap deck Created just now
+
+Infographic Created just now
+
+Inspiration Hub 2026
+
+Six moves for your next event **Make the ideas useful.**
+
+1. 1 Map the work.
+2. 2 Build a daily habit.
+3. 3 Rethink the roles.
+4. 4 Choose an outcome.
+5. 5 Connect your tools.
+6. 6 Invite more ideas.
+
+Speaker cards Created just now
+
+LinkedIn post Created just now
+
+EM **Ewa Magiera** Speaker · London Community Week
+
+My advice: start small before scaling.
+
+Carousel Created just now
+
+One-pager Created just now
+
+9:41
+
+Competing on data, not budget
+
+Live Text Insights Q&A
+
+Idea Cloud Key Takeaways Summary
+
+Competing on data, not budget Visitor data as a growth strategy Resident-led tourism planning AI forecasting of demand peaks Why smaller destinations win Year-round travel Local partner networks Spreading visits across the year Booking signals Measuring visitor impact Tourism plans that last Event calendars Sharing data with partners Sustainable growth
+
+AI-generated content may contain mistakes.
+
+9:41
+
+Live Text Insights Q&A
+
+Good morning, everyone. Thanks for being here so early.
+
+If you look at last year's numbers, the cities that grew fastest weren't the biggest spenders.
+
+Listening...
+
+Listen to this session in Original language
+
+Session insights at a glance
+
+Visualising idea cloud
+
+Live text, translation and audio
+
+Transcribing audio
+
+Create post‑event content
+
+One-pager generated
+
+- Google
 - IMEX
-- ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
+- Siemens
+- ICCA
+- The Economist
 - ASAE
-- NorthStar
+- PCMA
+- ![Cvent Accelerate](https://www.snapsight.com/snapsight-website-preview/assets/cvent-accelerate-logo-CHypMIyd.webp)
+- AICPA
+- Northstar
+- ![Techweek](https://www.snapsight.com/snapsight-website-preview/assets/techweek-logo-BWOiTjJf.webp)
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
 - Freeman
 - Encore
-- Showgear Productions
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- ![PATA](https://www.snapsight.com/snapsight-website-preview/assets/pata-logo-CuCaBuXr.webp)
+- ISPOR
+- ![ICC Sydney](https://www.snapsight.com/snapsight-website-preview/assets/icc-sydney-Bn8CCQ5F.svg)
+- ![Poland Convention Bureau](https://www.snapsight.com/snapsight-website-preview/assets/poland-convention-bureau-logo-B8fLwrfe.webp)
 - Visit Orlando
+- ![London Community Week](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-BmxDlin2.png)
+- ![Michigan Works](https://www.snapsight.com/snapsight-website-preview/assets/michigan-works-P524XWSA.png)
+- Showgear Productions
 
 ## Live translation. Free for every event.
 
@@ -7310,7 +7334,7 @@ Snapsight protects your content from the moment it is captured. Free translation
 
 [Explore security](https://trust.snapsight.com/)
 
- ![Snapsight enterprise security: ISO 27001, GDPR, SOC 2 Type II and WCAG 2.1](https://www.snapsight.com/snapsight-website-preview/assets/enterprise-graphic-DECaoMyL.webp)
+ ![Snapsight enterprise security: ISO 27001, GDPR, SOC 2 Type II and WCAG 2.1](https://www.snapsight.com/snapsight-website-preview/assets/enterprise-graphic-BVGbgMFF.webp)
 
 Your next event
 
@@ -7332,7 +7356,7 @@ Event organisers of every kind: trade shows and exhibitions, conferences and con
 
 ### Is Snapsight free to use at an event?
 
-Live text translation is free for every event, with no trial clock: unlimited sessions and hours, one session live at a time, and up to 10 languages per session. Voice translation is $10 per language per session. Live takeaways, summaries and transcript downloads come with Pro at $149 per session, and the Engage event pass is $199 for up to 10 rooms.
+Live text translation is free for every event, with no trial clock: every room at once, up to 10 languages per session, and 100 sessions a year. Voice translation is $10 per language per session. Live takeaways, summaries and transcript downloads come with Pro at $249 per session, less in packs, and the $199 Engage event pass adds your branding, sponsor logos and Q&A moderation across the whole event.
 
 ### How is Snapsight different from a translation app or an AI notetaker?
 

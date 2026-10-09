@@ -2,7 +2,7 @@
 title: "Event Sponsorship: Summaries, Reports & Cards | Snapsight"
 description: "Sell sponsorship of your session summaries, post-event reports, stage screens and speaker cards, in your own tiers. Two packages written for your prospectus."
 canonical: https://www.snapsight.com/snapsight-website-preview/sponsors
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Sponsorship · New inventory from your sessions
@@ -13,13 +13,13 @@ Sell each one as sponsorship, in your own tiers and at your own price.
 
 [Plan a sponsorship](https://www.snapsight.com/snapsight-website-preview/contact?interest=sponsors) Get the prospectus text
 
-![The Snapsight stage screen on stage at WiT Japan & North Asia 2024: QR code, Idea Cloud and the event’s logo under the QR](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-DftesWiM.webp)
+![The Snapsight stage screen on stage at WiT Japan & North Asia 2024: QR code, Idea Cloud and the event’s logo under the QR](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-B5MvqUJt.webp)
 
-![The IMEX Frankfurt 2024 event app menu with an Education Summaries line](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp)
+![The IMEX Frankfurt 2024 event app menu with an Education Summaries line](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-DdpE34iv.webp)
 
-![The Strategic Insights from AIME 2025 report cover, with its partner logos on the cover](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-DX-7Z_No.webp)
+![The Strategic Insights from AIME 2025 report cover, with its partner logos on the cover](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-Dp9qjyrp.webp)
 
-![Ewa Magiera’s speaker card from London Community Week 2026, with the Sponsored by strip along the bottom](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+![Ewa Magiera’s speaker card from London Community Week 2026, with the Sponsored by strip along the bottom](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)
 
 One sponsor, every surface.
 
@@ -31,7 +31,7 @@ The QR slides, the stage screen and the app line attendees tap.
 
 And a thank-you from the stage in your opening remarks.
 
-![A Snapsight break slide at IMEX America 2024: “Taking a breather? We’ve got the event covered. Scan QR code to access insights from all the sessions”](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-BYkzB2-9.webp)
+![A Snapsight break slide at IMEX America 2024: “Taking a breather? We’ve got the event covered. Scan QR code to access insights from all the sessions”](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-C_N9TTJo.webp)
 
 Educational Summaries presented by Your sponsor
 
@@ -48,7 +48,7 @@ Sell the main stage, each theatre and each track on its own.
 
 Real Snapsight stage screens from IMEX Frankfurt 2025, The Meetings Show, WiT Japan & North Asia 2024 and all my t summit. Room and sponsor names are placeholders.
 
-![Cover of Actionable Insights from IMEX Frankfurt 2025, with the Snapsight and IMEX logos](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-BIvNggI3.webp)
+![Cover of Actionable Insights from IMEX Frankfurt 2025, with the Snapsight and IMEX logos](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-D3R7jWCV.webp)
 
 Your sponsor
 

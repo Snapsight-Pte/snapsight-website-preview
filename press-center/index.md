@@ -2,7 +2,7 @@
 title: "Press Centre | Snapsight News, Releases & Coverage"
 description: "Snapsight news, releases and coverage since 2024, with a press kit to download: the boilerplate, key facts, logos, product images and event photos."
 canonical: https://www.snapsight.com/snapsight-website-preview/press-center
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Press centre · News, releases and coverage
@@ -13,7 +13,7 @@ Launches, awards and trade press since 2024, and a press kit ready to download.
 
 [Press enquiries](mailto:cs@snapsight.com?subject=Press%20enquiry%20for%20Snapsight) Get the press kit
 
-![Snapsight Remix product preview](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
+![Snapsight Remix product preview](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-oevBF82Z.webp)
 
 Latest release · PR Newswire · 13 May 2026
 
@@ -65,22 +65,22 @@ May 2024, at IMEX Frankfurt
 
 Attendee screens from a real session, Remix, and event photos.
 
-- ![Live text of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
+- ![Live text of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-DoN97rsE.webp)
   
   **Live text** Attendee phone · IMEX Frankfurt 2025 [PNG · 311 KB](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
-- ![Takeaways of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-takeaways-en-RXrD2Gfn.png)
+- ![Takeaways of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-takeaways-en-eitCKS8s.webp)
   
   **Takeaways** Attendee phone · IMEX Frankfurt 2025 [PNG · 235 KB](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-takeaways-en-RXrD2Gfn.png)
-- ![The Idea Cloud of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-ideacloud-tiAZXRIZ.png)
+- ![The Idea Cloud of a real session on an attendee’s phone](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-ideacloud-Dbn97Kv3.webp)
   
   **Idea Cloud** Attendee phone · IMEX Frankfurt 2025 [PNG · 229 KB](https://www.snapsight.com/snapsight-website-preview/assets/original-frankfurt-ideacloud-tiAZXRIZ.png)
-- ![The Remix workspace with reports, carousels and decks](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
+- ![The Remix workspace with reports, carousels and decks](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-oevBF82Z.webp)
   
   **Remix** The workspace, from the launch release [PNG · 682 KB](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
-- ![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-podium-CPuYyotg.jpg)
+- ![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-podium-B4iiHXlM.webp)
   
   **Vamshi Velmajala** Managing Director · MOAT London 2026 [JPG · 174 KB](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-podium-CPuYyotg.jpg)
-- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-stage-rx5u0-KN.jpg)
+- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-stage-BdgA9456.webp)
   
   **On stage** Fireside conversation · MOAT London 2026 [JPG · 242 KB](https://www.snapsight.com/snapsight-website-preview/assets/snapsight-moat-london-2026-stage-rx5u0-KN.jpg)
 

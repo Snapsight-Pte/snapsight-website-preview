@@ -2,7 +2,7 @@
 title: "ATxEnterprise 2024: 5 Stages, 400+ Sessions | Snapsight"
 description: "Key takeaways on screen at all five stages, and on attendees’ phones by QR code, with no app to download."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ Key takeaways on screen at all five stages, and on attendees’ phones by QR cod
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel at ATxEnterprise 2024 with session takeaways and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
+![Panel at ATxEnterprise 2024 with session takeaways and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-BQSmuP5q.webp)
 
 ## The story
 
@@ -51,7 +51,7 @@ tech professionals from 110 countries
 
 ## What it looked like on the day.
 
-![An attendee photographs the takeaways screen at ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/assets/atx-phone-CDDA98P8.webp)
+![An attendee photographs the takeaways screen at ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/assets/atx-phone-C1p63V7D.webp)
 
 ATxEnterprise 2024 · from the published story
 

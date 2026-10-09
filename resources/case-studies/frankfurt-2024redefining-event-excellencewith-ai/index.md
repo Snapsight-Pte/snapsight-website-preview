@@ -2,7 +2,7 @@
 title: "IMEX Frankfurt 2024: Summaries for 150+ Sessions | Snapsight"
 description: "Summaries and Idea Clouds for every education session, inside the IMEX app and one scan from each room."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/frankfurt-2024redefining-event-excellencewith-ai/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Summaries and Idea Clouds for every education session, inside the IMEX app and o
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Attendees around the giant IMEX letters on the IMEX Frankfurt 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-CztaaCu1.webp)
+![Attendees around the giant IMEX letters on the IMEX Frankfurt 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-DXNX6ogg.webp)
 
 ## The story
 
@@ -53,7 +53,7 @@ buyers from 96 countries
 
 ## What it looked like on the day.
 
-![IMEX Frankfurt 2024 app menu with Education Summaries](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp) ![A session page in the IMEX app linking to its takeaways](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp) ![Idea Cloud from an IMEX Frankfurt 2024 session on sustainability](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-idea-cloud-BxjCXdk4.webp)
+![IMEX Frankfurt 2024 app menu with Education Summaries](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-DdpE34iv.webp) ![A session page in the IMEX app linking to its takeaways](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp) ![Idea Cloud from an IMEX Frankfurt 2024 session on sustainability](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-idea-cloud-BEJsiwlW.webp)
 
 Real screens · the IMEX Events app and an Idea Cloud from IMEX Frankfurt 2024
 

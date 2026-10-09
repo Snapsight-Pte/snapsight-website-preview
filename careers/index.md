@@ -2,7 +2,7 @@
 title: "Careers at Snapsight | Build AI for Live Events"
 description: "Join Snapsight and build AI people use on stage, in the audience and after the event. Remote roles in sales, customer success and engineering, based in India."
 canonical: https://www.snapsight.com/snapsight-website-preview/careers
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Careers at Snapsight
@@ -13,7 +13,7 @@ Work on a product people use on stage, in the audience and after the event.
 
 [About Snapsight](https://www.snapsight.com/snapsight-website-preview/about) See open roles
 
-![Members of the Snapsight team together outside at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-group-jgooj2lJ.jpg)
+![Members of the Snapsight team together outside at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-group-Dgr7GAzm.webp)
 
 Snapsight team offsite
 
@@ -35,11 +35,11 @@ Ideas appear on screen while the audience is still listening.
 
 On the main stage at CityDNA, Bruges
 
-![A MarCom Summit screen with a Snapsight QR code to scan for session takeaways, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/marcom-snapsight-screen-D5nJp6MS.webp)
+![A MarCom Summit screen with a Snapsight QR code to scan for session takeaways, seen from the audience](https://www.snapsight.com/snapsight-website-preview/assets/marcom-snapsight-screen-CaJelzZl.webp)
 
 Session takeaways at MarCom Summit, Cleveland
 
-![Visitors talking with the team beneath the Snapsight logo at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-booth-DhzGZrpg.webp)
+![Visitors talking with the team beneath the Snapsight logo at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-booth-CaldknNc.webp)
 
 On the show floor at IMEX Frankfurt, 2026
 
@@ -55,11 +55,11 @@ A remote team across India, the UK, Europe and the US that meets at the shows it
 
 [More about Snapsight](https://www.snapsight.com/snapsight-website-preview/about)
 
-![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-CJ32x7sI.webp)
+![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-BOwYAEF3.webp)
 
 At the Snapsight stand · IMEX Frankfurt 2026
 
-![The Snapsight team seated at round tables during a presentation at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-goa-B0vYo8Ts.jpg)
+![The Snapsight team seated at round tables during a presentation at the team offsite](https://www.snapsight.com/snapsight-website-preview/assets/team-offsite-goa-CMNjQuvY.webp)
 
 Planning sessions at the team offsite
 

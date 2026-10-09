@@ -2,7 +2,7 @@
 title: "Customer Success Representative | Careers at Snapsight"
 description: "Help customers run successful events with Snapsight. Own onboarding, live remote support and the delivery of useful content after the last session."
 canonical: https://www.snapsight.com/snapsight-website-preview/careers/customer-success-representative
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 [All open roles](https://www.snapsight.com/snapsight-website-preview/careers#open-roles)

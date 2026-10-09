@@ -2,7 +2,7 @@
 title: "WiT Japan & North Asia 2024: Live in a Week | Snapsight"
 description: "One person handled AV, setup and integration, and attendees used the insights for their own reports."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/wit-japan-north-asia-2024-elevating-event-experiences-through-ai-powered-insights/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ One person handled AV, setup and integration, and attendees used the insights fo
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel on stage at WiT Japan & North Asia 2024 with the takeaways screen to the left](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-DcEKDiEg.webp)
+![Panel on stage at WiT Japan & North Asia 2024 with the takeaways screen to the left](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-Vg9oWUDA.webp)
 
 ## The story
 
@@ -61,7 +61,7 @@ from start to live
 
 ## What it looked like on the day.
 
-![Idea Cloud and QR code on screen at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-DftesWiM.webp) ![Two speakers in conversation at WiT Japan & North Asia 2024, with session takeaways on the screen behind them](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-panel-DNwJhZbi.webp) ![An audio interface cabled to a laptop showing the Snapsight QR code at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-FWIjbXc2.webp)
+![Idea Cloud and QR code on screen at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-idea-cloud-B5MvqUJt.webp) ![Two speakers in conversation at WiT Japan & North Asia 2024, with session takeaways on the screen behind them](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-panel-DhiLVLbJ.webp) ![An audio interface cabled to a laptop showing the Snapsight QR code at WiT Japan & North Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-audio-C-hhUXyX.webp)
 
 WiT Japan & North Asia 2024 · photos from the published story
 

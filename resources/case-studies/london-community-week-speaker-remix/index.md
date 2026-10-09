@@ -2,12 +2,12 @@
 title: "London Community Week 2026: 147 LinkedIn Posts | Snapsight"
 description: "A card for every speaker, shared across three official Pages for weeks after the event."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/london-community-week-speaker-remix/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
 
-![Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-BmxDlin2.png)
+![Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-DEZTMyp5.webp)
 
 **London Community Week 2026** Led by Community C.I.C. 7–9 July 2026 · Big Penny Social, London
 
@@ -17,7 +17,7 @@ A card for every speaker, shared across three official Pages for weeks after the
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=speaker-remix) [Start free](https://www.snapsight.com/signup)
 
-![A grid of Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-q0RYqOra.webp)
+![A grid of Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-WBGU1OdK.webp)
 
 ## The story
 
@@ -55,9 +55,9 @@ reposts into new networks
 
 Six of the 49 Speaker Remix cards · London Community Week 2026
 
-![Speaker card for Juulia Ruha, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-1-DiuE5756.webp) ![Speaker card for Vera Hazelwood, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-2-Cgm5ZZTD.webp) ![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-CvH5dyXu.webp)
+![Speaker card for Juulia Ruha, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-1-D2Ad55-r.webp) ![Speaker card for Vera Hazelwood, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-2-CTjPXXLb.webp) ![Speaker card for Brian Kling, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-3-DJz3QJA1.webp)
 
-![Speaker card for Viktorija Ignatavičiūtė from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-4-BLVxqIs4.webp) ![Speaker card for Kimmy Costa from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-5-DuU3Dt8Q.webp) ![Speaker card for Sonia Toqqe, Playbooks must be living documents, not forgotten files, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-6-CnedGhI5.webp)
+![Speaker card for Viktorija Ignatavičiūtė from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-4-BIiI8knF.webp) ![Speaker card for Kimmy Costa from the panel Trust, Safety, and the Hard Conversations, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-5-LIR2DfHV.webp) ![Speaker card for Sonia Toqqe, Playbooks must be living documents, not forgotten files, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-card-6-DVxWlpoR.webp)
 
 ## 147 posts across three official Pages.
 
@@ -75,7 +75,7 @@ From the case study Snapsight published on 12 August 2026.
 
 Real posts from the event’s own Page, each crediting Snapsight.
 
-![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-jUFZa59U.webp)
+![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-BODON1GQ.webp)
 
 **London Community Week** on LinkedIn · 17 July 2026
 
@@ -83,7 +83,7 @@ Scaling community starts with keeping people at the centre. At London Community 
 
 36 reactions · 3 comments [View post](https://www.linkedin.com/posts/london-community-week_scaling-community-starts-with-keeping-people-activity-7483822286731599873-GwP9)
 
-![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-Dbt_8z6t.webp)
+![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-CH_k6ysw.webp)
 
 **London Community Week** on LinkedIn · 10 July 2026
 
@@ -91,7 +91,7 @@ Your members are decaying on schedule. It might sound surprising, but Jillian Be
 
 18 reactions · 1 comment [View post](https://www.linkedin.com/posts/london-community-week_your-members-are-decaying-on-schedule-it-activity-7481357528942133248-Duqa)
 
-![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-Uf6DClYO.webp)
+![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-BNpuX2u1.webp)
 
 **Community Week** on LinkedIn · 16 July 2026
 

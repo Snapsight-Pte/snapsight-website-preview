@@ -2,7 +2,7 @@
 title: "Post-Event Reports & Content from Every Session | Snapsight"
 description: "Remix turns what was said on stage into post-event reports, sponsor reports, LinkedIn carousels and decks, with every quote tied to its speaker and session."
 canonical: https://www.snapsight.com/snapsight-website-preview/remix
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Remix · Post-event reports and content
@@ -35,7 +35,7 @@ Write the post-event report: the themes across every stage, with the quotes behi
 
 Here’s your report. **47 pages**, every quote tied to its session.
 
-![Actionable Insights from IMEX Frankfurt 2025](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-BIvNggI3.webp)
+![Actionable Insights from IMEX Frankfurt 2025](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-D3R7jWCV.webp)
 
 IMEX Frankfurt 2025 · both reports are real[Open the report](https://www.snapsight.com/snapsight-website-preview/examples/imex-frankfurt-2025-actionable-insights.pdf)
 
@@ -55,7 +55,7 @@ and every other session
 
 Remix
 
-![IMEX Frankfurt 2025 report](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-BIvNggI3.webp)
+![IMEX Frankfurt 2025 report](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-cover-D3R7jWCV.webp)
 
 IMEX Frankfurt 2025 · 47 pages[Open the PDF](https://www.snapsight.com/snapsight-website-preview/examples/imex-frankfurt-2025-actionable-insights.pdf)
 
@@ -63,9 +63,9 @@ IMEX Frankfurt 2025 · 47 pages[Open the PDF](https://www.snapsight.com/snapsigh
 
 A branded report on the ideas their buyers came to hear.
 
-![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-DX-7Z_No.webp) Spice and beam, on the cover
+![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-Dp9qjyrp.webp) Spice and beam, on the cover
 
-![The Meetings Show Asia Pacific 2024 strategic insights, in partnership with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-2024-cover-Bn65cVwr.webp) Northstar Meetings Group, partner
+![The Meetings Show Asia Pacific 2024 strategic insights, in partnership with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-2024-cover-CKEf546d.webp) Northstar Meetings Group, partner
 
 AIME 2025 · Melbourne · [Open the PDF](https://www.snapsight.com/snapsight-website-preview/examples/aime-2025-strategic-report.pdf)
 
@@ -81,7 +81,7 @@ Social post
 
 10 insights from IAPCO EDGE Stockholm 2026. Swipe for the numbers.
 
-![10 insights from IAPCO EDGE Stockholm](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-DWPnYYk_.webp)
+![10 insights from IAPCO EDGE Stockholm](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-ryWbqfW0.webp)
 
 Attendee newsletter
 
@@ -184,7 +184,7 @@ Yes. Pull takeaways and reports into your CMS over the Snapsight API, or connect
 
 ### How much does Remix cost?
 
-Each Snapsight Pro session ($149) includes 5 Remix credits, the 10- and 50-session packs include 50 and 250, and an extra 20 credits cost $19. One credit creates one new standard text output; downloads and manual edits use no credits.
+Each Snapsight Pro session ($249) includes 5 Remix credits, the 20-, 50- and 100-session packs include 100, 250 and 500, and an extra 20 credits cost $19. One credit creates one new standard text output; downloads and manual edits use no credits.
 
 ### Is our content safe in Remix?
 

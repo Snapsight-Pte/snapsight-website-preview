@@ -2,7 +2,7 @@
 title: "Integrations: Event Apps, Zoom, Teams, SSO & API | Snapsight"
 description: "Embed Snapsight in your event app or open it from a link, in Swapcard, Cvent, Bizzabo and more. Plus Zoom, Teams, Google Meet, SSO, the API and MCP."
 canonical: https://www.snapsight.com/snapsight-website-preview/integrations
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Event app, Zoom and Teams integrations
@@ -19,7 +19,7 @@ Works inside any event app that can embed a page or open a link, including Swapc
 
 Live **Thriving in the AI era** *HC* Henry Coutinho-Mason
 
-![Snapsight Idea Cloud of the session’s themes, inside the event app’s session page](https://www.snapsight.com/snapsight-website-preview/assets/screen-idea-cloud-haq6YLHC.webp)
+![Snapsight Idea Cloud of the session’s themes, inside the event app’s session page](https://www.snapsight.com/snapsight-website-preview/assets/screen-idea-cloud-DkzTaA1Y.webp)
 
 Illustration of an event app. The Snapsight views are real screens from IMEX Frankfurt 2025.
 
@@ -32,14 +32,14 @@ One link for the whole event, and one for every session.
    1**Copy the session links.** Every session has its own link, the same one behind its QR code.
 2. IMEX Events app
 
-   ![A session page in the IMEX Events app at IMEX Frankfurt 2024, ending with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp)
+   ![A session page in the IMEX Events app at IMEX Frankfurt 2024, ending with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp)
 
    2**Add them to your app.** Embed the page in a tab or on the session, or add it as a link.
 3. snapsight.com allowed
 
    **Done** snapsight.com
 
-    ![The Snapsight takeaways page, open in the event app’s own browser](https://www.snapsight.com/snapsight-website-preview/assets/screen-takeaways--S8V5ryC.webp)
+    ![The Snapsight takeaways page, open in the event app’s own browser](https://www.snapsight.com/snapsight-website-preview/assets/screen-takeaways-BYwAAzVP.webp)
 
    3**Allow the link.** Then it opens inside the app’s own browser, not outside it.
 
@@ -53,9 +53,9 @@ Real screens: the session’s QR code and link from IMEX Frankfurt 2025, and a s
 
 FIP put it in its congress app for every presentation. IMEX, ICCA and UFI put it in theirs.
 
-![The IMEX Events app menu at IMEX Frankfurt 2024, with Education Summaries between Education and Eating and Drinking](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-D8MZBbrP.webp)
+![The IMEX Events app menu at IMEX Frankfurt 2024, with Education Summaries between Education and Eating and Drinking](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-menu-DdpE34iv.webp)
 
-![A session page in the IMEX Events app, with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BG-uVBxc.webp)
+![A session page in the IMEX Events app, with the link: See the key takeaways from this session](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-app-session-BhsoOrFw.webp)
 
 Real screens · the IMEX Events app, IMEX Frankfurt 2024
 
@@ -73,7 +73,7 @@ Real screens · the IMEX Events app, IMEX Frankfurt 2024
 
 Remote attendees open the same session link as the room.
 
-![A panel on stage at WIT Japan & North Asia 2024, with the audience in the room](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-DcEKDiEg.webp)
+![A panel on stage at WIT Japan & North Asia 2024, with the audience in the room](https://www.snapsight.com/snapsight-website-preview/assets/wit-japan-stage-Vg9oWUDA.webp)
 
 **In the room** One feed from the sound desk.
 

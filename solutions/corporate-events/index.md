@@ -2,7 +2,7 @@
 title: "AI for Corporate Events & Leadership Meetings | Snapsight"
 description: "Every session summarised and a report drafted from what was said, for leadership meetings, advisory groups and business summits. As run for AICPA & CIMA."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/corporate-events
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 AI for corporate events and leadership meetings
@@ -13,7 +13,7 @@ Every session summarised, and a report drafted from the discussion, as run for A
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=corporate) [Start with free translation](https://www.snapsight.com/signup)
 
-![The ballroom at the Singapore Apex Business Summit 2024, with Idea Clouds and QR codes on the side screens](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-BVR_YcIx.webp)
+![The ballroom at the Singapore Apex Business Summit 2024, with Idea Clouds and QR codes on the side screens](https://www.snapsight.com/snapsight-website-preview/assets/apex-summit-CsVDKkkX.webp)
 
 **28** sessions captured in real time[Singapore Apex Business Summit 2024](https://www.snapsight.com/en/resources/case-studies/singapore-apex-business-summit-harnessing-strategic-insights-with-snapsight/)
 
@@ -54,13 +54,13 @@ Your event app tells attendees that every session will be summarised.
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![Announcement in the Identiverse 2024 app: “Snapsight – What’s that? We’re thrilled to partner with Snapsight to offer instant AI-generated content summaries for each main agenda presentation.”](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-app-announcement-C1yVQRZZ.webp)
+![Announcement in the Identiverse 2024 app: “Snapsight – What’s that? We’re thrilled to partner with Snapsight to offer instant AI-generated content summaries for each main agenda presentation.”](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-app-announcement-F4R2DNBS.webp)
 
 An announcement in the Identiverse 2024 app
 
 Real app screens and photos from Identiverse 2024 and the Singapore Apex Business Summit 2024. The stops are phases, not one event’s schedule.
 
-![A breakout room at Identiverse 2024 with the Snapsight QR code on both screens](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-breakout-BUMZVRqO.webp)
+![A breakout room at Identiverse 2024 with the Snapsight QR code on both screens](https://www.snapsight.com/snapsight-website-preview/assets/identiverse-breakout-Cp0AQx_L.webp)
 
 > “This year, we’re excited to be partnering with Snapsight to provide instant, AI-generated content summaries for each presentation in the main agenda at the conference.”
 >
@@ -136,7 +136,7 @@ Snapsight is SOC 2 Type II and ISO 27001 certified, and GDPR compliant. Your con
 
 ### What does Snapsight cost for a corporate event?
 
-Live text translation is free for every event. The $199 Engage event pass covers up to 10 rooms for up to 7 days, and takeaways, summaries and transcripts come with Pro at $149 per session.
+Live text translation is free for every event, in every room. The $299 Engage event pass adds your branding, sponsor logos and Q&A moderation, and takeaways, summaries and transcripts come with Pro at $249 per session, less in packs.
 
 ---
 

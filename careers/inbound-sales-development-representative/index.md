@@ -2,7 +2,7 @@
 title: "Inbound Sales Development Representative | Careers at Snapsight"
 description: "Be the first useful conversation a potential customer has with Snapsight. Read the inbound signal, qualify the opportunity and turn interest into a well-prepared meeting."
 canonical: https://www.snapsight.com/snapsight-website-preview/careers/inbound-sales-development-representative
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 [All open roles](https://www.snapsight.com/snapsight-website-preview/careers#open-roles)

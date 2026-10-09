@@ -1,250 +1,210 @@
 ---
-title: "Snapsight Pricing | Free Live Text, Engage, Pro & Enterprise"
-description: "Live text translation is free. Engage is $199 per event, Pro $149 per session, and voice translation $10 per language per session. Packs and Enterprise too."
+title: "Snapsight Pricing | Free Live Translation, Engage, Pro & Enterprise"
+description: "Live text translation is free in every room. Engage is $299 per event, Pro $249 per session or from $99 in packs, and voice $10 per language per session."
 canonical: https://www.snapsight.com/snapsight-website-preview/pricing
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
-Pricing · Free live text for every event
+Pricing
 
-# Start with free text. Add what your event needs.
+# Live translation is free. Pay only for what you add.
 
-Help everyone follow along. Add better conversations, session takeaways and content worth sharing when you need them.
-
-Compare plans Explore add-ons
-
-For every audience
+Priced per event and per session, never per attendee.
 
 ## Free
 
 Make every session easy to follow, in your audience’s language.
 
+Sessions
+
+Up to 100 a year
+
 $0 forever
 
-Unlimited sessions and hours.
-**One session live at a time.**
+No credit card required.
 
 [Start free](https://www.snapsight.com/signup)
 
-No credit card required
+Includes:
 
 - Live transcription and text translation
-- Up to 10 active text languages per session
-- Full supported language catalogue
-- Basic Q&A and manual polls
-- Audience access by link or QR code
-
-Live viewing with Snapsight branding.
-
-For interactive events
+- Up to 10 languages a session
+- Every room at once
+- Basic Q&A and polls
+- Join by link or QR code, no app
 
 ## Engage
 
-Run better Q&A. Get people participating. See what resonates.
+Your brand and your sponsors, across the whole event.
 
-$199 / event
+Sessions
 
-Up to 10 rooms. Up to 7 days.
-**All sessions and presenters.**
+Every session of one event
 
-[Talk about Engage](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=engage)
+$299 per event
 
-Priced by rooms, never by attendees
+One event, every room.
+
+[Get Engage](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=engage)
 
 Everything in Free, plus:
 
-- Answers captured from the talk
-- Advanced Q&A moderation
-- AI-assisted questions and polls
-- Your event branding
+- Your custom branding
+- [Sponsor logos on screens and captions](https://www.snapsight.com/snapsight-website-preview/sponsors)
+- Speaker Remix cards for every speaker
+- Q&A moderation, AI questions and polls
 - Engagement analytics and exports
 
-More than 10 rooms? [Let’s talk.](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=enterprise)
-
-For lasting session value
+Packs include Engage
 
 ## Pro
 
 Keep the ideas. Get a complete record. Give speakers content to share.
 
-$149 / session
+Sessions
 
-Up to 2 hours per session.
-**A longer session counts as two.**
+$249 per session
 
-[Talk about Pro](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro) Save with session packs ↓
+One session, up to 2 hours. Packs from $99 a session include Engage.
 
-Everything in Engage, for this session.
+[Get Pro](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro)
 
 - Live takeaways and session summaries
 - Transcript and subtitle downloads
 - Insight views, analytics and session reports
-- Automatic speaker content kit
-- 5 Remix credits per Pro session
+- Remix for post-event content
+- MCP and API access
 
-Add Engage to cover every room of your event.
+## Enterprise
 
-SOC 2 Type II · ISO 27001 · GDPR · Used at 5,000+ events in 20+ countries
+For organisations running many events a year.
 
-All prices in USD, excluding applicable taxes. Voice translation is an optional $10 per language, per session on every plan.
+Sessions
 
-## Bring more sessions. Pay less for each one.
+More than 100 a year, pooled
 
-For organisations and partners
+Custom
 
-### Enterprise
-
-Run connected events at scale, with the support and flexibility your team needs.
-
-- Unlimited rooms and events
-- Pooled Pro sessions at volume rates
-- White label and custom domain
-- SSO, team administration and integrations
-- Event-day operations and dedicated support
-- SLA, data retention and invoicing
+Below $99 a session.
 
 [Talk to sales](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=enterprise)
 
-Wholesale rates for AV and production partners. Our public rates are the most you’ll pay.
+Everything in Pro, plus:
 
-Same Pro features. Use across events for 12 months.
+- Sessions pooled across events
+- SSO and team administration
+- White label and custom domain
+- Event-day operations and dedicated support
+- SLA, DPA and invoicing
 
-### 10 Pro sessions
+Prices before tax. A session is up to 2 hours.
 
-Save $300
+Used at 5,000+ events in 20+ countries
 
-$1,190 paid once
+- Freeman
+- Encore
+- IMEX
+- Northstar
+- AICPA
+- ISPOR
+- Visit Orlando
 
-$119 per session · 50 Remix credits
+Secure and accessible on every plan
 
-[Enquire about 10 sessions](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro-10)
+- SOC 2 Type II
+- ISO 27001
+- GDPR
+- WCAG 2.1 AA
 
-### 50 Pro sessions
+[How we protect event content](https://www.snapsight.com/snapsight-website-preview/security)
 
-Save $2,700
+## Want attendees to hear it? Add voice translation.
 
-$4,750 paid once
+Live speech-to-speech translation through attendees’ own earbuds, with captions in the same language. On every plan, including Free.
 
-$95 per session · 250 Remix credits
+$10 per language, per session
 
-[Enquire about 50 sessions](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=pro-50)
+5 languages × 20 sessions = $1,000
 
-One session is up to 2 hours. A longer session uses two sessions from your pack.
+[Estimate your event](https://www.snapsight.com/snapsight-website-preview/tools/event-translation-cost-calculator)
 
-## Speaking or training on your own? Use Engage for your talks.
+## Compare plans, side by side.
 
-Professional Q&A, polls, branding, engagement analytics and Speaker Remix access for your own presentations. Remix credits are purchased separately.
+What each plan includes: Free, Engage, Pro and Enterprise
 
-One presenter · One host account · One live session at a time · Unlimited attendees
+| Capability | Free $0 | Engage $299 per event | Pro From $99 a session | Enterprise Custom |
+| --- | --- | --- | --- | --- |
+| Live, in every room | | | | |
+| Live transcription and captions | Included | Included | Included | Included |
+| Text translation, up to 10 languages a session | Included | Included | Included | Included |
+| Rooms at once | Unlimited | Unlimited | Unlimited | Unlimited |
+| Sessions | 100 a year | The whole event | The sessions you buy | Volume |
+| Attendees join by link or QR code, no app | Included | Included | Included | Included |
+| Basic Q&A and polls | Included | Included | Included | Included |
+| Voice translation | Add-on | Add-on | Add-on | Add-on |
+| Your event | | | | |
+| Your custom branding | Not included | Included | Included | Included |
+| Sponsor logos on screens and captions | Not included | Included | Included | Included |
+| Speaker Remix cards for every speaker | Not included | Included | Included | Included |
+| Q&A moderation, AI questions and polls | Not included | Included | Included | Included |
+| Engagement analytics and exports | Not included | Included | Included | Included |
+| After each session | | | | |
+| Live takeaways and session summaries | Not included | Not included | Included | Included |
+| Transcript and subtitle downloads | Not included | Not included | Included | Included |
+| Insight views, analytics and session reports | Not included | Not included | Included | Included |
+| Remix for post-event content | Not included | Not included | Included | Included |
+| Your organisation | | | | |
+| SOC 2 Type II, ISO 27001 and GDPR | Included | Included | Included | Included |
+| SSO and team administration | Not included | Not included | Not included | Included |
+| White label and custom domain | Not included | Not included | Not included | Included |
+| Event-day operations and dedicated support | Not included | Not included | Not included | Included |
+| SLA, DPA and invoicing | Not included | Not included | Not included | Included |
 
-$19 / month
+## What organisers say after running it.
 
-[Ask about individual Engage](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=individual) Cancel anytime
-
-## Every Pro session includes a speaker content kit.
-
-Prepared from the talk, ready to review, edit and share.
-
-[Explore Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix)
-
-1
-
-### Session recap
-
-The ideas worth keeping
-
-3
-
-### Social posts
-
-A head start on sharing
-
-5
-
-### Suggested quotes
-
-Highlights from the talk
-
-1
-
-### Follow-up email
-
-Keep the conversation going
-
-Your standard kit uses no Remix credits. Use your included credits for additional content.
-
-## What each plan includes, side by side.
-
-What each plan includes: Free, Engage and Pro
-
-| Capability | Free | Engage | Pro |
-| --- | --- | --- | --- |
-| Live text hours | Unlimited | Unlimited | Unlimited |
-| Live sessions at once | 1 | Up to 10 rooms | Purchased session |
-| Active text languages | Up to 10 | Up to 10 | Up to 10 |
-| Basic Q&A and manual polls | Included | Included | Included |
-| Answers captured from the talk | — | Included | Included |
-| Advanced moderation and AI assistance | — | Included | Included |
-| Event branding | Snapsight branding | Your branding | Your branding |
-| Engagement analytics and exports | — | Included | Included |
-| Speaker Remix | — | Access; credits extra | Included |
-| Transcript and subtitle downloads | — | — | Included |
-| Live takeaways, summaries and session reports | — | — | Included |
-| Automatic speaker content kit | — | — | Included |
-| Remix credits | None | None | 5 per session |
-| Voice translation | $10 / language / session | $10 / language / session | $10 / language / session |
-
-Enterprise adds organisation-wide controls and support. Downloads, insights and automatic content kits apply to its purchased Pro sessions.
-
-## Add voice translation or more Remix credits.
-
-### Voice translation
-
-Let attendees listen in their chosen language with live speech-to-speech translation. Each paid voice language includes its text captions.
-
-$10 / language / session
-
-Available on every plan, including Free. A session is up to 2 hours; longer sessions count as two.
-
-3 languages × 5 sessions = $150
-
-[Ask about voice translation](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation)
-
-### More Remix credits
-
-Create more posts, recaps and follow-ups. One credit creates one new standard text output. Downloads and manual edits use no credits.
-
-$19 / 20 credits
-
-Pro includes 5 credits per session. Engage users can buy credits when they want to create.
-
-[Ask about extra credits](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=remix)
-
-Nonprofit, association or education event? [Ask about special pricing](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=special-pricing)
+- > “Deploying Snapsight across all 5 stages was remarkably straightforward.”
+  
+  **Cherry Lau** Conference Producer, ATxSG
+  
+  [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai/)
+- > “The real-time translation and accuracy were impressive, and the summaries were immediately available after each session for delegates to access via QR code.”
+  
+  **Organising team** Economist Impact
+  
+  [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
+- > “The whole process that used to take us weeks was just… finished.”
+  
+  **Andrew Slavin** Leads the team behind The Decarbonised Mine
+  
+  [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-decarbonised-mine-how-atwo-day-mining-conferencereplaced-weeks-of-post-eventwork-with-snapsight/)
 
 ## Not sure which plan fits? We’ll put it together with you.
 
 Tell us about the rooms, sessions and languages you have in mind.
 
-[Talk through your event](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=help-me-choose) [Estimate translation costs](https://www.snapsight.com/snapsight-website-preview/tools/event-translation-cost-calculator)
+[Talk through your event](https://www.snapsight.com/snapsight-website-preview/contact?interest=pricing&plan=help-me-choose) [Start free](https://www.snapsight.com/signup)
 
 ## Frequently asked questions
 
 ### How much does Snapsight cost?
 
-Live text translation is free for every event. The Engage event pass is $199 for up to 10 rooms over up to 7 days; Pro is $149 per session of up to 2 hours, or $119 and $95 a session in packs of 10 and 50; voice translation is $10 per language per session. Enterprise is priced with you, and all prices are in USD before tax.
+Live text translation is free for every event, in every room, up to 100 sessions a year. The Engage event pass is $299; Pro is $249 per session of up to 2 hours, or $199, $149 and $99 a session in packs of 20, 50 and 100; voice translation is $10 per language per session. Programmes of more than 100 sessions a year price below $99 as Enterprise, and all prices are in USD before tax.
 
 ### What is included in the free plan?
 
-Live transcription and text translation, with no monthly session or hour allowance and one session live at a time. Choose up to 10 active text languages from the full supported catalogue. Free includes live viewing with Snapsight branding, basic Q&A and manual polls; voice translation, transcript downloads and Pro insights are paid.
+Live transcription and text translation in every room at once, with up to 10 active text languages from the full supported catalogue and 100 sessions a year. Free includes live viewing with Snapsight branding, basic Q&A and manual polls, and the session count is always in view. Voice translation, transcript downloads and Pro insights are paid.
 
 ### What counts as a session?
 
-One Pro or voice session is up to 2 hours, and a longer session counts as two: it uses two Pro sessions from a pack, or costs $20 per voice language. An Engage event lasts up to 7 days and includes up to 10 rooms, with all sessions and presenters. There is no per-attendee fee.
+A session is up to 2 hours, and a longer session counts as two: it uses two Pro sessions from a pack, costs $20 per voice language, and takes two of the free 100. An Engage event covers every room and session of that event, with all presenters. There is no per-attendee fee.
+
+### What happens after 100 free sessions in a year?
+
+The next session needs an Engage pass for its event, at $299, or a Pro pack. Sessions in an Engage or Pro event never count towards the 100, a session that is already live is never stopped, and the count resets each year.
 
 ### Do I need Engage and Pro?
 
-Pro includes everything in Engage for its own purchased session. For a multi-room event with content on selected sessions, choose Engage for the event and Pro for those sessions. They are priced separately; Pro does not include an event-wide Engage pass.
+A Pro pack includes Engage for every event it is used at, so your branding, sponsor logos, Speaker Remix and Q&A moderation run in every room of those events. A single Pro session covers that session only. Choose Engage on its own when you want the event experience without takeaways, transcripts or Remix.
 
 ### How much does voice translation cost?
 
@@ -252,19 +212,11 @@ Voice translation is an optional $10 per language per session on every plan, inc
 
 ### Can I download transcripts with Free or Engage?
 
-No. Transcript and subtitle downloads are included only for purchased Pro sessions, including Pro sessions in Enterprise. Engage adds engagement analytics and exports of questions and poll results, not the full spoken transcript.
-
-### How do Remix credits work?
-
-One credit creates one new standard text output; downloads and manual edits use no credits. Each Pro session includes 5 credits and an automatic speaker content kit that uses none, and an extra pack of 20 credits costs $19.
+No. Transcript and subtitle downloads are included only for purchased Pro sessions, including Pro sessions in Enterprise. Engage adds Speaker Remix cards, engagement analytics and exports of questions and poll results, not the full spoken transcript.
 
 ### Do attendees or speakers have to pay?
 
-No. Attendees join by link or QR code without buying a plan to view what you have enabled. Speakers can receive the automatic content kit from a purchased Pro session without an individual Engage subscription.
-
-### How does individual Engage work for solo speakers and trainers?
-
-Individual Engage is $19 per month for one presenter and one host account, with one live session at a time and unlimited attendees. It includes professional Q&A, polls, branding, engagement analytics and access to Speaker Remix; cancel before the next renewal to stop billing.
+No. Attendees join by link or QR code without buying a plan to view what you have enabled. Speakers get their Speaker Remix cards on Engage and Pro events without a subscription of their own.
 
 ### Is there a discount for nonprofits, associations or education?
 

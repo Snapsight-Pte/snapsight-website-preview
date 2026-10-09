@@ -1,55 +1,35 @@
 ---
-title: "Live Translation Demo: Try a Real Event Session | Snapsight"
-description: "Open a real event session on your phone: live text, takeaways, Idea Cloud and summary, in your language. Switch between reading and listening. No form, no app."
+title: "Live Translation Demo: Try It With Your Own Speech | Snapsight"
+description: "Start a live demo in seconds: speak into your microphone, play a YouTube video or a sample conference talk, and see it transcribed and translated into up to three languages. No credit card."
 canonical: https://www.snapsight.com/snapsight-website-preview/experience
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
-Try Snapsight
+- 12,847 demos run
+- 75+ languages
 
-# See what attendees see.
+# Experience Snapsight live.
 
-Open a real event session on your phone. No form, no app.
+See how any speech becomes real-time multilingual content intelligence. Transcription, translation and AI insights in seconds.
+
+Choose your audio source
+
+Translate into up to 3
+
+- 5 minutes
+- No credit card required
+
+## Or open a real event session.
+
+No form, no app: the attendee view of a talk at IMEX Frankfurt, with its takeaways, live text, Idea Cloud and summary.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event) [Open the real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways)
 
-![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-CENgKQ-j.webp)
+![Takeaways tab: AI as a Learning Accelerator and Overcoming Idea-Sharing Barriers.](https://www.snapsight.com/snapsight-website-preview/assets/frankfurt-takeaways-en-DibtvE_K.webp)
 
 [**On your phone?** Scan to open it there](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways)
 
 Real session · Henry Coutinho-Mason · Thriving in the AI era · IMEX Frankfurt 2025
-
-## Hear it in another language.
-
-Press play, pick a language, then switch between reading and listening.
-
-[How live translation works](https://www.snapsight.com/snapsight-website-preview/translate)
-
-1 Pick a language
-
-2 Read or listen
-
-You hear the speaker, as the room does.
-
-0:00
-
-**Opening keynote** Español
-
-Buenos días a todos. Miren a su alrededor.
-
-Analizando y traduciendo…
-
-## Try it with your own speech.
-
-Read a real session now, or test your own speaker with us.
-
-### Test it on your own speaker
-
-We run it live with you, in the languages your audience needs.
-
-[Open a real session](https://www.snapsight.com/live-channel/6ec65ea8-b74c-4e27-bf85-78f2b1496a6d/427cfb00-b6c1-4ddf-9eae-e66ccabc9f3a/attendee?tab=takeaways) [Book a live test](https://www.snapsight.com/snapsight-website-preview/contact?interest=translation)
-
-Real session · ICCA Mediterranean and France-Benelux chapter meeting · takeaways in French
 
 ## After the talk, the session keeps working.
 
@@ -61,7 +41,7 @@ Made with Remix from an IMEX session on AI and events.
 
 [Read the report](https://www.snapsight.com/snapsight-website-preview/examples/imex-ai-at-events-report.pdf) [Explore Remix](https://www.snapsight.com/snapsight-website-preview/remix)
 
-[![Ewa Magiera’s Start Small Before Scaling speaker card in London Community Week’s branding.](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+[![Ewa Magiera’s Start Small Before Scaling speaker card in London Community Week’s branding.](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
 
 ### A speaker’s ideas, ready to share
 
@@ -79,19 +59,19 @@ Let’s see what Snapsight could do for the event you’re planning.
 
 ### Can I try Snapsight without booking a demo?
 
-Yes. The experience page opens a real event session on your phone with no form and no app: live text, takeaways, Idea Cloud and summary, in the language you pick.
+Yes. Start the live demo on the experience page: pick an audio source, the speaker’s language and up to three translations. It takes about five minutes and needs no credit card.
 
-### Is this a real session?
+### What audio can I use in the demo?
 
-Yes. It is Henry Coutinho-Mason’s session “Thriving in the AI era” at IMEX Frankfurt 2025, as attendees saw it.
+Your microphone, a YouTube video or one of the sample conference talks. On a phone the demo offers what the phone can capture: the microphone on an iPhone, the microphone or a sample talk on Android.
 
-### Can I test Snapsight with my own speaker?
+### Can I see a real event session too?
 
-Yes. Snapsight runs it live with you, in the languages your audience needs, so you can judge it on your own audio and terms.
+Yes. The experience page also opens Henry Coutinho-Mason’s session “Thriving in the AI era” at IMEX Frankfurt 2025, as attendees saw it: live text, takeaways, Idea Cloud and summary, with no form and no app.
 
 ### Can I try it at my own event for free?
 
-Yes. Live text and translation are free for every event, one session live at a time, so you can run Snapsight on a real session of your own.
+Yes. Live text and translation are free for every event, so you can run Snapsight on a real session of your own.
 
 ### Can I see what Remix makes?
 

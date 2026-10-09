@@ -2,7 +2,7 @@
 title: "How It Works: Live Translation Setup at Events | Snapsight"
 description: "What it takes to run Snapsight at your event: one audio feed from your sound desk, one QR code per session, and a sound check with our team before doors open."
 canonical: https://www.snapsight.com/snapsight-website-preview/how-it-works
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 How it works · Setup for translation and takeaways
@@ -22,7 +22,7 @@ Set up languages and names, then test the audio together.
 3. **Put up the QR code** Each session has its own link and QR code, for the stage screen, a slide, a badge or print.
 4. **Run the sound check with us** We check the feed, your languages and attendee access with you before doors open.
 
-![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-C7wpPTQo.webp)
+![Close-up of the Snapsight capture screen on a laptop, with Leave Session, Sound Check and Stop Live Capture buttons](https://www.snapsight.com/snapsight-website-preview/assets/audio-feed-laptop-Bf7GySzn.webp)
 
 The Snapsight laptop beside the stage at IMEX Frankfurt
 
@@ -60,11 +60,11 @@ Your AV team sends the mixer feed to a laptop running Snapsight, with a reliable
 
 And the room’s ideas grow on the big screen as the talk goes.
 
-![Snapsight attendee screen showing the live text of the talk in English](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-CMLs9cLm.png)
+![Snapsight attendee screen showing the live text of the talk in English](https://www.snapsight.com/snapsight-website-preview/assets/original-live-en-DoN97rsE.webp)
 
 Real session · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
-![Large LED stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+![Large LED stage screen showing a Snapsight Idea Cloud and QR code, with people walking across the stage in silhouette](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
 **On the big screen** The Idea Cloud and the QR code, on the main screen, LED walls or foyer screens, in your event’s colours. The Meetings Show Asia Pacific
 
@@ -72,14 +72,14 @@ Real session · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
 The takeaways stay available, and feed Remix for your reports and your speakers’ posts.
 
-- ![Snapsight attendee screen with the written summary of an IMEX Frankfurt session](https://www.snapsight.com/snapsight-website-preview/assets/screen-summary-Gj_xup16.webp)
+- ![Snapsight attendee screen with the written summary of an IMEX Frankfurt session](https://www.snapsight.com/snapsight-website-preview/assets/screen-summary-kbvRSBz9.webp)
   
   For attendees
   
   ### Takeaways and summaries stay open.
   
   People who missed a session can catch up afterwards.
-- ![Remix drafting a two-page IMEX partner report from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-CSb4NRYs.webp)
+- ![Remix drafting a two-page IMEX partner report from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-D_u4h-3Q.webp)
   
   For your team
   
@@ -88,7 +88,7 @@ The takeaways stay available, and feed Remix for your reports and your speakers�
   Post-event and sponsor reports, carousels and decks, from your sessions.
   
   [Explore Remix](https://www.snapsight.com/snapsight-website-preview/remix)
-- ![Ewa Magiera’s speaker card from London Community Week, made with Speaker Remix](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+- ![Ewa Magiera’s speaker card from London Community Week, made with Speaker Remix](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)
   
   For your speakers
   
@@ -128,7 +128,7 @@ Accuracy follows the audio, the accent and the language. Snapsight’s 97% Engli
 
 ### Can Snapsight run in several rooms at once?
 
-Free runs one live session at a time. The $199 Engage event pass covers up to 10 rooms for up to 7 days, and for larger programmes Snapsight prices Enterprise with you.
+Free covers every room at once, up to 100 sessions a year. The $299 Engage event pass lifts that cap for the event and adds your branding, sponsor logos and Q&A moderation; for larger programmes Snapsight prices Enterprise with you.
 
 ### Does it work for online and hybrid sessions?
 

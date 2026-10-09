@@ -2,7 +2,7 @@
 title: "CityDNA Conference 2025: 65% Used It, Team of 4 | Snapsight"
 description: "Transcripts, summaries and translation across 15+ sessions, with a QR code printed on every badge."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ Transcripts, summaries and translation across 15+ sessions, with a QR code print
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A phone showing Snapsight’s Takeaways tab, held up in a full conference room at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-CFu9_5FA.webp)
+![A phone showing Snapsight’s Takeaways tab, held up in a full conference room at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-m1xcGCr6.webp)
 
 ## The story
 
@@ -47,7 +47,7 @@ people on the organising team
 
 ## What it looked like on the day.
 
-![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp) ![Cover of the CityDNA International Conference programme, Beyond Boundaries, Budapest, 9–11 April 2025](https://www.snapsight.com/snapsight-website-preview/assets/citydna-programme-DHuDaG_W.webp)
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-Dy1LKtdw.webp) ![Cover of the CityDNA International Conference programme, Beyond Boundaries, Budapest, 9–11 April 2025](https://www.snapsight.com/snapsight-website-preview/assets/citydna-programme-D_nkYXkt.webp)
 
 CityDNA International Conference 2025 · a still from the published story’s video, and the programme
 

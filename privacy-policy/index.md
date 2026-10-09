@@ -2,7 +2,7 @@
 title: "Privacy Policy | Snapsight"
 description: "Read the Snapsight privacy policy covering how personal data, customer materials, and generated insights are collected, used, secured, and retained responsibly."
 canonical: https://www.snapsight.com/snapsight-website-preview/privacy-policy
-updated: 2026-09-30
+updated: 2026-10-06
 ---
 
 # Privacy Policy

@@ -1,1 +1,0 @@
-const e="/snapsight-website-preview/assets/frankfurt-ideacloud-BD_Bn8Nf.webp",s="/snapsight-website-preview/assets/frankfurt-summary-DlOL3zUN.webp",a="/snapsight-website-preview/assets/frankfurt-takeaways-en-CENgKQ-j.webp";export{e as i,s,a as t};

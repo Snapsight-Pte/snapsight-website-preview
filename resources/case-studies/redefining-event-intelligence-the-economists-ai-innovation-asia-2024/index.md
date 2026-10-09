@@ -2,7 +2,7 @@
 title: "AI Innovation Asia 2024: Same-Day Highlights | Snapsight"
 description: "Economist Impact gave 500 executives summaries of every session by QR code, with real-time translation."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Economist Impact gave 500 executives summaries of every session by QR code, with
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BA2ORsMI.webp)
 
 ## The story
 
@@ -49,7 +49,7 @@ for session highlights, against up to 48 hours for edited recordings
 
 ## What it looked like on the day.
 
-![Delegates at a table in the networking area at AI Innovation Asia 2024, beside a QR code card for the event agenda](https://www.snapsight.com/snapsight-website-preview/assets/economist-qr-card-Cw9M7M8d.webp) ![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DChB0of-.webp)
+![Delegates at a table in the networking area at AI Innovation Asia 2024, beside a QR code card for the event agenda](https://www.snapsight.com/snapsight-website-preview/assets/economist-qr-card-ChjLYuUX.webp) ![An attendee photographs a panel on her phone at AI Innovation Asia 2024](https://www.snapsight.com/snapsight-website-preview/assets/economist-phone-DArU0J7M.webp)
 
 AI Innovation Asia 2024 · from the published story
 

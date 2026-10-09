@@ -2,7 +2,7 @@
 title: "AI for Trade Shows & Exhibitions | Snapsight"
 description: "Every stage’s takeaways on attendees’ phones or in your show app, live translation and sponsor reports. As run at Tech Week Singapore and ATxEnterprise."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/trade-shows
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 AI for trade shows and exhibitions
@@ -13,7 +13,7 @@ Every stage’s takeaways on attendees’ phones, as run at Tech Week Singapore 
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=trade-shows) [Start with free translation](https://www.snapsight.com/signup)
 
-![Panel at ATxEnterprise 2024 with session takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-CwxrHclo.webp)
+![Panel at ATxEnterprise 2024 with session takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/atx-panel-BQSmuP5q.webp)
 
 **400+** sessions[ATxEnterprise 2024](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/atxenterprise-2024-empowering-connections-through-ai)
 
@@ -31,7 +31,7 @@ One attendee’s day Every session, for every attendee
 
 sessions every attendee got, readable in 99 languages
 
-![Idea Cloud of themes from a Meetings Show 2025 session on talent in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
+![Idea Cloud of themes from a Meetings Show 2025 session on talent in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-Byb6v_tF.webp)
 
 One of the 65 · a session’s Idea Cloud
 
@@ -59,11 +59,11 @@ stages, each with its QR code on screen[Tech Week Singapore 2024](https://www.sn
 
 [How it works](https://www.snapsight.com/snapsight-website-preview/how-it-works)
 
-![Tech Week Singapore 2024 stage with Snapsight QR codes on the screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-sl4iSH5f.webp) Tech Week Singapore 2024
+![Tech Week Singapore 2024 stage with Snapsight QR codes on the screens either side](https://www.snapsight.com/snapsight-website-preview/assets/tech-week-stage-Deio9RgG.webp) Tech Week Singapore 2024
 
 Real photos from Tech Week Singapore, ATxEnterprise, IMEX and The Meetings Show. The stops are phases of a typical show day, not one show’s schedule.
 
-![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-BYkzB2-9.webp)
+![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-C_N9TTJo.webp)
 
 > “We’re helping attendees maximize show time by providing quick, accessible session insights while delivering high-level intelligence for global event planners.”
 >
@@ -95,11 +95,11 @@ Post-event and sponsor reports, drafted from what was said on your stages.
 
 Post-event report · IMEX Frankfurt 2025 · 47 pages
 
-![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-DX-7Z_No.webp) Spice and beam, on the cover
+![Strategic Insights from AIME 2025, in partnership with Spice and beam](https://www.snapsight.com/snapsight-website-preview/assets/aime-2025-cover-Dp9qjyrp.webp) Spice and beam, on the cover
 
 Sponsor report · AIME 2025 · partners on the cover
 
-![AIME 2026 one-page insights summary](https://www.snapsight.com/snapsight-website-preview/assets/aime-2026-onepager-CU-jj-XJ.webp)
+![AIME 2026 one-page insights summary](https://www.snapsight.com/snapsight-website-preview/assets/aime-2026-onepager-BcAJ-iV1.webp)
 
 One-pager · AIME 2026
 
@@ -163,7 +163,7 @@ Yes. At Tech Week Singapore 2024, organisers saw which sessions drew the most in
 
 ### What does Snapsight cost for a trade show?
 
-Live text translation is free for every event. The $199 Engage event pass covers up to 10 rooms for up to 7 days, takeaways and reports come with Pro at $149 per session, and bigger shows talk to Snapsight about Enterprise.
+Live text translation is free for every event, in every room. The $299 Engage event pass adds your branding, sponsor logos and Q&A moderation for the whole event; takeaways and reports come with Pro at $249 per session, less in packs; and bigger shows talk to Snapsight about Enterprise.
 
 ---
 

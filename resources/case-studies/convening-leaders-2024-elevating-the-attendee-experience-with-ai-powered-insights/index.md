@@ -2,7 +2,7 @@
 title: "PCMA Convening Leaders 2024: 2,000 Users | Snapsight"
 description: "Real-time summaries and Idea Clouds, including for the Clinton keynote, with takeaways in seven languages."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/convening-leaders-2024-elevating-the-attendee-experience-with-ai-powered-insights/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ Real-time summaries and Idea Clouds, including for the Clinton keynote, with tak
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Convening Leaders 2024 stage with an Idea Cloud and QR code on the big screen](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-stage-B4Mk7EOU.webp)
+![Convening Leaders 2024 stage with an Idea Cloud and QR code on the big screen](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-stage-M2g2h1sG.webp)
 
 ## The story
 
@@ -47,7 +47,7 @@ languages for every takeaway
 
 ## What it looked like on the day.
 
-![President Bill Clinton and Hillary Rodham Clinton on the big screens at PCMA Convening Leaders 2024](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-BYnDPj1c.webp) ![The main stage at PCMA Convening Leaders 2024 in San Diego](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-main-stage-C01A_CfJ.webp)
+![President Bill Clinton and Hillary Rodham Clinton on the big screens at PCMA Convening Leaders 2024](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-DeseGLkQ.webp) ![The main stage at PCMA Convening Leaders 2024 in San Diego](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-main-stage-Qlc6vAda.webp)
 
 PCMA Convening Leaders 2024 · the Clinton keynote and the main stage
 

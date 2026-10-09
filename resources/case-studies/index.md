@@ -2,7 +2,7 @@
 title: "Customer Stories: AI at Economist Impact & More | Snapsight"
 description: "How Economist Impact, Informa Tech, Tech Week Singapore and other organisers use Snapsight for live translation, takeaways, reports and speaker cards."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Customer stories
@@ -19,7 +19,7 @@ Economist Impact gave 500 executives summaries of every session by QR code, with
 
 [Read the story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/redefining-event-intelligence-the-economists-ai-innovation-asia-2024/)
 
-![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BcwBCGCF.webp)
+![A full ballroom at Economist Impact’s AI Innovation Asia 2024 in Singapore](https://www.snapsight.com/snapsight-website-preview/assets/economist-room-BA2ORsMI.webp)
 
 ## Find an event like yours.
 
@@ -91,6 +91,8 @@ BEIA Conference & AGM 2024
 
 ### [One volunteer ran it for the whole conference.](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai/)
 
+**Show all 17 stories**
+
 ## More customer stories
 
 - [Identiverse 2024](https://www.snapsight.com/en/resources/case-studies/snapsight-enhances-identiverse-2024-advancing-content-capture-in-identity-security/)
@@ -102,6 +104,8 @@ BEIA Conference & AGM 2024
 - [Korea MICE Expo 2024](https://www.snapsight.com/en/resources/case-studies/korea-mice-expo-2024/)
 - [TCEB “Model ไมซ์ใหม่” Workshop](https://www.snapsight.com/en/resources/case-studies/snapsight-empowers-multilingual-communication-and-knowledge-sharing-at-tcebs-model-%E0%B9%84%E0%B8%A1%E0%B8%8B%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-workshop/)
 - [IAPCO AM&GA 2025](https://www.snapsight.com/en/resources/case-studies/iapco-amga-2025/)
+
+**Show all 9 stories**
 
 ## What organisers said after the event.
 

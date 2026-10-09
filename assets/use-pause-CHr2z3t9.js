@@ -1,1 +1,0 @@
-import{r as s}from"./index-CLYm5wvK.js";function u(){const[o,e]=s.useState(!1),[n,t]=s.useState(!1);return{paused:o||n,bind:{onPointerEnter:()=>e(!0),onPointerLeave:()=>e(!1),onFocus:()=>t(!0),onBlur:r=>{r.currentTarget.contains(r.relatedTarget)||t(!1)}}}}export{u};

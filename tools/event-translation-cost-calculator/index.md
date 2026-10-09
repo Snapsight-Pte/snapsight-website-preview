@@ -2,7 +2,7 @@
 title: "Event Translation Cost Calculator | Snapsight"
 description: "Estimate what interpreters cost for your event against Snapsight’s AI translation, from published AIIC, UN, EU and US Courts rates. Live text is free."
 canonical: https://www.snapsight.com/snapsight-website-preview/tools/event-translation-cost-calculator
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Cost calculator · Interpreters vs AI translation
@@ -20,15 +20,14 @@ Human interpreters **$25,320–$39,560**
 - Booths, 3 languages × 2 rooms $3,360–$6,000
 - Headsets, 500 × $7 a day $7,000
 
-Snapsight **$559**
+Snapsight **$360**
 
 - Live text, 3 languages Free
 - Voice, 3 languages × 12 sessions × $10 $360
-- Engage pass, 2 rooms in parallel $199
 
-Difference for the same 12 sessions: **$24,761–$39,001**
+Difference for the same 12 sessions: **$24,960–$39,200**
 
-[Discuss this estimate](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation&plan=engage&sessions=12&attendees=500&languages=3&engage-pass=1&estimate=559&currency=USD) [Start free](https://www.snapsight.com/signup)
+[Discuss this estimate](https://www.snapsight.com/snapsight-website-preview/contact?interest=voice-translation&sessions=12&attendees=500&languages=3&estimate=360&currency=USD) [Start free](https://www.snapsight.com/signup)
 
 USD, before tax. Interpreter figures exclude travel, per diems and agency fees. More than 10 rooms or 7 days? [Ask for a quote](https://www.snapsight.com/snapsight-website-preview/contact?interest=enterprise).
 
@@ -52,7 +51,7 @@ Attendees join from a link or a QR code on screen.
 
 From your sound desk. No booths or consoles to build.
 
-![Stage LED screen showing a Snapsight QR code beside an Idea Cloud of session themes](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-C76Cx2wa.webp)
+![Stage LED screen showing a Snapsight QR code beside an Idea Cloud of session themes](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-qr-stage-Bf_PuyZC.webp)
 
 One QR code on the main screen · The Meetings Show Asia Pacific
 
@@ -72,7 +71,7 @@ $10 per language per session of up to 2 hours
 
 **Parallel rooms**
 
-$199 Engage pass, up to 10 rooms and 7 days
+Free, every room: one audio feed and one QR code each
 
 [See pricing](https://www.snapsight.com/snapsight-website-preview/pricing)
 
@@ -108,7 +107,7 @@ Live text is free. Add voice where your audience needs it.
 
 ### What’s the cheapest way to translate a conference into 10 languages?
 
-Live text translation: with Snapsight it is free in up to 10 languages per session, read on attendees’ own phones, one session live at a time. If attendees need to hear the translation, voice is $10 per language per session, so 10 languages across 12 sessions costs $1,200, and the $199 Engage pass covers up to 10 rooms in parallel. Interpreters for the same coverage need at least two per language per booth.
+Live text translation: with Snapsight it is free in up to 10 languages per session, read on attendees’ own phones, in every room at once. If attendees need to hear the translation, voice is $10 per language per session, so 10 languages across 12 sessions costs $1,200. Interpreters for the same coverage need at least two per language per booth.
 
 ### How much does simultaneous interpretation cost?
 
@@ -120,7 +119,7 @@ At least two per language per booth, rotating every 20 to 30 minutes, per AIIC p
 
 ### What does Snapsight cost for the same event?
 
-Live text translation is free in every language. Voice translation, heard through attendees’ own earbuds, is $10 per language per session of up to 2 hours. Free runs one live session at a time; for rooms in parallel, the $199 Engage pass covers up to 10 rooms for up to 7 days, and there is no per-attendee fee.
+Live text translation is free in every language. Voice translation, heard through attendees’ own earbuds, is $10 per language per session of up to 2 hours. Free covers every room at once, and there is no per-attendee fee.
 
 ### When should we still book interpreters?
 

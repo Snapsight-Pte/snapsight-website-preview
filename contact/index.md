@@ -2,7 +2,7 @@
 title: "Contact Snapsight | Book a Demo"
 description: "Talk with Snapsight about your next event. Book a demo, explore platform fit, and get expert guidance on transcription, translation, and event intelligence."
 canonical: https://www.snapsight.com/snapsight-website-preview/contact
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Let’s plan Snapsight for your event.

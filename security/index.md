@@ -2,7 +2,7 @@
 title: "Security & Privacy: SOC 2 Type II, ISO 27001 | Snapsight"
 description: "Your event content, IP included, stays yours: hosted on AWS in Frankfurt, encrypted, never used to train AI. SOC 2 Type II, ISO 27001 and GDPR."
 canonical: https://www.snapsight.com/snapsight-website-preview/security
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Security and data protection for event content
@@ -25,7 +25,7 @@ AES-256 at rest · TLS 1.3 in transit
 
 What happens to a session’s audio, text and translations.
 
-![A laptop at the sound desk running Snapsight live text, beside a microphone, at The Meetings Show London](https://www.snapsight.com/snapsight-website-preview/assets/sound-desk-meetings-show-SrKxpo1O.webp)
+![A laptop at the sound desk running Snapsight live text, beside a microphone, at The Meetings Show London](https://www.snapsight.com/snapsight-website-preview/assets/sound-desk-meetings-show-BPiWjHSH.webp)
 
 **Sound desk** One audio feed from the room.
 
@@ -41,7 +41,7 @@ Hosted on AWS in Frankfurt
 
 Language models, named below
 
-![Snapsight attendee screen with live text in Spanish for the session “The Future is Yesterday”](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-Bqv5Sria.webp)
+![Snapsight attendee screen with live text in Spanish for the session “The Future is Yesterday”](https://www.snapsight.com/snapsight-website-preview/assets/spanish-live-text-D2vzQWqN.webp)
 
 **Attendee’s phone** Opens in the browser. No app.
 

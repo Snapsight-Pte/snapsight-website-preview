@@ -2,7 +2,7 @@
 title: "AI for Association Conferences | Snapsight"
 description: "Live takeaways in your conference app, a report for members afterwards, and a setup one volunteer can run. As used by AICPA & CIMA, FIP and CityDNA."
 canonical: https://www.snapsight.com/snapsight-website-preview/solutions/associations
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 AI for association conferences
@@ -13,7 +13,7 @@ Live takeaways in your app and a report afterwards, as run for FIP, AICPA & CIMA
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=event&type=associations) [Start with free translation](https://www.snapsight.com/signup)
 
-![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-DcW5h9bR.webp)
+![A CityDNA session in Budapest with the Snapsight QR code on the screen beside the stage](https://www.snapsight.com/snapsight-website-preview/assets/citydna-session-Dy1LKtdw.webp)
 
 **65%** of attendees used Snapsight[CityDNA International Conference 2025](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
 
@@ -49,11 +49,11 @@ of attendees used Snapsight[CityDNA International Conference 2025](https://www.s
 
 [Takeaways](https://www.snapsight.com/snapsight-website-preview/takeaways)
 
-![An attendee reads a Snapsight session summary on her phone at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-CFu9_5FA.webp) CityDNA International Conference 2025 · Budapest
+![An attendee reads a Snapsight session summary on her phone at the CityDNA conference](https://www.snapsight.com/snapsight-website-preview/assets/citydna-phone-m1xcGCr6.webp) CityDNA International Conference 2025 · Budapest
 
 Real photos from CityDNA, PCMA, UFI and ICCA, and a page of the ASAE survey report. The stops are phases of a typical congress, not one event’s schedule.
 
-![Bill and Hillary Clinton on the screens at the PCMA Convening Leaders 2024 keynote](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-BYnDPj1c.webp)
+![Bill and Hillary Clinton on the screens at the PCMA Convening Leaders 2024 keynote](https://www.snapsight.com/snapsight-website-preview/assets/pcma-cl-clinton-keynote-DeseGLkQ.webp)
 
 > “That AI summary is really awesome, so useful when you are inundated with so much information & stimuli at live events.”
 >
@@ -102,11 +102,11 @@ The section on member experience
 
 Post-event report · Association Focus @ IMEX Frankfurt 2025
 
-![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-CrfXnUiB.webp)
+![Sentiment analysis by job function from the ASAE AI adoption survey report](https://www.snapsight.com/snapsight-website-preview/assets/asae-sentiment-DOzRtVZP.webp)
 
 Sentiment by job function · ASAE AI adoption survey
 
-![10 insights from IAPCO EDGE Stockholm, a LinkedIn carousel](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-DWPnYYk_.webp)
+![10 insights from IAPCO EDGE Stockholm, a LinkedIn carousel](https://www.snapsight.com/snapsight-website-preview/assets/iapco-slide-1-ryWbqfW0.webp)
 
 LinkedIn carousel · IAPCO EDGE Stockholm
 
@@ -144,7 +144,7 @@ sessions captured with no one monitoring
 
 [BEIA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/driving-event-innovation-how-beia-transformed-content-engagement-with-ai) [CityDNA story](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/citydna-international-conference-budapest-2025)
 
-![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-Ck-Hf6UC.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-CWiIKrJJ.webp)
+![A screen at the venue entrance with the Snapsight QR code for the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-screen-DXgeniBa.webp) ![Table information sheet with Snapsight QR codes at the BEIA Conference](https://www.snapsight.com/snapsight-website-preview/assets/beia-flyer-B4uIl6Gf.webp)
 
 > “I would 100% recommend it. It was great. I think it’s a great addition.”
 >

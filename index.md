@@ -2,10 +2,8 @@
 title: "Snapsight | AI Translation, Takeaways & Content for Events"
 description: "Live translation and key takeaways on every attendee’s phone, then reports, posts and speaker cards from the same sessions. Live text translation is free."
 canonical: https://www.snapsight.com/snapsight-website-preview/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
-
-For the people at your event. And the team behind it.
 
 # Live translation. Takeaways. Remix.
 
@@ -13,26 +11,113 @@ Give attendees the key points in their language. Turn the same sessions into pos
 
 [See it in action](https://www.snapsight.com/snapsight-website-preview/experience) [Start free](https://www.snapsight.com/signup)
 
-How Snapsight works: an attendee scans the session QR code and gets live text, translation, Q&A, takeaways and a summary. Everything captured flows into Remix, which turns it into a recap deck, LinkedIn posts and a newsletter.
+Back to projects IMEX
 
-Trusted by event teams around the world
+Home Sessions Speakers Remix Deployments Settings
 
-- Siemens
-- The Economist
-- AICPA
-- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
-- ISPOR
-- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
-- PCMA
+5 sessions remaining
+
+0 used5
+
+Buy sessions
+
+Get Started Guide Support Trust Center Book a Demo NNorthwind Events Pro
+
+### remix
+
+12/12 sessions captured Regenerate remixes Customize your brand
+
+**All Remixes**
+
+View All
+
+Recap deck Created just now
+
+Infographic Created just now
+
+Inspiration Hub 2026
+
+Six moves for your next event **Make the ideas useful.**
+
+1. 1 Map the work.
+2. 2 Build a daily habit.
+3. 3 Rethink the roles.
+4. 4 Choose an outcome.
+5. 5 Connect your tools.
+6. 6 Invite more ideas.
+
+Speaker cards Created just now
+
+LinkedIn post Created just now
+
+EM **Ewa Magiera** Speaker · London Community Week
+
+My advice: start small before scaling.
+
+Carousel Created just now
+
+One-pager Created just now
+
+9:41
+
+Competing on data, not budget
+
+Live Text Insights Q&A
+
+Idea Cloud Key Takeaways Summary
+
+Competing on data, not budget Visitor data as a growth strategy Resident-led tourism planning AI forecasting of demand peaks Why smaller destinations win Year-round travel Local partner networks Spreading visits across the year Booking signals Measuring visitor impact Tourism plans that last Event calendars Sharing data with partners Sustainable growth
+
+AI-generated content may contain mistakes.
+
+9:41
+
+Live Text Insights Q&A
+
+Good morning, everyone. Thanks for being here so early.
+
+If you look at last year's numbers, the cities that grew fastest weren't the biggest spenders.
+
+Listening...
+
+Listen to this session in Original language
+
+Session insights at a glance
+
+Visualising idea cloud
+
+Live text, translation and audio
+
+Transcribing audio
+
+Create post‑event content
+
+One-pager generated
+
+- Google
 - IMEX
-- ICCA
 - ![The Meetings Show](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-logo-BOa5ll7H.webp)
+- Siemens
+- ICCA
+- The Economist
 - ASAE
-- NorthStar
+- PCMA
+- ![Cvent Accelerate](https://www.snapsight.com/snapsight-website-preview/assets/cvent-accelerate-logo-CHypMIyd.webp)
+- AICPA
+- Northstar
+- ![Techweek](https://www.snapsight.com/snapsight-website-preview/assets/techweek-logo-BWOiTjJf.webp)
+- ![Trimble](https://www.snapsight.com/snapsight-website-preview/assets/trimble-C5GtSIRc.svg)
 - Freeman
 - Encore
-- Showgear Productions
+- ![UN Global Compact](https://www.snapsight.com/snapsight-website-preview/assets/global-compact-DOhaiN6T.svg)
+- ![PATA](https://www.snapsight.com/snapsight-website-preview/assets/pata-logo-CuCaBuXr.webp)
+- ISPOR
+- ![ICC Sydney](https://www.snapsight.com/snapsight-website-preview/assets/icc-sydney-Bn8CCQ5F.svg)
+- ![Poland Convention Bureau](https://www.snapsight.com/snapsight-website-preview/assets/poland-convention-bureau-logo-B8fLwrfe.webp)
 - Visit Orlando
+- ![London Community Week](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-BmxDlin2.png)
+- ![Michigan Works](https://www.snapsight.com/snapsight-website-preview/assets/michigan-works-P524XWSA.png)
+- Showgear Productions
 
 ## Live translation. Free for every event.
 
@@ -159,7 +244,7 @@ Snapsight protects your content from the moment it is captured. Free translation
 
 [Explore security](https://trust.snapsight.com/)
 
- ![Snapsight enterprise security: ISO 27001, GDPR, SOC 2 Type II and WCAG 2.1](https://www.snapsight.com/snapsight-website-preview/assets/enterprise-graphic-DECaoMyL.webp)
+ ![Snapsight enterprise security: ISO 27001, GDPR, SOC 2 Type II and WCAG 2.1](https://www.snapsight.com/snapsight-website-preview/assets/enterprise-graphic-BVGbgMFF.webp)
 
 Your next event
 
@@ -181,7 +266,7 @@ Event organisers of every kind: trade shows and exhibitions, conferences and con
 
 ### Is Snapsight free to use at an event?
 
-Live text translation is free for every event, with no trial clock: unlimited sessions and hours, one session live at a time, and up to 10 languages per session. Voice translation is $10 per language per session. Live takeaways, summaries and transcript downloads come with Pro at $149 per session, and the Engage event pass is $199 for up to 10 rooms.
+Live text translation is free for every event, with no trial clock: every room at once, up to 10 languages per session, and 100 sessions a year. Voice translation is $10 per language per session. Live takeaways, summaries and transcript downloads come with Pro at $249 per session, less in packs, and the $199 Engage event pass adds your branding, sponsor logos and Q&A moderation across the whole event.
 
 ### How is Snapsight different from a translation app or an AI notetaker?
 

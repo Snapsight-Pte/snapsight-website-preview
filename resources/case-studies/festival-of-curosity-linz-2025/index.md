@@ -2,7 +2,7 @@
 title: "Festival of Curiosity: 2 People, 130+ Activities | Snapsight"
 description: "A two-person team captured a bilingual festival in German and English, Austrian dialect included."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/festival-of-curosity-linz-2025/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -15,7 +15,7 @@ A two-person team captured a bilingual festival in German and English, Austrian 
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Festival of Curiosity key visual: two people tossing cubes on a factory rooftop, with a 23–24 May 2025 date card](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-BCjT8DQN.webp)
+![Festival of Curiosity key visual: two people tossing cubes on a factory rooftop, with a 23–24 May 2025 date card](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-site-D0kHlWfO.webp)
 
 ## The story
 
@@ -51,7 +51,7 @@ into a session before takeaways appear
 
 ## What it looked like on the day.
 
-![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-ByfxMtkd.webp)
+![Visitors at tables outside Tabakfabrik Linz during the Festival of Curiosity](https://www.snapsight.com/snapsight-website-preview/assets/festival-curiosity-grounds-BR8owmCJ.webp)
 
 Festival of Curiosity · from the published story
 

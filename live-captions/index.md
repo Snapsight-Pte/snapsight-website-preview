@@ -2,7 +2,7 @@
 title: "Live Captions for Events & Conferences | Snapsight"
 description: "Real-time captions of every session on each attendee’s own phone, in the speaker’s language or translated into theirs. No app, and free for every event."
 canonical: https://www.snapsight.com/snapsight-website-preview/live-captions
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Live captions for events and conferences
@@ -13,7 +13,7 @@ Live captions of every session on attendees’ own phones, in the speaker’s la
 
 [See it in action](https://www.snapsight.com/snapsight-website-preview/experience) [Start free](https://www.snapsight.com/signup)
 
-![Snapsight attendee screen showing a keynote as live English captions](https://www.snapsight.com/snapsight-website-preview/assets/english-live-text-D9hTO-90.webp)
+![Snapsight attendee screen showing a keynote as live English captions](https://www.snapsight.com/snapsight-website-preview/assets/english-live-text-Bm2rTQwy.webp)
 
 The attendee view in Snapsight · live text on their phone
 
@@ -51,7 +51,7 @@ Live captions, translated captions, voice and transcripts
 | Translated captions | Sometimes called live subtitles: the same words translated into another language as they are spoken. | Free as live text translation, up to 10 languages per session. |
 | Voice translation | The talk spoken aloud in another language, through the attendee’s own earbuds. | $10 per language per session, with captions included. |
 | Room-screen captions | The live text shown full screen on a stage display, TV or monitor, for everyone in the room. | Presentation Mode: high contrast, readable at a distance. |
-| Transcript | The full text of the session, to keep and search afterwards. | Transcript and subtitle downloads with Pro, $149 per session. |
+| Transcript | The full text of the session, to keep and search afterwards. | Transcript and subtitle downloads with Pro, $249 per session or less in packs. |
 
 Real session text · Henry Coutinho-Mason · IMEX Frankfurt 2025
 
@@ -73,7 +73,7 @@ Best for requested accommodations and sessions that need a human check.
 
 ### Snapsight live captions
 
-AI writes them from the room’s audio feed, in every room that has one; Engage covers up to 10 at once. Turned on per session and free for every event, in the spoken language or translated into the attendee’s.
+AI writes them from the room’s audio feed, in every room that has one, all at once. Turned on per session and free for every event, in the spoken language or translated into the attendee’s.
 
 Best for every session, for anyone who follows better by reading.
 
@@ -132,13 +132,13 @@ Free for every event, with no trial clock. Prices in USD, before tax.
 
 $0 every event
 
-Live captions and text translation: unlimited sessions and hours, one session live at a time, up to 10 languages per session.
+Live captions and text translation: every room at once, up to 10 languages per session, up to 100 sessions a year.
 
 ### Engage
 
-$199 / event
+$299 / event
 
-Captions in up to 10 rooms at once, for up to 7 days.
+Your branding and sponsor logos on the captions, with Q&A moderation and analytics for every room of the event.
 
 ### Voice
 
@@ -148,7 +148,7 @@ Attendees hear the talk in their language, with captions included.
 
 ### Pro
 
-$149 / session
+$249 / session
 
 Transcript and subtitle downloads, live takeaways and session summaries.
 
@@ -174,7 +174,7 @@ Yes. Presentation Mode puts the live text full screen on a stage display, TV or 
 
 ### Are live captions free?
 
-Yes. Snapsight’s live captions and text translation are free for every event: unlimited sessions and hours, one session live at a time, and up to 10 languages per session. The $199 Engage pass covers up to 10 rooms at once, and transcript downloads come with Pro.
+Yes. Snapsight’s live captions and text translation are free for every event: every room at once, up to 10 languages per session, and 100 sessions a year. The $299 Engage pass puts your branding and sponsor logos on the captions, and transcript downloads come with Pro.
 
 ### How accurate are AI live captions?
 
@@ -198,7 +198,7 @@ Add speaker names, sponsor brands, drug names and acronyms as custom vocabulary 
 
 ### Can we download the captions as a transcript or subtitle file?
 
-Yes, with Snapsight Pro. Transcript and subtitle downloads are included for purchased Pro sessions at $149 per session of up to 2 hours; Free and Engage are for following live.
+Yes, with Snapsight Pro. Transcript and subtitle downloads are included for purchased Pro sessions at $249 per session of up to 2 hours, less in packs; Free and Engage are for following live.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "IMEX America 2024: Session Takeaways in the App | Snapsight"
 description: "Session takeaways in the IMEX app for a show with 15,800 participants and 85,000 meetings."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/snapsight-imex-america/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Session takeaways in the IMEX app for a show with 15,800 participants and 85,000
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-BYkzB2-9.webp)
+![Screen at IMEX America 2024: “Taking a breather? We’ve got the event covered.” with a Snapsight QR code](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-qr-screen-C_N9TTJo.webp)
 
 ## The story
 
@@ -63,7 +63,7 @@ meetings competing with the education programme
 
 ## What it looked like on the day.
 
-![Attendees after a session at IMEX America 2024, with a thank-you screen and QR code at the front of the room](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-room-CIO_gWG_.webp) ![The Snapsight and Spark stand on the IMEX America 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-booth-DeQ8f63w.webp) ![Attendees in the corridors at IMEX America 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-venue-P-KFW8TG.webp)
+![Attendees after a session at IMEX America 2024, with a thank-you screen and QR code at the front of the room](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-room-eufxIwCR.webp) ![The Snapsight and Spark stand on the IMEX America 2024 show floor](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-booth-DYRNJh5L.webp) ![Attendees in the corridors at IMEX America 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-america-venue-9RfdwALt.webp)
 
 IMEX America 2024 · photos from the published story
 

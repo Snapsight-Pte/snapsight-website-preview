@@ -2,7 +2,7 @@
 title: "Subscription Agreement | Snapsight"
 description: "Read the Snapsight subscription agreement, including plan terms, session credits, intellectual property, service scope, and customer obligations in detail."
 canonical: https://www.snapsight.com/snapsight-website-preview/subscription-agreement
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Subscription Agreement

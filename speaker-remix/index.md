@@ -2,7 +2,7 @@
 title: "Speaker Cards & Social Posts for Events | Snapsight"
 description: "Every speaker gets a branded card with their best point and a LinkedIn post they can edit, made from their own session. Your event reaches their network."
 canonical: https://www.snapsight.com/snapsight-website-preview/speaker-remix
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Speaker Remix · Speaker cards and LinkedIn posts
@@ -29,7 +29,7 @@ Doing it by hand means rewatching every talk, pulling lines, writing captions an
 
 London Community Week made a card for all 49 of its speakers.
 
-![Six real Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-q0RYqOra.webp)
+![Six real Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-WBGU1OdK.webp)
 
 Real cards · London Community Week 2026
 
@@ -41,7 +41,7 @@ Real Ewa Magiera card · example post and reactions · real posts are below
 
 ## One card carries the speaker, your event and your sponsors.
 
-![Ewa Magiera’s real Speaker Remix card from London Community Week 2026: her takeaway, her name and role, the event identity and sponsor marks](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-BUQk4nYW.webp)
+![Ewa Magiera’s real Speaker Remix card from London Community Week 2026: her takeaway, her name and role, the event identity and sponsor marks](https://www.snapsight.com/snapsight-website-preview/assets/speaker-card-DoNO_ihn.webp)
 
 Ewa Magiera · London Community Week 2026
 
@@ -73,7 +73,7 @@ No design work for your team, and no chasing speakers for posts.
 
 ## What happened at London Community Week.
 
-![London Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-BmxDlin2.png)
+![London Community Week logo](https://www.snapsight.com/snapsight-website-preview/assets/community-week-logo-DEZTMyp5.webp)
 
 > “What impressed me most was how easy Remix made it for speakers themselves to jump in. Combined with our social team generating endless variations from each session, we kept London Community Week 2026’s momentum alive for weeks afterward.”
 
@@ -93,7 +93,7 @@ visible engagements across three Pages
 
 reposts into new networks
 
-![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-jUFZa59U.webp)
+![Speaker card for Annamaria Isnard of AstraZeneca, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-annamaria-isnard-BODON1GQ.webp)
 
 **London Community Week** on LinkedIn
 
@@ -101,13 +101,13 @@ Scaling community starts with keeping people at the centre. At London Community 
 
 17 July 2026 · 36 reactions [View the post by London Community Week on LinkedIn](https://www.linkedin.com/posts/london-community-week_scaling-community-starts-with-keeping-people-activity-7483822286731599873-GwP9)
 
-![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-Dbt_8z6t.webp)
+![Speaker card for Jillian Bejtlich of Tines, The Half-Life Problem: Your Members Are Decaying on Schedule, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-jillian-bejtlich-CH_k6ysw.webp)
 
 Your members are decaying on schedule. It might sound surprising, but Jillian Bejtlich's session at London Community Week challenged us to rethink member retention through the lens of science — and what that means for building healthier, longer-lasting communities. Thank you, Jillian, for sharing this thought-provoking perspective with our community. 💜 And thank you to Snapsight for helping us capture and revisit these insights. 🙌
 
 10 July 2026 · 18 reactions [View the post by London Community Week on LinkedIn](https://www.linkedin.com/posts/london-community-week_your-members-are-decaying-on-schedule-it-activity-7481357528942133248-Duqa)
 
-![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-Uf6DClYO.webp)
+![Speaker card for Francisco Opazo, Founder at Led by Community, London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/lcw-post-francisco-opazo-BNpuX2u1.webp)
 
 **Community Week** on LinkedIn
 

@@ -2,7 +2,7 @@
 title: "The Meetings Show APAC: Takeaways to White Paper | Snapsight"
 description: "Takeaways flashed on screen after every main-stage session, then shared with the whole community as a white paper."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/the-meetings-show-apac-revolutionizing-event-experiences-with-real-time-insights/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Takeaways flashed on screen after every main-stage session, then shared with the
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Panel on stage at The Meetings Show APAC with live takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-DYOdNJRr.webp)
+![Panel on stage at The Meetings Show APAC with live takeaways and a QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-B8TZ3sur.webp)
 
 ## The story
 
@@ -57,11 +57,11 @@ main-stage sessions captured, with no extra setup
 
 ## What it looked like on the day.
 
-![A panel on the main stage at The Meetings Show APAC, with a session takeaway and the Snapsight QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-panel-DdBVRlYv.webp)
+![A panel on the main stage at The Meetings Show APAC, with a session takeaway and the Snapsight QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-panel-Cj-RbL1Z.webp)
 
 The Meetings Show APAC 2024 · a still from the published story’s video, and the white paper embedded in it
 
-- ![Cover of the white paper Asia Pacific’s role in recasting the global MICE sector, produced by Snapsight with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-white-paper-CuriJQ5A.webp)
+- ![Cover of the white paper Asia Pacific’s role in recasting the global MICE sector, produced by Snapsight with Northstar Meetings Group](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-white-paper-C3clTMuS.webp)
   
   White paper · The Meetings Show APAC 2024
 

@@ -2,7 +2,7 @@
 title: "Terms of Use | Snapsight"
 description: "Review Snapsight terms of use, acceptable use policies, account responsibilities, and service conditions for using the Snapsight platform and website."
 canonical: https://www.snapsight.com/snapsight-website-preview/terms-and-conditions
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Terms of Use

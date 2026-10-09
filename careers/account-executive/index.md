@@ -2,7 +2,7 @@
 title: "Account Executive | Careers at Snapsight"
 description: "Own the sales conversation from discovery to a signed agreement. Help event organisers see what Snapsight can do for their audience, their content and their next event."
 canonical: https://www.snapsight.com/snapsight-website-preview/careers/account-executive
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 [All open roles](https://www.snapsight.com/snapsight-website-preview/careers#open-roles)

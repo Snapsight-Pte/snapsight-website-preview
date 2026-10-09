@@ -2,7 +2,7 @@
 title: "Full Stack Engineer | Careers at Snapsight"
 description: "Build the software behind Snapsight’s live and post-event experience. Take useful product ideas from interface and API through to reliable production behaviour."
 canonical: https://www.snapsight.com/snapsight-website-preview/careers/full-stack-engineer
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 [All open roles](https://www.snapsight.com/snapsight-website-preview/careers#open-roles)

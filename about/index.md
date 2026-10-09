@@ -2,7 +2,7 @@
 title: "About Snapsight | The Team Building AI for Live Events"
 description: "Snapsight is a Singapore-headquartered team building AI for live events: live translation, takeaways and content from every session, for organisers."
 canonical: https://www.snapsight.com/snapsight-website-preview/about
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 About Snapsight
@@ -13,7 +13,7 @@ A Singapore-headquartered team building real-time event intelligence for organis
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact) [See open roles](https://www.snapsight.com/snapsight-website-preview/careers)
 
-![Three people talking in front of a session’s Idea Cloud on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-apac-idea-cloud-BOwjqmrq.webp)
+![Three people talking in front of a session’s Idea Cloud on the main screen at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/meetings-show-apac-idea-cloud-BP1CjOIf.webp)
 
 A session’s Idea Cloud on the main screen · The Meetings Show Asia Pacific, Singapore
 
@@ -44,14 +44,14 @@ Trusted by event teams around the world
 
 Snapsight began with a practical goal: make every session easier to follow while it happens, then make what was said easy to find and use.
 
-1. ![Session takeaways and a QR code on the stage screen at The Meetings Show Asia Pacific 2024](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-DYOdNJRr.webp)
+1. ![Session takeaways and a QR code on the stage screen at The Meetings Show Asia Pacific 2024](https://www.snapsight.com/snapsight-website-preview/assets/tms-apac-stage-B8TZ3sur.webp)
 
    Apr 2024 **The first events**
 
    Business Events Industry Week in Chicago, then The Meetings Show Asia Pacific in Singapore.
 
    [TTGmice](https://www.ttgmice.com/2024/04/17/gevme-unleashes-new-ai-tool-to-transform-conference-insights/)
-2. ![Attendees on the show floor at IMEX Frankfurt 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-CztaaCu1.webp)
+2. ![Attendees on the show floor at IMEX Frankfurt 2024](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-floor-DXNX6ogg.webp)
 
    May 2024 **Launch at IMEX Frankfurt**
 
@@ -76,14 +76,14 @@ Snapsight began with a practical goal: make every session easier to follow while
    The BestCities Global Alliance starts a two-year partnership.
 
    [TTG Associations](https://www.ttgassociations.com/2025/05/23/bestcities-embraces-ai-with-snapsight-to-shape-future-event-engagement/)
-5. ![The Remix workspace, from the launch announcement](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-CwlZi6YU.png)
+5. ![The Remix workspace, from the launch announcement](https://www.snapsight.com/snapsight-website-preview/assets/remix-press-release-oevBF82Z.webp)
 
    May 2026 **Remix launches**
 
    Sessions turned into reports, campaigns and decks in real time.
 
    [PR Newswire](https://www.prnewswire.com/news-releases/snapsight-unveils-remix-turning-live-event-sessions-into-reports-campaigns-and-decks-in-real-time-302769041.html)
-6. ![Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-q0RYqOra.webp)
+6. ![Speaker Remix cards from London Community Week 2026](https://www.snapsight.com/snapsight-website-preview/assets/london-cw-cards-WBGU1OdK.webp)
 
    Jul 2026 **Speaker Remix**
 
@@ -95,21 +95,21 @@ Snapsight began with a practical goal: make every session easier to follow while
 
 The team works on site with the organisers and speakers who use Snapsight.
 
-- ![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-CJ32x7sI.webp)
+- ![Three members of the Snapsight team at the Snapsight and Remix stand at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-stand-team-BOwYAEF3.webp)
   
   At the Snapsight stand · IMEX Frankfurt 2026
   
   ### Stay close to the event floor.
   
   We spend time with organisers, speakers and attendees where Snapsight is used.
-- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-stage-BSEkFD1a.webp)
+- ![A fireside conversation on stage at MOAT London 2026, with a Snapsight slide on the screen](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-stage-C0fVuOC6.webp)
   
   On stage · MOAT London 2026
   
   ### Keep the source visible.
   
   Every insight stays tied to the session, speaker and moment it came from.
-- ![One attendee wearing headphones on a lounge sofa, with two more headsets on the table, at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-headphones-CWfhpf5k.webp)
+- ![One attendee wearing headphones on a lounge sofa, with two more headsets on the table, at IMEX Frankfurt 2026](https://www.snapsight.com/snapsight-website-preview/assets/imex-frankfurt-2026-headphones-m1CTY0ry.webp)
   
   A headphone session in the lounge · IMEX Frankfurt 2026
   
@@ -117,7 +117,7 @@ The team works on site with the organisers and speakers who use Snapsight.
   
   Language, accessibility and format are part of the product from the start.
 
-![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-podium-DcAPt__6.webp)
+![Vamshi Velmajala at the podium at MOAT London 2026](https://www.snapsight.com/snapsight-website-preview/assets/moat-london-2026-podium-CfgAfZzr.webp)
 
 Vamshi Velmajala, Managing Director · MOAT London 2026
 

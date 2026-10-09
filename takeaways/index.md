@@ -1,8 +1,8 @@
 ---
 title: "AI Session Summaries & Live Takeaways for Events | Snapsight"
-description: "Key takeaways land on attendees’ phones while the speaker talks, with an Idea Cloud of themes and a summary when the session ends. $149 a session."
+description: "Key takeaways land on attendees’ phones while the speaker talks, with an Idea Cloud of themes and a summary when the session ends. From $99 a session in packs."
 canonical: https://www.snapsight.com/snapsight-website-preview/takeaways
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 Live takeaways and AI session summaries
@@ -66,7 +66,7 @@ Follow one session live and read the takeaways from the other.
 
 Catch up afterwards on the sessions you missed.
 
-![An attendee photographs a panel on stage, with the Snapsight Idea Cloud and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/phone-filming-panel-BHTN2lqC.webp)
+![An attendee photographs a panel on stage, with the Snapsight Idea Cloud and QR code on the screen behind](https://www.snapsight.com/snapsight-website-preview/assets/phone-filming-panel-BcDklNOa.webp)
 
 ## Every idea, back to who said it.
 
@@ -89,28 +89,28 @@ Takeaway
 
 On stage, in the foyer or outside a full room. It grows as the talk goes.
 
-- ![Snapsight Idea Cloud on the stage screens at Retail Congress MENA](https://www.snapsight.com/snapsight-website-preview/assets/venue-retail-congress-mena-WQBivOgA.webp)
+- ![Snapsight Idea Cloud on the stage screens at Retail Congress MENA](https://www.snapsight.com/snapsight-website-preview/assets/venue-retail-congress-mena-FghUnu6V.webp)
   
   Retail Congress MENA
-- ![Snapsight Idea Cloud on the stage screens at UNBOUND](https://www.snapsight.com/snapsight-website-preview/assets/venue-led-wall-Cc41OF99.webp)
+- ![Snapsight Idea Cloud on the stage screens at UNBOUND](https://www.snapsight.com/snapsight-website-preview/assets/venue-led-wall-CHd6I5VW.webp)
   
   UNBOUND
-- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B7sj92Rf.webp)
+- ![Snapsight Idea Cloud on the stage screens at All My T Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-all-my-t-B-oWy7pu.webp)
   
   All My T Summit
-- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-C10xjsAx.webp)
+- ![Snapsight Idea Cloud on the stage screens at Singapore APEX Business Summit](https://www.snapsight.com/snapsight-website-preview/assets/venue-singapore-apex-BNxC1xPV.webp)
   
   Singapore APEX Business Summit
-- ![Snapsight Idea Cloud on a tablet in front of the stage at UFI European Conference](https://www.snapsight.com/snapsight-website-preview/assets/venue-ufi-tablet-CXdpxkpm.webp)
+- ![Snapsight Idea Cloud on a tablet in front of the stage at UFI European Conference](https://www.snapsight.com/snapsight-website-preview/assets/venue-ufi-tablet-BEyXRyIU.webp)
   
   UFI European Conference
-- ![Snapsight Idea Cloud on the stage screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-jQhn1d3d.webp)
+- ![Snapsight Idea Cloud on the stage screens at ICCA Congress, Abu Dhabi](https://www.snapsight.com/snapsight-website-preview/assets/venue-icca-abu-dhabi-Ck0sjcQu.webp)
   
   ICCA Congress, Abu Dhabi
-- ![Snapsight Idea Cloud on the stage screens at IMEX America, Las Vegas](https://www.snapsight.com/snapsight-website-preview/assets/venue-imex-las-vegas-RX6LB86k.webp)
+- ![Snapsight Idea Cloud on the stage screens at IMEX America, Las Vegas](https://www.snapsight.com/snapsight-website-preview/assets/venue-imex-las-vegas-DRblMaR8.webp)
   
   IMEX America, Las Vegas
-- ![Snapsight Idea Cloud on the stage screens at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/venue-meetings-show-apac-BFS7LtwR.webp)
+- ![Snapsight Idea Cloud on the stage screens at The Meetings Show Asia Pacific](https://www.snapsight.com/snapsight-website-preview/assets/venue-meetings-show-apac-Dt-WpoT0.webp)
   
   The Meetings Show Asia Pacific
 
@@ -142,29 +142,31 @@ Remix turns the same takeaways and quotes into reports, posts and decks. This on
 
 [Explore Remix](https://www.snapsight.com/snapsight-website-preview/remix) [Explore Speaker Remix](https://www.snapsight.com/snapsight-website-preview/speaker-remix)
 
-![Remix drafting a two-page IMEX partner report, AI at Events: From Ideas to Action, from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-CSb4NRYs.webp)
+![Remix drafting a two-page IMEX partner report, AI at Events: From Ideas to Action, from one super session](https://www.snapsight.com/snapsight-website-preview/assets/remix-report-D_u4h-3Q.webp)
 
 Real Remix output · IMEX super session with Henry Coutinho-Mason, Tracy Judge and Vamshi Velmajala
 
 Pro
 
-## $149 a session. Less when you run more.
+## $249 a session. Less when you run more.
 
 Per session, up to 2 hours. Pay per session or buy a pack. Translation stays free.
 
 - Live takeaways and Idea Cloud
 - Session summary
 - Transcript and subtitle downloads
-- 5 Remix credits per session
+- Remix for post-event content
+- Engage for the event, with any pack
+- MCP and API access
 - Free live translation, as always
 
 You pay
 
-**With packs** You save $300 **$1,190**
+**With packs** You save $1,000 **$3,980**
 
-**Per session** 10 × $149 **$1,490**
+**Per session** 20 × $249 **$4,980**
 
-$119 per session · 1 × 10-session pack
+$199 per session · 1 × 20-session pack
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways)
 
@@ -172,7 +174,7 @@ Packs are valid for 12 months. Prices in USD, before tax.
 
 ## Let every attendee leave with the ideas.
 
-$149 a session, with live translation free.
+$249 a session, with live translation free.
 
 ## Frequently asked questions
 
@@ -210,7 +212,7 @@ No. Each session has a link and a QR code that open in the phone’s browser, wi
 
 ### How much do AI session summaries cost?
 
-Snapsight Pro is $149 per session of up to 2 hours, or $119 a session in a pack of 10 and $95 in a pack of 50, valid for 12 months. Pro includes live takeaways, the Idea Cloud, summaries, transcript downloads and a speaker content kit. Live text translation stays free.
+Snapsight Pro is $249 per session of up to 2 hours, or $199, $149 and $99 a session in packs of 20, 50 and 100, valid for 12 months. Pro includes live takeaways, the Idea Cloud, summaries, transcript downloads, Remix for post-event content, and MCP and API access; packs also include Engage for every event they are used at. Live text translation stays free.
 
 ### Can takeaways from a closed session stay private?
 

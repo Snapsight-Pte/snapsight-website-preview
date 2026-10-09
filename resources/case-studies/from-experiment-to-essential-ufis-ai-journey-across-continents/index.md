@@ -2,7 +2,7 @@
 title: "UFI European Conference 2024: Trial to Standard | Snapsight"
 description: "UFI’s own tech team put takeaways into the conference app, with no code."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/from-experiment-to-essential-ufis-ai-journey-across-continents/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ UFI’s own tech team put takeaways into the conference app, with no code.
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-COpwCTya.webp)
+![Session takeaways on a tablet at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-tablet-BmzXUOtH.webp)
 
 ## The story
 
@@ -53,7 +53,7 @@ to put takeaways in the UFI app
 
 ## What it looked like on the day.
 
-![A session’s Idea Cloud on a tablet in front of the stage at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-idea-cloud-BenIvD-F.webp) ![A speaker on the UFI European Conference 2024 stage in Zurich](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-stage-DANyXgmD.webp)
+![A session’s Idea Cloud on a tablet in front of the stage at the UFI European Conference 2024](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-idea-cloud-Cl4M19ez.webp) ![A speaker on the UFI European Conference 2024 stage in Zurich](https://www.snapsight.com/snapsight-website-preview/assets/ufi-europe-stage-Btlsg6Cg.webp)
 
 UFI European Conference 2024 · stills from the videos in the published story
 

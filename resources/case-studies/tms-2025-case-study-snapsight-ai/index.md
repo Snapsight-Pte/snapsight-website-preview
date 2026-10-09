@@ -2,7 +2,7 @@
 title: "The Meetings Show 2025: All 65 Sessions Covered | Snapsight"
 description: "Live text, key takeaways and Idea Clouds for every session on three main stages, readable in 99 languages."
 canonical: https://www.snapsight.com/snapsight-website-preview/resources/case-studies/tms-2025-case-study-snapsight-ai/
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 [Customer stories](https://www.snapsight.com/snapsight-website-preview/resources/case-studies/)
@@ -17,7 +17,7 @@ Live text, key takeaways and Idea Clouds for every session on three main stages,
 
 [Book a demo](https://www.snapsight.com/snapsight-website-preview/contact?interest=takeaways) [Start free](https://www.snapsight.com/signup)
 
-![Idea Cloud from The Meetings Show 2025 session on talent and workforce development in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-CxN32iXf.webp)
+![Idea Cloud from The Meetings Show 2025 session on talent and workforce development in the events industry](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-idea-cloud-Byb6v_tF.webp)
 
 ## The story
 
@@ -53,7 +53,7 @@ total setup time for all 65 sessions
 
 ## What it looked like on the day.
 
-- ![Opening page of The Meetings Show 2025 Playbook, crediting Snapsight for capturing 65 live sessions](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-playbook-D6eWgPmQ.webp)
+- ![Opening page of The Meetings Show 2025 Playbook, crediting Snapsight for capturing 65 live sessions](https://www.snapsight.com/snapsight-website-preview/assets/tms-2025-playbook-D4JPLoz-.webp)
   
   Playbook · The Meetings Show 2025
 
